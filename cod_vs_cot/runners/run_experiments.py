@@ -85,7 +85,7 @@ def build_prompt(task: str, template: str, ex: dict):
 # core runner
 # ---------------------------------------------------------------------------
 
-async def run_task(task, template_path, samples, limit):
+async def run_task(task, template_path, kind, samples, limit):
     ds        = get_dataset(task, limit=limit)
     template  = pathlib.Path(template_path).read_text()
     records   = []
@@ -93,11 +93,17 @@ async def run_task(task, template_path, samples, limit):
     for ex in tqdm(ds, desc=task):
         prompt, gold = build_prompt(task, template, ex)
 
+        # answers, latency = await call_chat(
+        #     prompt,
+        #     n=samples,
+        #     temperature=0 if samples == 1 else 0.7,
+        # )
         answers, latency = await call_chat(
             prompt,
-            n=samples,
-            temperature=0 if samples == 1 else 0.7,
+            mode="cod" if kind == "cod" else "cot",  # ← NEW
+            temperature=0.7,
         )
+
         records.append(
             {
                 "id":       ex.get("id"),
@@ -120,6 +126,7 @@ async def main(args):
             recs = await run_task(
                 task,
                 tpl,
+                kind,
                 args.cod_samples if kind == "cod" else 1,
                 args.limit,
             )

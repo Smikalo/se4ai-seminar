@@ -3,1100 +3,900 @@
     "id": null,
     "prompt": "A man is sitting on a roof. he\n\nChoose the best ending:\nA. is using wrap to wrap a pair of skis.\nB. is ripping level tiles off.\nC. is holding a rubik's cube.\nD. starts pulling up roofing on a roof.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "D. starts pulling up roofing on a roof.",
-      "D. starts pulling up roofing on a roof.",
-      "D. starts pulling up roofing on a roof."
+      "#### B"
     ],
     "gold": "D",
-    "latency": 0.5746109839965357
+    "latency": 1.1083293340052478
   },
   {
     "id": null,
     "prompt": "A lady walks to a barbell. She bends down and grabs the pole. the lady\n\nChoose the best ending:\nA. swings and lands in her arms.\nB. pulls the barbell forward.\nC. pulls a rope attached to the barbell.\nD. stands and lifts the weight over her head.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "D. stands and lifts the weight over her head.",
-      "D. stands and lifts the weight over her head.",
-      "D. stands and lifts the weight over her head."
+      "D. stands and lifts the weight over her head.  \n#### D"
     ],
     "gold": "D",
-    "latency": 0.6206219380110269
+    "latency": 0.817359407999902
   },
   {
     "id": null,
     "prompt": "Two women in a child are shown in a canoe while a man pulls the canoe while standing in the water, with other individuals visible in the background. the child and a different man\n\nChoose the best ending:\nA. are then shown paddling down a river in a boat while a woman talks.\nB. are driving the canoe, they go down the river flowing side to side.\nC. sit in a canoe while the man paddles.\nD. walking go down the rapids, while the man in his helicopter almost falls and goes out of canoehood.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. sit in a canoe while the man paddles.",
-      "C. sit in a canoe while the man paddles.",
-      "C. sit in a canoe while the man paddles."
+      "C. sit in a canoe while the man paddles. \n\n####"
     ],
     "gold": "C",
-    "latency": 0.6316799849882955
+    "latency": 0.8179195400007302
   },
   {
     "id": null,
     "prompt": "A boy is running down a track. the boy\n\nChoose the best ending:\nA. runs into a car.\nB. gets in a mat.\nC. lifts his body above the height of a pole.\nD. stands on his hands and springs.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. lifts his body above the height of a pole.",
-      "C. lifts his body above the height of a pole.",
-      "C. lifts his body above the height of a pole."
+      "#### C"
     ],
     "gold": "C",
-    "latency": 0.6136230690026423
+    "latency": 0.8192881850118283
   },
   {
     "id": null,
     "prompt": "The boy lifts his body above the height of a pole. The boy lands on his back on to a red mat. the boy\n\nChoose the best ending:\nA. turns his body around on the mat.\nB. gets up from the mat.\nC. continues to lift his body over the pole.\nD. wiggles out of the mat.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. gets up from the mat.",
-      "B. gets up from the mat.",
-      "B. gets up from the mat."
+      "B. gets up from the mat. \n\n#### B"
     ],
     "gold": "B",
-    "latency": 0.9217568199965172
+    "latency": 1.078539402995375
   },
   {
     "id": null,
     "prompt": "The boy lands on his back on to a red mat. The boy gets up from the mat. the boy\n\nChoose the best ending:\nA. starts doing spins.\nB. celebrates by clapping and flexing both arms.\nC. is dancing on the mat.\nD. does jump jacks on his stick.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. celebrates by clapping and flexing both arms.",
-      "B. celebrates by clapping and flexing both arms.",
-      "B. celebrates by clapping and flexing both arms."
+      "B. celebrates by clapping and flexing both arms.  \n#### B"
     ],
     "gold": "B",
-    "latency": 0.6138980880059535
+    "latency": 1.6845037869934458
   },
   {
     "id": null,
     "prompt": "A man is standing in front of a camera. He starts playing a harmonica for the camera. he\n\nChoose the best ending:\nA. begins to play the harmonica with his body while looking at the camera.\nB. seems to be singing while playing the harmonica.\nC. rocks back and forth to the music as he goes.\nD. painted a fence in front of the camera.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. rocks back and forth to the music as he goes.",
-      "B. seems to be singing while playing the harmonica.",
-      "A. begins to play the harmonica with his body while looking at the camera."
+      "B. seems to be singing while playing the harmonica.  \n#### B"
     ],
     "gold": "C",
-    "latency": 0.6129123360005906
+    "latency": 0.7239250569982687
   },
   {
     "id": null,
     "prompt": "A cartoon animation video is shown with people wandering around and rockets being shot. two men\n\nChoose the best ending:\nA. fight robots of evil and ends with a to be continued.\nB. are then shown in closeups shooting a shot put.\nC. push a child in a speedboat in the water.\nD. look in the cameraman's eye and smile.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. fight robots of evil and ends with a to be continued.",
-      "A. fight robots of evil and ends with a to be continued.",
-      "A. fight robots of evil and ends with a to be continued."
+      "A. fight robots of evil and ends with a to be continued. \n\n#### A"
     ],
     "gold": "A",
-    "latency": 0.7204950459999964
+    "latency": 1.219158278996474
   },
   {
     "id": null,
     "prompt": "A man is holding a pocket knife while sitting on some rocks in the wilderness. then he\n\nChoose the best ending:\nA. opens a can of oil put oil on the knife, and puts oil on a knife and press it through a can filled with oil then cuts several pieces from the sandwiches.\nB. takes a small stone from the flowing river and smashes it on another stone.\nC. uses the knife to shave his leg.\nD. sand the rocks and tops them by using strong pressure.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. takes a small stone from the flowing river and smashes it on another stone.",
-      "B. takes a small stone from the flowing river and smashes it on another stone.",
-      "B. takes a small stone from the flowing river and smashes it on another stone."
+      "#### B"
     ],
     "gold": "B",
-    "latency": 1.228139283004566
+    "latency": 0.6151792820019182
   },
   {
     "id": null,
     "prompt": "Then he takes a small stone from the flowing river and smashes it on another stone. He starts to crush the small stone to smaller pieces. he\n\nChoose the best ending:\nA. cuts the center stone in half and blow it on to make it bigger.\nB. grind it hard to make the pieces smaller.\nC. eventually brings it back into view and adds it to the smaller ones to make a small triangular shaped piece.\nD. starts to party with them and throw the pieces by hand while they celebrate.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. grind it hard to make the pieces smaller.",
-      "B. grind it hard to make the pieces smaller.",
-      "B. grind it hard to make the pieces smaller."
+      "B. grind it hard to make the pieces smaller.  \n#### B"
     ],
     "gold": "B",
-    "latency": 0.7124839000025531
+    "latency": 0.8166925629921025
   },
   {
     "id": null,
     "prompt": "Then he takes a piece of bark and rubs the powered stone pieces onto it. The stone particles stick to the wet piece of wood. he\n\nChoose the best ending:\nA. uses a small brush to polish one of the stone pieces.\nB. then uses a strip of sealing tape to seal the board and then smooths the bottom of the board.\nC. walks towards the camera.\nD. then takes the knife and sharpens it against the wood piece.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. uses a small brush to polish one of the stone pieces.",
-      "A. uses a small brush to polish one of the stone pieces.",
-      "A. uses a small brush to polish one of the stone pieces."
+      "D"
     ],
     "gold": "D",
-    "latency": 1.375382902988349
+    "latency": 0.7169946180074476
   },
   {
     "id": null,
     "prompt": "The stone particles stick to the wet piece of wood. He then takes the knife and sharpens it against the wood piece. he\n\nChoose the best ending:\nA. then cuts off the excess hair of the wood.\nB. scrapes the wood with a broom in the cutting tool used in sharpening the instrument.\nC. writes on the board again.\nD. then notices a little black and green poisonous frog sitting next to him.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. scrapes the wood with a broom in the cutting tool used in sharpening the instrument.",
-      "B. scrapes the wood with a broom in the cutting tool used in sharpening the instrument.",
-      "A. then cuts off the excess hair of the wood."
+      "D. then notices a little black and green poisonous frog sitting next to him. \n\n####"
     ],
     "gold": "D",
-    "latency": 0.8794010969868395
+    "latency": 0.8167120709986193
   },
   {
     "id": null,
     "prompt": "He then takes the knife and sharpens it against the wood piece. He then notices a little black and green poisonous frog sitting next to him. the frog\n\nChoose the best ending:\nA. eventually gets to get up and marches out of the room waving its body about.\nB. then starts to get up from the chair and begins walking towards the camera.\nC. then escapes and jumps away.\nD. is acting crazy and attacking him while he is cooking.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. then escapes and jumps away.",
-      "C. then escapes and jumps away.",
-      "C. then escapes and jumps away."
+      "C. then escapes and jumps away.  \n####"
     ],
     "gold": "C",
-    "latency": 0.5091384990082588
+    "latency": 0.6160208660003264
   },
   {
     "id": null,
     "prompt": "He then notices a little black and green poisonous frog sitting next to him. The frog then escapes and jumps away. he\n\nChoose the best ending:\nA. sits and hugs another man and also adjusts his camera.\nB. then sits there staring at his text machine as if he has actually been given a gift from god.\nC. explains how the frog secretes a poisonous fluid that can be extremely harmful.\nD. takes the frog on his hand and tickles the back of it.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. explains how the frog secretes a poisonous fluid that can be extremely harmful.",
-      "C. explains how the frog secretes a poisonous fluid that can be extremely harmful.",
-      "C. explains how the frog secretes a poisonous fluid that can be extremely harmful."
+      "C. explains how the frog secretes a poisonous fluid that can be extremely harmful.  \n####"
     ],
     "gold": "C",
-    "latency": 0.948241294012405
+    "latency": 0.9173107899987372
   },
   {
     "id": null,
     "prompt": "A person is playing bagpipes out in a park. A man and two boys watching from a far. the camera\n\nChoose the best ending:\nA. shoots areas all around the park while the bagpipes play.\nB. is covered to the boy that is playing there.\nC. then goes black and we see a black opening scene.\nD. watching the boy and boy as they play a game of drums.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. shoots areas all around the park while the bagpipes play.",
-      "A. shoots areas all around the park while the bagpipes play.",
-      "A. shoots areas all around the park while the bagpipes play."
+      "A. shoots areas all around the park while the bagpipes play. \n\n####"
     ],
     "gold": "A",
-    "latency": 0.6894885850051651
+    "latency": 0.8210712820000481
   },
   {
     "id": null,
     "prompt": "Two people are seen passing a ball back and fourth in a pool and leads into one speaking to the camera. the man\n\nChoose the best ending:\nA. dips the ball and walks back with the boy and pours detergent into a cup again.\nB. then throws the ball into the pool and begins running around with a sail in his hand while a group of men watch.\nC. then takes a drink having a conversation with another man and another man leads into him throwing balls in the water and laughing to the camera.\nD. demonstrates how to properly throw the ball with his hands while still speaking to the camera.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "D. demonstrates how to properly throw the ball with his hands while still speaking to the camera.",
-      "D. demonstrates how to properly throw the ball with his hands while still speaking to the camera.",
-      "D. demonstrates how to properly throw the ball with his hands while still speaking to the camera."
+      "C. then takes a drink having a conversation with another man and another man leads into him throwing balls in the water and laughing to the camera. \n\n####"
     ],
     "gold": "D",
-    "latency": 0.7160143780056387
+    "latency": 1.2298113529977854
   },
   {
     "id": null,
     "prompt": "A woman is sitting at a table in a fast food restaurant while eating. She continually speaks to nobody as she eats. she\n\nChoose the best ending:\nA. is then seen sitting alone as she eats a cold brown ice cream.\nB. pauses in the process of eating to enjoy her food.\nC. stands up and grabs her purse, continuing to talk and laugh as she leaves.\nD. picks up another chocolate bar and chews it as she talks.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. pauses in the process of eating to enjoy her food.",
-      "C. stands up and grabs her purse, continuing to talk and laugh as she leaves.",
-      "C. stands up and grabs her purse, continuing to talk and laugh as she leaves."
+      "C. stands up and grabs her purse, continuing to talk and laugh as she leaves. \n\n#### C"
     ],
     "gold": "C",
-    "latency": 0.8171923299960326
+    "latency": 0.813673138996819
   },
   {
     "id": null,
     "prompt": "A group of cheerleaders run onto a stage before a cheering audience. they\n\nChoose the best ending:\nA. get into formation, then begin dancing and flipping as male cheerleaders join them.\nB. perform a cheer routine before the girls, along with makeup artists, spread out and pose.\nC. take turns jumping on each other like they are performing karate.\nD. are then shown performing the type of cheerleading dance, using batons and pole vaults.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. get into formation, then begin dancing and flipping as male cheerleaders join them.",
-      "A. get into formation, then begin dancing and flipping as male cheerleaders join them.",
-      "A. get into formation, then begin dancing and flipping as male cheerleaders join them."
+      "A. get into formation, then begin dancing and flipping as male cheerleaders join them. \n\n#### A"
     ],
     "gold": "A",
-    "latency": 0.7166064769990044
+    "latency": 0.8188878099899739
   },
   {
     "id": null,
     "prompt": "A group of cheerleaders run onto a stage before a cheering audience. They get into formation, then begin dancing and flipping as male cheerleaders join them. they all\n\nChoose the best ending:\nA. dance and flip on stage while hanging their hats on the sides.\nB. continue dancing and flipping, doing hand springs.\nC. dance together with flip up their sleeves.\nD. perform their routines as the studio rashes to a halt with cheerleaders in the audience.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. continue dancing and flipping, doing hand springs.",
-      "B. continue dancing and flipping, doing hand springs.",
-      "B. continue dancing and flipping, doing hand springs."
+      "B. continue dancing and flipping, doing hand springs. \n\n#### B"
     ],
     "gold": "B",
-    "latency": 0.6145324419921963
+    "latency": 1.2287665799958631
   },
   {
     "id": null,
     "prompt": "They get into formation, then begin dancing and flipping as male cheerleaders join them. They all continue dancing and flipping, doing hand springs. when they\n\nChoose the best ending:\nA. are done, they shake hands and walk away, but cheers are heard all around as they're finished.\nB. are finished, they jump up and down happily and walk off the stage, exhausted.\nC. are done, a male cheerleader is crowned and an instant replay is shown.\nD. come down from their workout, they all stop to bow and applaud, then they continue dancing.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A.",
-      "A.",
-      "A."
+      "B. are finished, they jump up and down happily and walk off the stage, exhausted. \n\n#### B"
     ],
     "gold": "B",
-    "latency": 0.6111668689991347
+    "latency": 0.819710149007733
   },
   {
     "id": null,
     "prompt": "A woman is reading a newspaper nearby while he speaks to her and shows her something in his hand. The man sharpens his knives using an electric tool. he\n\nChoose the best ending:\nA. sharpens and cuts something on a knife board using an electric tool.\nB. then continues cutting his onion.\nC. travels with his knife under the table and uses it also in his shoe.\nD. then shows her a spare knife that he has also used on a knife sharpener and drills into a side of the table.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. then continues cutting his onion.",
-      "B. then continues cutting his onion.",
-      "B. then continues cutting his onion."
+      "B"
     ],
     "gold": "B",
-    "latency": 0.6169625659968005
+    "latency": 0.81827164599963
   },
   {
     "id": null,
     "prompt": "A man is outside of a building. He is using commercial lawn mowing equipment. he\n\nChoose the best ending:\nA. walks back and forth as he mows the grass.\nB. is animated as he does the task.\nC. relaxes, making sure his lawn is pristine.\nD. runs from one side of the building to the other.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. walks back and forth as he mows the grass.",
-      "A. walks back and forth as he mows the grass.",
-      "A. walks back and forth as he mows the grass."
+      "#### A"
     ],
     "gold": "A",
-    "latency": 0.7138328459986951
+    "latency": 0.6132000259967754
   },
   {
     "id": null,
     "prompt": "Children bring desert out for their family member. the family\n\nChoose the best ending:\nA. floats in a river.\nB. member stands looking into a hut and then handing people photographs.\nC. member cuts a piece of sunscreen.\nD. enjoys eating the desert together.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "D. enjoys eating the desert together.",
-      "D. enjoys eating the desert together.",
-      "D. enjoys eating the desert together."
+      "D. enjoys eating the desert together. \n#### D"
     ],
     "gold": "D",
-    "latency": 0.7160598409973318
+    "latency": 0.7176242610003101
   },
   {
     "id": null,
     "prompt": "The family enjoys eating the desert together. The people in the restaurant laugh at the man and he wonders what they are doing. the man\n\nChoose the best ending:\nA. goes to the bathroom and isn't able to get very far.\nB. puts the glass aside and a fourth person walks in and walks away.\nC. plays the bagpipe and smiles and laughs as he enjoys the hospitality.\nD. gets up and walks away to the other room.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "D. gets up and walks away to the other room.",
-      "B. puts the glass aside and a fourth person walks in and walks away.",
-      "D. gets up and walks away to the other room."
+      "C. plays the bagpipe and smiles and laughs as he enjoys the hospitality. \n\n####"
     ],
     "gold": "D",
-    "latency": 0.8185748730029445
+    "latency": 0.6116950410068966
   },
   {
     "id": null,
     "prompt": "A black female is shown in a room with a black scarf around her head. black spots on her faced\n\nChoose the best ending:\nA. are then zoomed in on and she begins to apply something on it.\nB. are shown and she misses a little bit of her swing.\nC. are shown and one finger is seen poking through.\nD. are shown as she continues to dance around on the hardwood and every move makes a lash on her face.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. are then zoomed in on and she begins to apply something on it.",
-      "A. are then zoomed in on and she begins to apply something on it.",
-      "A. are then zoomed in on and she begins to apply something on it."
+      "#### A"
     ],
     "gold": "A",
-    "latency": 0.9197937159915455
+    "latency": 0.6177436690049944
   },
   {
     "id": null,
     "prompt": "A black female is shown in a room with a black scarf around her head. Black spots on her faced are then zoomed in on and she begins to apply something on it. next\n\nChoose the best ending:\nA. , she begins to brush her lips and make painted lips look just like a lipstick to the camera and ends with her closing gift and instruction showing her off at the end.\nB. she is shown in various different locations and gets extremely close to a wall.\nC. , she is shown making multiple moans and sprays some kind of liquid down her face before hanging up.\nD. , she takes some spray and it makes her skin extremely oily and she continues to talk until the video is over.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A.",
-      "A.",
-      "A."
+      "#### A"
     ],
     "gold": "D",
-    "latency": 0.5113028269988718
+    "latency": 0.8141245980077656
   },
   {
     "id": null,
     "prompt": "A helicopter flies in some people who then start playing paintball. they\n\nChoose the best ending:\nA. run around obstacles and have a great time.\nB. lose their shirt during the fight and run back the others.\nC. shoot at each other while the helicopter drone who am looking on.\nD. chase a bird in the sky while others walk around.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. run around obstacles and have a great time.",
-      "A. run around obstacles and have a great time.",
-      "A. run around obstacles and have a great time."
+      "A. run around obstacles and have a great time.  \n#### A"
     ],
     "gold": "A",
-    "latency": 0.7166887490020599
+    "latency": 0.9226556119974703
   },
   {
     "id": null,
     "prompt": "A young boy and girl are standing over a sink with their mother talking. the mother\n\nChoose the best ending:\nA. is now putting lipstick on the boy's mouth and he tries to stop her but only gets a little bit stuck.\nB. washes the boy while the child grabs shampoo.\nC. shows some shaving cream on the boy who is scrubbing her brushes.\nD. instructs them on how to brush their teeth while laughing.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "D. instructs them on how to brush their teeth while laughing.",
-      "D. instructs them on how to brush their teeth while laughing.",
-      "D. instructs them on how to brush their teeth while laughing."
+      "D. instructs them on how to brush their teeth while laughing. \n\n#### D"
     ],
     "gold": "D",
-    "latency": 0.7163866659975611
+    "latency": 0.8217233029863564
   },
   {
     "id": null,
     "prompt": "A young boy and girl are standing over a sink with their mother talking. The mother instructs them on how to brush their teeth while laughing. the boy\n\nChoose the best ending:\nA. puts a shirt on and rubs his mouth.\nB. helps his younger sister brush his teeth.\nC. walks with an empty mouthwash cup on a sink floor.\nD. and girl then begin working out.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. helps his younger sister brush his teeth.",
-      "B. helps his younger sister brush his teeth.",
-      "B. helps his younger sister brush his teeth."
+      "B. helps his younger sister brush his teeth.  \n####"
     ],
     "gold": "B",
-    "latency": 0.718958144003409
+    "latency": 0.6103271940082777
   },
   {
     "id": null,
     "prompt": "The mother instructs them on how to brush their teeth while laughing. The boy helps his younger sister brush his teeth. she\n\nChoose the best ending:\nA. shows how to hit the mom and then kiss his dad as well.\nB. brushes past the camera, looking better soon after.\nC. glows from the center of the camera as a reaction.\nD. gets them some water to gargle in their mouths.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "D. gets them some water to gargle in their mouths.",
-      "D. gets them some water to gargle in their mouths.",
-      "D. gets them some water to gargle in their mouths."
+      "D. gets them some water to gargle in their mouths.  \n####"
     ],
     "gold": "D",
-    "latency": 0.8181775200064294
+    "latency": 0.9197147929953644
   },
   {
     "id": null,
     "prompt": "She gets them some water to gargle in their mouths. The boy and girl begin playing in the sink. the woman\n\nChoose the best ending:\nA. shakes her head in disbelief and waves at her.\nB. laughs at the children dribbling water.\nC. comes back and talks to the boys.\nD. gets some food out of the fridge and they continue playing together.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. laughs at the children dribbling water.",
-      "B. laughs at the children dribbling water.",
-      "B. laughs at the children dribbling water."
+      "B"
     ],
     "gold": "B",
-    "latency": 0.7145771100040292
+    "latency": 0.6174820450105472
   },
   {
     "id": null,
     "prompt": "A cat is sitting in a cat bed. It is licking its paw. it\n\nChoose the best ending:\nA. then wipes its paw on its ear.\nB. crawls to the door.\nC. 's laying down about six inches away from the camera.\nD. crawls on one foot to get closer to the camera.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. 's laying down about six inches away from the camera.",
-      "C. 's laying down about six inches away from the camera.",
-      "C"
+      "A. then wipes its paw on its ear. \n\n#### A"
     ],
     "gold": "A",
-    "latency": 0.61107137799263
+    "latency": 0.7115657239919528
   },
   {
     "id": null,
     "prompt": "A man in brown jacket is pulling out an arrow from the target board, then he was talking to the camera, then he pull out his bow and started to use it with his bow to hit the target board, he fired his bows several times. the man\n\nChoose the best ending:\nA. played paper if and shoot the arrows to hit the target, then he hang from the board with his bow and arrow.\nB. went to the target board and talked to the camera.\nC. eventually throw the arrow, but it flew into the gravel is near the targets.\nD. have his bow as he talk to the camera, he pulled it out to show how to put with its flex, tighten, and notch that was attached to his bow.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "D. have his bow as he talk to the camera, he pulled it out to show how to put with its flex, tighten, and notch that was attached to his bow.",
-      "D. have his bow as he talk to the camera, he pulled it out to show how to put with its flex, tighten, and notch that was attached to his bow.",
-      "D. have his bow as he talk to the camera, he pulled it out to show how to put with its flex, tighten, and notch that was attached to his bow."
+      "D"
     ],
     "gold": "B",
-    "latency": 1.1273548439930892
+    "latency": 0.7159295000019483
   },
   {
     "id": null,
     "prompt": "A man walks outside plugs his lawn mower in and gets ready to mow. he\n\nChoose the best ending:\nA. drives through the grass while drinking from a large cup of water and carrying his lawn mower.\nB. walks off the porch and goes back inside.\nC. starts mowing his lawn casually going over all the grass.\nD. does this multiple times until a pale orange moon appears overhead.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. starts mowing his lawn casually going over all the grass.",
-      "C. starts mowing his lawn casually going over all the grass.",
-      "C. starts mowing his lawn casually going over all the grass."
+      "C. starts mowing his lawn casually going over all the grass. ####"
     ],
     "gold": "C",
-    "latency": 0.7220512979984051
+    "latency": 0.7162888549937634
   },
   {
     "id": null,
     "prompt": "A man walks outside plugs his lawn mower in and gets ready to mow. He starts mowing his lawn casually going over all the grass. his dog\n\nChoose the best ending:\nA. comes outside and starts to follow him a little while he's closer to the house.\nB. comes outside and takes a closer look at the man mowing, after he picks up the mower.\nC. runs loose and feeds on his movements.\nD. is having a seizure and starts to hop all over the lawn as he walks around.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. comes outside and starts to follow him a little while he's closer to the house.",
-      "A. comes outside and starts to follow him a little while he's closer to the house.",
-      "A. comes outside and starts to follow him a little while he's closer to the house."
+      "A. comes outside and starts to follow him a little while he's closer to the house. \n\n####"
     ],
     "gold": "A",
-    "latency": 0.9147253929986618
+    "latency": 1.2954527200054144
   },
   {
     "id": null,
     "prompt": "He starts mowing his lawn casually going over all the grass. His dog comes outside and starts to follow him a little while he's closer to the house. the yard\n\nChoose the best ending:\nA. is slowly starting to look really really nice, once he is completely finished the yard looks great, nice and smooth.\nB. is very neat and clean and very active under the circumstances.\nC. gets mowed quicker by the dog.\nD. eventually looks happy on the outside and appears to be going pretty happily.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. is slowly starting to look really really nice, once he is completely finished the yard looks great, nice and smooth.",
-      "A. is slowly starting to look really really nice, once he is completely finished the yard looks great, nice and smooth.",
-      "A. is slowly starting to look really really nice, once he is completely finished the yard looks great, nice and smooth."
+      "A. is slowly starting to look really really nice, once he is completely finished the yard looks great, nice and smooth. \n\n#### A"
     ],
     "gold": "A",
-    "latency": 1.2406271850049961
+    "latency": 4.129156611001235
   },
   {
     "id": null,
     "prompt": "A sea is shown with a green forest on seashore. Blond man is standing in seashore and talking to the camera and surfing big waves on the sea. man\n\nChoose the best ending:\nA. is on ocean and swimming in white water snapping his head.\nB. is snowboarding up in the sea.\nC. is doing flips in the waters and on the rocks and he be water surfing.\nD. is walking on seashore through a lot of people and talking to the camera and holding an award and talking about surfing the seashore.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. is doing flips in the waters and on the rocks and he be water surfing.",
-      "C. is doing flips in the waters and on the rocks and he be water surfing.",
-      "C. is doing flips in the waters and on the rocks and he be water surfing."
+      "#### C"
     ],
     "gold": "D",
-    "latency": 0.6013461010006722
+    "latency": 0.8184258370019961
   },
   {
     "id": null,
     "prompt": "We see a bottle of face wash. we\n\nChoose the best ending:\nA. see a newspaper story.\nB. see four cookies in a pan.\nC. see a person holding face wash then putting it on their face.\nD. see a tool on a table.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. see a person holding face wash then putting it on their face.",
-      "C. see a person holding face wash then putting it on their face.",
-      "C. see a person holding face wash then putting it on their face."
+      "C. see a person holding face wash then putting it on their face.  \n#### C"
     ],
     "gold": "C",
-    "latency": 0.6119062200014014
+    "latency": 1.1251319989969488
   },
   {
     "id": null,
     "prompt": "We see a person holding face wash then putting it on their face. They rinse the face and add the face wash with a brush. we\n\nChoose the best ending:\nA. see a closing title screen.\nB. see a black screen with the credits.\nC. see an illustration on how to add the wash using a brush.\nD. then see a replay then the person putting the face wash on.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. see an illustration on how to add the wash using a brush.",
-      "C. see an illustration on how to add the wash using a brush.",
-      "C. see an illustration on how to add the wash using a brush."
+      "C. see an illustration on how to add the wash using a brush.  \n####"
     ],
     "gold": "C",
-    "latency": 0.717109478006023
+    "latency": 0.6147451650031144
   },
   {
     "id": null,
     "prompt": "A person is seen throwing plaster onto a wall while the camera follows the person close behind. the person\n\nChoose the best ending:\nA. continues throwing ingredients down and leads into a person kicking a dirty toilet.\nB. gradually throws more and more onto the wall and the camera pans over the finished product.\nC. then uses paper to spread it all over the wall followed by others putting paper through with the plaster.\nD. is now seen putting wax all along the wall while still looking back to the camera.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. gradually throws more and more onto the wall and the camera pans over the finished product.",
-      "B. gradually throws more and more onto the wall and the camera pans over the finished product.",
-      "B. gradually throws more and more onto the wall and the camera pans over the finished product."
+      "B. gradually throws more and more onto the wall and the camera pans over the finished product.  \n#### B"
     ],
     "gold": "B",
-    "latency": 0.7176650749897817
+    "latency": 0.6451851610036101
   },
   {
     "id": null,
     "prompt": "More and more people begin talking and each of them has a bottle of sun screen and starts to squirt it on their arms in effort to protect their skin. a small blue bottle of the sun screen\n\nChoose the best ending:\nA. appears and then different people carry it to a table where they mix the liquid with a straw with a straw and take turns squirting the liquid into their skin.\nB. appears near each of their hair as they continue to talk but no bottle at all appear.\nC. is then shown and several more people begin talking about the product.\nD. zooms in on sheers that they have on the floor.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. appears and then different people carry it to a table where they mix the liquid with a straw with a straw and take turns squirting the liquid into their skin.",
-      "A. appears and then different people carry it to a table where they mix the liquid with a straw with a straw and take turns squirting the liquid into their skin.",
-      "C."
+      "C. is then shown and several more people begin talking about the product.  \n####"
     ],
     "gold": "C",
-    "latency": 0.8767462350078858
+    "latency": 1.0924627990025328
   },
   {
     "id": null,
     "prompt": "A group of boys are standing in a room with many clear cups of beer on a table they are all standing around. the boys\n\nChoose the best ending:\nA. take a flute together and then begin to play the harmonica using it to play the tune.\nB. begin to wrap red bow around the plastic cups, put bows on the bottoms _start_various objects on the foam covers and belongings to the floor.\nC. talk, laugh and tease each other before beginning a game of beer pong across a long table using a triangle shaped array of clear cups.\nD. all grab one and chug their contents of the cans.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. talk, laugh and tease each other before beginning a game of beer pong across a long table using a triangle shaped array of clear cups.",
-      "C. talk, laugh and tease each other before beginning a game of beer pong across a long table using a triangle shaped array of clear cups.",
-      "C. talk, laugh and tease each other before beginning a game of beer pong across a long table using a triangle shaped array of clear cups."
+      "C. talk, laugh and tease each other before beginning a game of beer pong across a long table using a triangle shaped array of clear cups.  \n#### C"
     ],
     "gold": "C",
-    "latency": 1.0658921059948625
+    "latency": 0.9230223160120659
   },
   {
     "id": null,
     "prompt": "The boys talk, laugh and tease each other before beginning a game of beer pong across a long table using a triangle shaped array of clear cups. one of the ping pongs\n\nChoose the best ending:\nA. is knocked upside down, which causes the other teens to give each other high fives.\nB. tries to rise but dikes instead.\nC. rush walks up in front of the boys, removes a small piece of paper from the bottom of the table, puts a hand on the machine and wrestles with buttons, turns the machine off and pushes a button inside to turn the game back on.\nD. lands in the cup and one of the boys begins to drink the beer.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. is knocked upside down, which causes the other teens to give each other high fives.",
-      "A. is knocked upside down, which causes the other teens to give each other high fives.",
-      "A. is knocked upside down, which causes the other teens to give each other high fives."
+      "D. lands in the cup and one of the boys begins to drink the beer.  \n####"
     ],
     "gold": "D",
-    "latency": 0.6143205979897175
+    "latency": 0.8166234929958591
   },
   {
     "id": null,
     "prompt": "One of the ping pongs lands in the cup and one of the boys begins to drink the beer. the group\n\nChoose the best ending:\nA. of teens is sailing down the river with others sailing in the background.\nB. gets up together and poses with their vests to celebrate.\nC. continue to play beer pong when one final player is able to throw and land a ping pong ball while standing with his back to the cups at which point the boys celebrate, and laugh.\nD. does a trick and the liquid is poured on a second table.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. continue to play beer pong when one final player is able to throw and land a ping pong ball while standing with his back to the cups at which point the boys celebrate, and laugh.",
-      "C. continue to play beer pong when one final player is able to throw and land a ping pong ball while standing with his back to the cups at which point the boys celebrate, and laugh.",
-      "C. continue to play beer pong when one final player is able to throw and land a ping pong ball while standing with his back to the cups at which point the boys celebrate, and laugh."
+      "C. continue to play beer pong when one final player is able to throw and land a ping pong ball while standing with his back to the cups at which point the boys celebrate, and laugh. \n\n#### C"
     ],
     "gold": "C",
-    "latency": 0.9468633479991695
+    "latency": 0.9637013540050248
   },
   {
     "id": null,
     "prompt": "There's a nbc news reporter wearing a red sweater and white shirt talking about dog grooming by scissor wizard a grooming company. the representative from the company\n\nChoose the best ending:\nA. is talking about the services they offer and how those dogs participate in dog shows.\nB. speaks to a woman sitting on a colorful conference room chair next to a brown dog kennel in front of them.\nC. tells viewers about a dog grooming company, itv with a website.\nD. in grey sweater and black pants talks about the procedures on grooming dogs in life and techniques.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. is talking about the services they offer and how those dogs participate in dog shows.",
-      "A. is talking about the services they offer and how those dogs participate in dog shows.",
-      "A. is talking about the services they offer and how those dogs participate in dog shows."
+      "#### A"
     ],
     "gold": "A",
-    "latency": 0.6950402950023999
+    "latency": 0.46737505999044515
   },
   {
     "id": null,
     "prompt": "The representative from the company is talking about the services they offer and how those dogs participate in dog shows. a groomer\n\nChoose the best ending:\nA. is seen using shears to creatively trim the dog's hair and even dye it in colorful shades of red, green, yellow and blue.\nB. is presenting cookies to the room with a loaf of bread.\nC. shows crowd opinion for use as their garden service representative.\nD. speaks to an older man about snow cleaning dogs and showing how it is flectious.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A.",
-      "A.",
-      "A. is seen using shears to creatively trim the dog's hair and even dye it in colorful shades of red, green, yellow and blue."
+      "A. is seen using shears to creatively trim the dog's hair and even dye it in colorful shades of red, green, yellow and blue. \n\n#### A"
     ],
     "gold": "A",
-    "latency": 0.9158706939924741
+    "latency": 1.1252683279890334
   },
   {
     "id": null,
     "prompt": "A woman tries to eat ice cream to a child, but the child refuses to eat the ice cream, then the woman eats the ice cream in the spoon. after\n\nChoose the best ending:\nA. , the woman gives ice cream to the child, and then the woman cleans the child's mouth.\nB. , the child takes out the fork the other child takes out the spoon and eats the ice cream.\nC. , the child and the woman tries to eat food without ice cream, then they sit and talk with adults in the room.\nD. , two people wearing red shirts pass through the store's door and inside the market and besides a man and a chimpanzee wearing silver uniforms are watching the woman and child.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. , the woman gives ice cream to the child, and then the woman cleans the child's mouth.",
-      "A.",
-      "A. , the woman gives ice cream to the child, and then the woman cleans the child's mouth."
+      "C. , the child and the woman tries to eat food without ice cream, then they sit and talk with adults in the room. \n\n####"
     ],
     "gold": "A",
-    "latency": 1.023626891997992
+    "latency": 0.9241789130028337
   },
   {
     "id": null,
     "prompt": "After, the woman gives ice cream to the child, and then the woman cleans the child's mouth. an old woman\n\nChoose the best ending:\nA. feeds a boy ice cream.\nB. hold the child and eats the ice cream, after the woman is giving baby ice cream to the child.\nC. tries to stop the mother pray while giving a baby something else.\nD. is standing using a white blower to blow snow.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. feeds a boy ice cream.",
-      "A. feeds a boy ice cream.",
-      "A. feeds a boy ice cream."
+      "#### A"
     ],
     "gold": "A",
-    "latency": 0.7194416819984326
+    "latency": 0.8150944149965653
   },
   {
     "id": null,
     "prompt": "Men are lifting heavy weights over their head several times. A man in a blue shirt is watching one of the men. a man in a gray shirt\n\nChoose the best ending:\nA. is watching the men on the ground.\nB. hits a big weight in slow motion.\nC. is talking to one of the men in the middle of the gym.\nD. is mimicking the person lifting the weight.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "D. is mimicking the person lifting the weight.",
-      "D. is mimicking the person lifting the weight.",
-      "C. is talking to one of the men in the middle of the gym."
+      "#### C"
     ],
     "gold": "D",
-    "latency": 0.9153940209944267
+    "latency": 0.6160767590044998
   },
   {
     "id": null,
     "prompt": "In home pet groomers demonstrate how to groom a pet. the person\n\nChoose the best ending:\nA. puts a setting engage on the pets tongue and leash.\nB. starts at their butt rise, combing out the hair with a brush from a red.\nC. is demonstrating how the dog's hair is trimmed with electric shears at their grooming salon.\nD. installs and interacts with a sleeping pet before moving away.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. is demonstrating how the dog's hair is trimmed with electric shears at their grooming salon.",
-      "C.",
-      "C. is demonstrating how the dog's hair is trimmed with electric shears at their grooming salon."
+      "C. is demonstrating how the dog's hair is trimmed with electric shears at their grooming salon.  \n####"
     ],
     "gold": "C",
-    "latency": 0.7179406119976193
+    "latency": 1.020345344004454
   },
   {
     "id": null,
     "prompt": "A person polish a shoe with a wrapped finger. then\n\nChoose the best ending:\nA. , the person remove the wrapping paper to expose a shoe.\nB. , the person removes the heel heel from the shoe and polish.\nC. , the person grabs polish paste and water to polish the shoe.\nD. , a person polish the fingers, then the person puts a black polish.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. , the person grabs polish paste and water to polish the shoe.",
-      "C. , the person grabs polish paste and water to polish the shoe.",
-      "C. , the person grabs polish paste and water to polish the shoe."
+      "C. , the person grabs polish paste and water to polish the shoe. \n#### C"
     ],
     "gold": "C",
-    "latency": 1.3291128989949357
+    "latency": 0.8202622180106118
   },
   {
     "id": null,
     "prompt": "Eight people are standing at the studio, one woman walked at the back of the group. the group\n\nChoose the best ending:\nA. then begins marching down a fitness track, demonstrating steps, going forward and backward, in between takes several breaks to lift their feet.\nB. is gathered around a long table into a dance routine.\nC. started dancing, swirling, shaking their hips, rotating, their arms and hands are moving from side to side, in front.\nD. continue to discuss the topic of volleyball.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. started dancing, swirling, shaking their hips, rotating, their arms and hands are moving from side to side, in front.",
-      "A. then begins marching down a fitness track, demonstrating steps, going forward and backward, in between takes several breaks to lift their feet.",
-      "C. started dancing, swirling, shaking their hips, rotating, their arms and hands are moving from side to side, in front."
+      "C. started dancing, swirling, shaking their hips, rotating, their arms and hands are moving from side to side, in front. \n\n#### C"
     ],
     "gold": "C",
-    "latency": 0.9654245449928567
+    "latency": 1.4318839769985061
   },
   {
     "id": null,
     "prompt": "A man is seen talking to the camera and presents his knife and sharpener. He then glides the knife down the sharpener and shows how other knives work with different sharpeners. he\n\nChoose the best ending:\nA. then repeats his advice and using more wax.\nB. shows the using the sharpener on a piece of wood.\nC. presents the knife one last time while still speaking to the camera.\nD. uses scissors to cut the blade as well as metal and talk to the camera at the end.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. presents the knife one last time while still speaking to the camera.",
-      "B. shows the using the sharpener on a piece of wood.",
-      "C. presents the knife one last time while still speaking to the camera."
+      "C"
     ],
     "gold": "C",
-    "latency": 1.0812487570074154
+    "latency": 0.3995284209959209
   },
   {
     "id": null,
     "prompt": "A man walks onto the stage to join a band. a man\n\nChoose the best ending:\nA. plays harp and flute while two other people play instruments next to him.\nB. and woman dance around together on the stage.\nC. dance on the ropes attached to the stage.\nD. plays up front of a band with a harmonica.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "D. plays up front of a band with a harmonica.",
-      "D. plays up front of a band with a harmonica.",
-      "D. plays up front of a band with a harmonica."
+      "A####"
     ],
     "gold": "D",
-    "latency": 0.6143604649987537
+    "latency": 0.6242326810024679
   },
   {
     "id": null,
     "prompt": "A man walks onto the stage to join a band. A man plays up front of a band with a harmonica. the keyboardist\n\nChoose the best ending:\nA. plays the hip hop and dance moves with the band.\nB. plays a spirited solo during the song.\nC. plays his guitar while moving his body around in front of the band.\nD. sings with the band, twirling his violin as he walks.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. plays a spirited solo during the song.",
-      "B. plays a spirited solo during the song.",
       "B. plays a spirited solo during the song."
     ],
     "gold": "B",
-    "latency": 0.7240433839906473
+    "latency": 0.6123751860141056
   },
   {
     "id": null,
     "prompt": "A camera pans away from a road and shows a person's feet moving around. several shots\n\nChoose the best ending:\nA. are shown of people riding up a mountain on skis while being pulled down by a rope.\nB. are shown of people tying their shoes, hitting a button, and checking a watch.\nC. are shown of people wake boarding.\nD. are then shown of people riding on snowboards over mountains.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. are shown of people tying their shoes, hitting a button, and checking a watch.",
-      "B. are shown of people tying their shoes, hitting a button, and checking a watch.",
-      "B. are shown of people tying their shoes, hitting a button, and checking a watch."
+      "B"
     ],
     "gold": "B",
-    "latency": 0.9144835649931338
+    "latency": 0.8163699349970557
   },
   {
     "id": null,
     "prompt": "A camera pans away from a road and shows a person's feet moving around. Several shots are shown of people tying their shoes, hitting a button, and checking a watch. people\n\nChoose the best ending:\nA. march around a room wearing funny hats, hats, and shoes.\nB. then are shown washing a car.\nC. are then seen running down the road one at a time followed by many more following.\nD. walk along a road, using bicycles and bagpipes.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. are then seen running down the road one at a time followed by many more following.",
-      "C. are then seen running down the road one at a time followed by many more following.",
-      "C. are then seen running down the road one at a time followed by many more following."
+      "C. are then seen running down the road one at a time followed by many more following.  \n####"
     ],
     "gold": "C",
-    "latency": 1.0268549699976575
+    "latency": 1.570291357988026
   },
   {
     "id": null,
     "prompt": "A gymnast put power chalk power on his hands and stands near the pommel horse. then\n\nChoose the best ending:\nA. , the gymnast put strength and power item on his body and falls.\nB. , the gymnast approach the pommel horse to spin around many times.\nC. , the gymnast blade the board and stands in position facing the pommel horse doing blade moves.\nD. , the gymnast moves around and flips the chalk power to full weight and continues gymnastics for the next competition, after he turns and stands near the pommel horse.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "D. , the gymnast moves around and flips the chalk power to full weight and continues gymnastics for the next competition, after he turns and stands near the pommel horse.",
-      "C. , the gymnast blade the board and stands in position facing the pommel horse doing blade moves.",
-      "C. , the gymnast blade the board and stands in position facing the pommel horse doing blade moves."
+      "B. , the gymnast approach the pommel horse to spin around many times. \n####"
     ],
     "gold": "B",
-    "latency": 1.120499162003398
+    "latency": 0.9896905690111453
   },
   {
     "id": null,
     "prompt": "A gymnast put power chalk power on his hands and stands near the pommel horse. Then, the gymnast approach the pommel horse to spin around many times. then\n\nChoose the best ending:\nA. , the gymnast stand on his hand and jumps to land on the floor, while people applaud.\nB. , the gymnast put the star light on his hands and jumps high using strength.\nC. , the gymnast puts fluid on the pommel horse and sit on it to rise the body while position it.\nD. , the gymnast cross the pommel horse with the long rope while performing handsprings.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. , the gymnast stand on his hand and jumps to land on the floor, while people applaud.",
-      "A. , the gymnast stand on his hand and jumps to land on the floor, while people applaud.",
-      "A. , the gymnast stand on his hand and jumps to land on the floor, while people applaud."
+      "A. , the gymnast stand on his hand and jumps to land on the floor, while people applaud. \n\n####"
     ],
     "gold": "A",
-    "latency": 0.7140123740100535
+    "latency": 0.9227457730012247
   },
   {
     "id": null,
     "prompt": "A logo shows that this video is presented by expert village. a man in a small blue boat\n\nChoose the best ending:\nA. is pushing a kress of water in a lake while instructing his boarder.\nB. discusses the topic of hand surfing in a hole and gives hints on how to perform this activity.\nC. , in the middle of a lake, is skiing.\nD. is in the water pushing a boat with a sail.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. discusses the topic of hand surfing in a hole and gives hints on how to perform this activity.",
-      "B. discusses the topic of hand surfing in a hole and gives hints on how to perform this activity.",
-      "B. discusses the topic of hand surfing in a hole and gives hints on how to perform this activity."
+      "B"
     ],
     "gold": "B",
-    "latency": 0.6615208800067194
+    "latency": 0.6142897179961437
   },
   {
     "id": null,
     "prompt": "A man in a small blue boat discusses the topic of hand surfing in a hole and gives hints on how to perform this activity. the man\n\nChoose the best ending:\nA. demonstrates how to properly back up a hand surf by requiring an anchor.\nB. demonstrates tricks that can be done while performing this activity.\nC. in the small blue boat holds a fish in his hands and then holds the fish while talking about the technique needed to perform this activity.\nD. is omic on the water as he's riding the speedo on the aerobic machine still pointing down at the water.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. demonstrates tricks that can be done while performing this activity.",
-      "C. in the small blue boat holds a fish in his hands and then holds the fish while talking about the technique needed to perform this activity.",
-      "B. demonstrates tricks that can be done while performing this activity."
+      "B. demonstrates tricks that can be done while performing this activity.  \n####"
     ],
     "gold": "B",
-    "latency": 0.9821797769982368
+    "latency": 0.9192024119984126
   },
   {
     "id": null,
     "prompt": "The camera pans to show a man playing a harmonica while sitting on a log beside a river. A woman walks near the train tracks while a train drives by. the woman\n\nChoose the best ending:\nA. continues just playing with the tunes she made.\nB. sees the harmonica playing man in the distance.\nC. taps a horn intermittently as the camera pans right.\nD. plays a song on her harmonica while walking away from the train.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "D. plays a song on her harmonica while walking away from the train.",
-      "B. sees the harmonica playing man in the distance.",
-      "D. plays a song on her harmonica while walking away from the train."
+      "B. sees the harmonica playing man in the distance. \n\n####"
     ],
     "gold": "B",
-    "latency": 0.8144024960056413
+    "latency": 0.7152595310035395
   },
   {
     "id": null,
     "prompt": "A woman walks near the train tracks while a train drives by. The woman sees the harmonica playing man in the distance. she\n\nChoose the best ending:\nA. comes back to the train and continues walking on the subway.\nB. walks around the rail of the tracks and watches the scenery and the crowds of people.\nC. watches him and listens to him playing.\nD. begins playing with the harmonica and stops.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. watches him and listens to him playing.",
-      "C. watches him and listens to him playing.",
-      "C. watches him and listens to him playing."
+      "C. watches him and listens to him playing.  \n####"
     ],
     "gold": "C",
-    "latency": 2.1485661410115426
+    "latency": 0.7162645540083759
   },
   {
     "id": null,
     "prompt": "The woman sees the harmonica playing man in the distance. She watches him and listens to him playing. She walks away leaving the man. the man\n\nChoose the best ending:\nA. takes out a wall show from his guitar.\nB. finishes playing and remains seated.\nC. jumps over a barrier and lands on the sandy beach.\nD. plays in a house while the woman looks on.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. finishes playing and remains seated.",
-      "B. finishes playing and remains seated.",
-      "B. finishes playing and remains seated."
+      "B. finishes playing and remains seated.  \n#### B"
     ],
     "gold": "B",
-    "latency": 0.5130007010011468
+    "latency": 0.6834133140073391
   },
   {
     "id": null,
     "prompt": "A person is shown looking around a city and begins washing windows with his tools. he\n\nChoose the best ending:\nA. then brushes right through the window and cleans it off.\nB. uses a large block cutter to remove smaller blocks until he has the whole of the window covered.\nC. puts water on a hose and begins cleaning the windows.\nD. goes up and down the windows at a rapid pace and continues filming himself through the glass.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. puts water on a hose and begins cleaning the windows.",
-      "C. puts water on a hose and begins cleaning the windows.",
-      "C. puts water on a hose and begins cleaning the windows."
+      "C. puts water on a hose and begins cleaning the windows.  \n#### C"
     ],
     "gold": "D",
-    "latency": 0.7148047969967593
+    "latency": 1.15703795599984
   },
   {
     "id": null,
     "prompt": "A person is shown looking around a city and begins washing windows with his tools. He goes up and down the windows at a rapid pace and continues filming himself through the glass. he\n\nChoose the best ending:\nA. continues to work by scrubbing the windows and then by pouring water out.\nB. takes his clothes off and hangs them up before throwing his plaid shirt into the laundry.\nC. finishes the glass in record time and turns off the camera.\nD. spins around to show the different angles of the board and shows pictures of the house in the end.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. finishes the glass in record time and turns off the camera.",
-      "C. finishes the glass in record time and turns off the camera.",
-      "C. finishes the glass in record time and turns off the camera."
+      "C. finishes the glass in record time and turns off the camera.  \n####"
     ],
     "gold": "C",
-    "latency": 0.7156878390087513
+    "latency": 0.7147857399977511
   },
   {
     "id": null,
     "prompt": "A man dressed in yellow and black winter clothes ice fishes on a a frozen lake. the man\n\nChoose the best ending:\nA. is reeling in a fish for a long time.\nB. spins with his fishing pole in the air.\nC. does a trick on his dirty ice fishing line.\nD. does numerous tricks as he goes through these beauty course courses of ice covered lakes.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. is reeling in a fish for a long time.",
-      "A. is reeling in a fish for a long time.",
-      "A. is reeling in a fish for a long time."
+      "A. is reeling in a fish for a long time.  \n#### A"
     ],
     "gold": "A",
-    "latency": 0.8181466810056008
+    "latency": 0.9230209980014479
   },
   {
     "id": null,
     "prompt": "A man dressed in yellow and black winter clothes ice fishes on a a frozen lake. The man is reeling in a fish for a long time. the mans catch\n\nChoose the best ending:\nA. more fish and throws them to the side.\nB. finally reaches the surface.\nC. a fish for dinner by making a wish with his mouth.\nD. one and puts it on a fishing pole in the lake.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. finally reaches the surface.",
-      "B. finally reaches the surface.",
-      "B. finally reaches the surface."
+      "B. finally reaches the surface. \n\n####"
     ],
     "gold": "B",
-    "latency": 0.6162292700028047
+    "latency": 0.6125512289872859
   },
   {
     "id": null,
     "prompt": "Two children are seen sitting in a tub rubbing their faces and another person's hands interacting. the boy\n\nChoose the best ending:\nA. continues to rub water all over his face as well as play with toys and smile at the cameraman.\nB. walks out of the bathroom laughing to the camera and the girl stands up to rinse her face off.\nC. then begins washing the other child and ends by copulating with him.\nD. is now seen pointing down by himself and leads into him holding a comb and blow dryer and speaking to others.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. continues to rub water all over his face as well as play with toys and smile at the cameraman.",
-      "A. continues to rub water all over his face as well as play with toys and smile at the cameraman.",
-      "A. continues to rub water all over his face as well as play with toys and smile at the cameraman."
+      "A. continues to rub water all over his face as well as play with toys and smile at the cameraman.  \n####"
     ],
     "gold": "A",
-    "latency": 0.9190065730072092
+    "latency": 1.1154368969873758
   },
   {
     "id": null,
     "prompt": "A woman hands a young boy a stick with a little girl grabbing for her attention. the pinata\n\nChoose the best ending:\nA. is lifted and the boy begins swinging at the object.\nB. pops, and a child in white attempts to hit the pinata, but fails.\nC. pops out of the playground.\nD. is hit one after the other, and the girl lets go her hold.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. is lifted and the boy begins swinging at the object.",
-      "A. is lifted and the boy begins swinging at the object.",
-      "A. is lifted and the boy begins swinging at the object."
+      "A. is lifted and the boy begins swinging at the object.  \n#### A"
     ],
     "gold": "A",
-    "latency": 0.8188513760105707
+    "latency": 0.7258544520009309
   },
   {
     "id": null,
     "prompt": "A woman hands a young boy a stick with a little girl grabbing for her attention. The pinata is lifted and the boy begins swinging at the object. the camera\n\nChoose the best ending:\nA. zooms in on the pinata and then the girl.\nB. is upside down so everyone else can't see the object.\nC. pans around people watching while he hits the pinata and a little boy is seen clapping behind him.\nD. zooms in on the boy's head and he looks at the pinata person in the background.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. pans around people watching while he hits the pinata and a little boy is seen clapping behind him.",
-      "C. pans around people watching while he hits the pinata and a little boy is seen clapping behind him.",
-      "C. pans around people watching while he hits the pinata and a little boy is seen clapping behind him."
+      "C. pans around people watching while he hits the pinata and a little boy is seen clapping behind him. \n\n#### C"
     ],
     "gold": "C",
-    "latency": 1.1417931269970722
+    "latency": 0.9232479060010519
   },
   {
     "id": null,
     "prompt": "A woman is playing a violin on the street while various people walk around here and behind her. she\n\nChoose the best ending:\nA. continues to play violin while people pass by her.\nB. continues playing the violin and beginning to intermittently move the sticks up and down.\nC. smiles into the camera while playing and continues playing the song while several people bend down to tip her and walk around her.\nD. finishes and walks off, leaving the violin lying on the ground.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. smiles into the camera while playing and continues playing the song while several people bend down to tip her and walk around her.",
-      "C. smiles into the camera while playing and continues playing the song while several people bend down to tip her and walk around her.",
-      "C. smiles into the camera while playing and continues playing the song while several people bend down to tip her and walk around her."
+      "C. smiles into the camera while playing and continues playing the song while several people bend down to tip her and walk around her. \n####"
     ],
     "gold": "C",
-    "latency": 1.4198250139888842
+    "latency": 0.8717521630023839
   },
   {
     "id": null,
     "prompt": "Various pictures of food are shown followed by a person cutting up vegetables and mixing various ingredients into a pot. he\n\nChoose the best ending:\nA. shows how the vegetables are chopped for seasoning and then sprinkled into broth and shown with the water boiling.\nB. cooks up a meal and each are shown eating inside the pot.\nC. boils food into a bowl and then adds some part of a salad into the bowl.\nD. then cuts up a piece of bread, scoops out the insides, and fries up some meat.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. shows how the vegetables are chopped for seasoning and then sprinkled into broth and shown with the water boiling.",
-      "A. shows how the vegetables are chopped for seasoning and then sprinkled into broth and shown with the water boiling.",
-      "A. shows how the vegetables are chopped for seasoning and then sprinkled into broth and shown with the water boiling."
+      "A. shows how the vegetables are chopped for seasoning and then sprinkled into broth and shown with the water boiling.  \n####"
     ],
     "gold": "D",
-    "latency": 0.7112247280019801
+    "latency": 0.8638723420008318
   },
   {
     "id": null,
     "prompt": "Ingredients are sitting on a wooden block. a person\n\nChoose the best ending:\nA. adds flour to a baking pan.\nB. starts mixing the ingredients together.\nC. puts salt, lemon juice in a pot, then adds eggs, cheese, ham, and some other hoagies.\nD. is mixing the ingredients in an iron.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. starts mixing the ingredients together.",
-      "B. starts mixing the ingredients together.",
-      "B. starts mixing the ingredients together."
+      "B. starts mixing the ingredients together.   \n####"
     ],
     "gold": "B",
-    "latency": 0.7174448139994638
+    "latency": 0.6159320299921092
   },
   {
     "id": null,
     "prompt": "A man is seen walking closer to a pinata while a large group of people stand around him. the man\n\nChoose the best ending:\nA. shows off various tapers while swinging at the pinata and throwing them out to the crowd.\nB. then throws the pin while others watch on the sides.\nC. spins around several times and throws the stick.\nD. misses the pinata and hits a person behind him, shown again in slow motion.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. spins around several times and throws the stick.",
-      "A. shows off various tapers while swinging at the pinata and throwing them out to the crowd.",
-      "C. spins around several times and throws the stick."
+      "C. spins around several times and throws the stick.  \n####"
     ],
     "gold": "D",
-    "latency": 0.8180792139901314
+    "latency": 0.8176392220048001
   },
   {
     "id": null,
     "prompt": "A pair of female hands uses an iron on a piece of baby clothing. the woman\n\nChoose the best ending:\nA. wets the garment and scrubs it with a cloth.\nB. peels the old clothing off the piece and replaces it with dry material.\nC. sets the iron aside and flips the clothing.\nD. wraps the garment on top of the blouse, then irons it.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. sets the iron aside and flips the clothing.",
-      "C. sets the iron aside and flips the clothing.",
-      "C. sets the iron aside and flips the clothing."
+      "C. sets the iron aside and flips the clothing.  \n####"
     ],
     "gold": "C",
-    "latency": 0.5098000050056726
+    "latency": 0.7163591139978962
   },
   {
     "id": null,
     "prompt": "A pair of female hands uses an iron on a piece of baby clothing. The woman sets the iron aside and flips the clothing. the woman\n\nChoose the best ending:\nA. then undresses and irons the shirt.\nB. places a pair of pants into a bucket.\nC. shows how to iron a sock correctly.\nD. uses the iron on the other side of the clothing.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "D. uses the iron on the other side of the clothing.",
-      "D. uses the iron on the other side of the clothing.",
-      "D. uses the iron on the other side of the clothing."
+      "D. uses the iron on the other side of the clothing.  \n####"
     ],
     "gold": "D",
-    "latency": 0.7184901330037974
+    "latency": 0.6130601640034001
   },
   {
     "id": null,
     "prompt": "The woman sets the iron aside and flips the clothing. The woman uses the iron on the other side of the clothing. the woman\n\nChoose the best ending:\nA. scrubs the clothing with her hands.\nB. quickly picks up and irons, flames dancing over the clothing.\nC. sets the iron aside.\nD. crosses her arms in front of her and it's gone.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. sets the iron aside.",
-      "C. sets the iron aside.",
-      "C. sets the iron aside."
+      "B. quickly picks up and irons, flames dancing over the clothing.  \n#### B"
     ],
     "gold": "C",
-    "latency": 0.7143929559970275
+    "latency": 0.8175461770006223
   },
   {
     "id": null,
     "prompt": "We see a chair with a pillow on it. a man holding a cat\n\nChoose the best ending:\nA. does curling.\nB. starts hitting objects on an item.\nC. sits down on the chair.\nD. is wrapping a box.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. sits down on the chair.",
-      "C. sits down on the chair.",
-      "C. sits down on the chair."
+      "C. sits down on the chair. \n\n#### C"
     ],
     "gold": "C",
-    "latency": 0.5521416980045615
+    "latency": 0.8180908930080477
   },
   {
     "id": null,
     "prompt": "We see a chair with a pillow on it. A man holding a cat sits down on the chair. The man clips the cats fingernails. the man\n\nChoose the best ending:\nA. strokes the cat's head.\nB. then clips the cat nails.\nC. puts the cat down and boxes it with paper.\nD. gives the cats ears.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. then clips the cat nails.",
-      "A. strokes the cat's head.",
-      "B. then clips the cat nails."
+      "A. strokes the cat's head. \n\n#### A"
     ],
     "gold": "A",
-    "latency": 0.8794464480015449
+    "latency": 0.9207693779899273
   },
   {
     "id": null,
     "prompt": "A man holding a cat sits down on the chair. The man clips the cats fingernails. The man strokes the cat's head. the man\n\nChoose the best ending:\nA. sits back down on the chair.\nB. takes the cat to the other room.\nC. stands up and walks down the sidewalk.\nD. plays with the cat rocking it back and forth.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. sits back down on the chair.",
-      "D. plays with the cat rocking it back and forth.",
-      "A. sits back down on the chair."
+      "D. plays with the cat rocking it back and forth.  \n#### D"
     ],
     "gold": "D",
-    "latency": 0.7159618160076207
+    "latency": 0.9206300779915182
   },
   {
     "id": null,
     "prompt": "A young girl in a green leotard begins twirling a baton and doing tricks. the girl\n\nChoose the best ending:\nA. does this in the beginning while using her foot and one hand to move around her body.\nB. begins to do some of her routine and does a few hip spins.\nC. puts their hands together, and twirl together like a ballet dancer.\nD. begins to incorporate her arms and does a flip and continues to flip the baton over her hands and arms.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "D. begins to incorporate her arms and does a flip and continues to flip the baton over her hands and arms.",
-      "D. begins to incorporate her arms and does a flip and continues to flip the baton over her hands and arms.",
-      "D. begins to incorporate her arms and does a flip and continues to flip the baton over her hands and arms."
+      "D. begins to incorporate her arms and does a flip and continues to flip the baton over her hands and arms. \n\n#### D"
     ],
     "gold": "D",
-    "latency": 0.7158751990064047
+    "latency": 1.023462246012059
   },
   {
     "id": null,
     "prompt": "The girl begins to incorporate her arms and does a flip and continues to flip the baton over her hands and arms. as the young lady\n\nChoose the best ending:\nA. continues her performance, she twirls the baton between her legs and over her head, catches it and does a gallop.\nB. is still serving the baton, she places the extension on her left hand and does a full 180 degree spin in one flip.\nC. becomes more involved in the ballet, she does a final dismount to bring her elbows down and her upper body straight.\nD. is zapping her arms and is practicing her baton twirling technique, she grabs the baton from the ground and shows herself victorious while her coach claps.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. continues her performance, she twirls the baton between her legs and over her head, catches it and does a gallop.",
-      "A. continues her performance, she twirls the baton between her legs and over her head, catches it and does a gallop.",
-      "A. continues her performance, she twirls the baton between her legs and over her head, catches it and does a gallop."
+      "A####"
     ],
     "gold": "A",
-    "latency": 0.9278728320059599
+    "latency": 0.8187233810022008
   },
   {
     "id": null,
     "prompt": "As the young lady continues her performance, she twirls the baton between her legs and over her head, catches it and does a gallop. the rest of the young girl's performance\n\nChoose the best ending:\nA. is replayed in slow motion.\nB. is a set of twirls and twist and then she runs off the floor to finish her performance.\nC. is shown several times and ends by showcasing her back to the both the camera and a final focus of her performance.\nD. is replayed, ending with the young lady clapping her hands joyfully.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C.",
-      "C.",
-      "C. is shown several times and ends by showcasing her back to the both the camera and a final focus of her performance."
+      "B. is a set of twirls and twist and then she runs off the floor to finish her performance."
     ],
     "gold": "B",
-    "latency": 0.8136410840088502
+    "latency": 0.8156531879940303
   },
   {
     "id": null,
     "prompt": "We see a man in a driveway cleaning snow from his car. the man\n\nChoose the best ending:\nA. cleans the snow under his windshield wipers.\nB. wet his car and wipes it down.\nC. moves the snow out of the front bumper of his car and pours gasoline on it.\nD. removes the pieces of the line off his windshield.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. cleans the snow under his windshield wipers.",
-      "A. cleans the snow under his windshield wipers.",
-      "A. cleans the snow under his windshield wipers."
+      "A. cleans the snow under his windshield wipers.  \n#### A"
     ],
     "gold": "A",
-    "latency": 0.8165261600079248
+    "latency": 1.432905544003006
   },
   {
     "id": null,
     "prompt": "We see a man in a driveway cleaning snow from his car. The man cleans the snow under his windshield wipers. we\n\nChoose the best ending:\nA. see the old man's garage and what looks like a boat in the water.\nB. see the building behind the car.\nC. zoom in on the cabin.\nD. see the mans silver car gliding by in the background.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. see the building behind the car.",
-      "B. see the building behind the car.",
-      "B. see the building behind the car."
+      "B"
     ],
     "gold": "B",
-    "latency": 0.6687631499953568
+    "latency": 0.5104964509955607
   },
   {
     "id": null,
     "prompt": "The man cleans the snow under his windshield wipers. We see the building behind the car. We do a 360 spin to see the parking lot. the man\n\nChoose the best ending:\nA. finishes and turns off the wipers.\nB. opens the doors on his car and gets in.\nC. finishes and slides out of the car.\nD. puts up the camera.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. finishes and turns off the wipers.",
-      "A. finishes and turns off the wipers.",
-      "A. finishes and turns off the wipers."
+      "B"
     ],
     "gold": "B",
-    "latency": 0.6654770199966151
+    "latency": 0.797332271002233
   },
   {
     "id": null,
     "prompt": "A man in a blue shirt and shorts lifts a large weight over his head. Another man is filming it. The same man comes back and lifts the weight over his head again. he\n\nChoose the best ending:\nA. drops it on the ground and walks away.\nB. again lifts the weight over his head.\nC. drops it and runs towards the camera.\nD. drops it onto the floor where it gets stuck.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. again lifts the weight over his head.",
-      "B. again lifts the weight over his head.",
-      "B. again lifts the weight over his head."
+      "B"
     ],
     "gold": "A",
-    "latency": 0.6033393699908629
+    "latency": 0.533166520006489
   },
   {
     "id": null,
     "prompt": "A man is seen throwing a dart onto a board and leads into a woman speaking. the man\n\nChoose the best ending:\nA. tosses darts into the water while people measure the distance and run after them.\nB. gives her several tips and she continues creating darts.\nC. throws several more darts while taking the time to speak to the woman.\nD. holds behind him and the woman continues speaking.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. throws several more darts while taking the time to speak to the woman.",
-      "C. throws several more darts while taking the time to speak to the woman.",
-      "C. throws several more darts while taking the time to speak to the woman."
+      "C. throws several more darts while taking the time to speak to the woman.  \n####"
     ],
     "gold": "C",
-    "latency": 0.7266145659959875
+    "latency": 0.9226801470067585
   },
   {
     "id": null,
     "prompt": "A group of people are standing in the middle of a forest with a trail of pebbles separating them from a beautiful crystal clear body of water. the camera\n\nChoose the best ending:\nA. then goes right side up and shows a lot of scenery on the left side.\nB. follows the couple kayaking behind the group on the trail moving back and fourth on the murky water in the forest.\nC. moves across the water and several people on boats and jet-skis are moving in the water near a large wave.\nD. zooms in on the foamy waters as well as the nearby cliffs and forest surrounding it.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "D. zooms in on the foamy waters as well as the nearby cliffs and forest surrounding it.",
-      "D. zooms in on the foamy waters as well as the nearby cliffs and forest surrounding it.",
-      "D. zooms in on the foamy waters as well as the nearby cliffs and forest surrounding it."
+      "D"
     ],
     "gold": "C",
-    "latency": 0.6088122830115026
+    "latency": 0.4080824309930904
   },
   {
     "id": null,
     "prompt": "The camera moves across the water and several people on boats and jet-skis are moving in the water near a large wave. More large waves begin to surface and a man begins surfing the waves. the forest\n\nChoose the best ending:\nA. is then shown clearly under a large wide wave.\nB. is then shown and surf boards appear that are washed up against the banks of the water.\nC. starts to get darker and darker as the large wave picks up and men continue to sail around it.\nD. of trees quickly moves over the trailing wave and they follow suit as well.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. is then shown and surf boards appear that are washed up against the banks of the water.",
-      "A. is then shown clearly under a large wide wave.",
-      "A. is then shown clearly under a large wide wave."
+      "C. starts to get darker and darker as the large wave picks up and men continue to sail around it. \n\n#### C"
     ],
     "gold": "B",
-    "latency": 0.7176920769998105
+    "latency": 1.0221683709969511
   },
   {
     "id": null,
     "prompt": "A large patch of grass is shown. a man\n\nChoose the best ending:\nA. belly flops on some grass before a newscaster announces the story.\nB. stretches in front of it.\nC. is shown inside while a machine is working.\nD. is mowing the yard next to the bushes.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. stretches in front of it.",
-      "B. stretches in front of it.",
-      "B. stretches in front of it."
+      "A####"
     ],
     "gold": "D",
-    "latency": 0.6111171650118195
+    "latency": 1.0245051509991754
   },
   {
     "id": null,
     "prompt": "A pilates instructor on skates explains how to strap your risk protectors tight and shows that you need knee pads to protect your knees. the lady\n\nChoose the best ending:\nA. starts with two small straps and it puts her into a squatting position with feet fully placed over her knee and her hands suspended and ready.\nB. then explains the skates movement and how to use the breaks that is in the back of the skates.\nC. then puts lotion in both of her hands and rubs them along your knees while the instructor washes them.\nD. shows how to harness and strap your weight on properly and she moves away from the mounting as she reaches for her left knee.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. starts with two small straps and it puts her into a squatting position with feet fully placed over her knee and her hands suspended and ready.",
-      "A. starts with two small straps and it puts her into a squatting position with feet fully placed over her knee and her hands suspended and ready.",
-      "A"
+      "B. then explains the skates movement and how to use the breaks that is in the back of the skates.  \n####"
     ],
     "gold": "B",
-    "latency": 0.7193080309953075
+    "latency": 0.9185269229928963
   },
   {
     "id": null,
     "prompt": "A woman wearing a tan apron is holding a knife and talking. She then shows an appliance on the table and tilts it upwards. she\n\nChoose the best ending:\nA. turns a dial on the appliance and sets it back down.\nB. continues sliding the blade over the appliance.\nC. takes a quarter of an inch of the device and holds it against a piece of cake.\nD. removes a lemon from a jar and places it into a pot.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. turns a dial on the appliance and sets it back down.",
-      "A. turns a dial on the appliance and sets it back down.",
-      "A. turns a dial on the appliance and sets it back down."
+      "#### A"
     ],
     "gold": "A",
-    "latency": 0.6423276999994414
+    "latency": 0.6197847269941121
   },
   {
     "id": null,
     "prompt": "She then shows an appliance on the table and tilts it upwards. She turns a dial on the appliance and sets it back down. she\n\nChoose the best ending:\nA. shows several shots of the chair in the end.\nB. picks the knife back up and places it on the appliance.\nC. pokes the vacuum nozzle in the top seam of the vacuum cleaner and adds fuel to it while still keeping the vacuum nozzle up.\nD. also shows how to use tubing no a string is attached to it and she explaining the use of the tubing.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. pokes the vacuum nozzle in the top seam of the vacuum cleaner and adds fuel to it while still keeping the vacuum nozzle up.",
-      "C. pokes the vacuum nozzle in the top seam of the vacuum cleaner and adds fuel to it while still keeping the vacuum nozzle up.",
-      "C. pokes the vacuum nozzle in the top seam of the vacuum cleaner and adds fuel to it while still keeping the vacuum nozzle up."
+      "B"
     ],
     "gold": "B",
-    "latency": 1.0958963370067067
+    "latency": 0.6093405730061932
   },
   {
     "id": null,
     "prompt": "She turns a dial on the appliance and sets it back down. She picks the knife back up and places it on the appliance. she\n\nChoose the best ending:\nA. gets up and starts brushing the blade.\nB. uses a tool to pinch the wax off of the knife.\nC. turns the dial again on the appliance.\nD. jumps up and throws something into a container shaped like a snowboard.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "C. turns the dial again on the appliance.",
-      "C. turns the dial again on the appliance.",
-      "C. turns the dial again on the appliance."
+      "B"
     ],
     "gold": "C",
-    "latency": 0.6121118120063329
+    "latency": 0.5098704739939421
   },
   {
     "id": null,
     "prompt": "She picks the knife back up and places it in the appliance and slowly draws it back several times. she\n\nChoose the best ending:\nA. slices a tomato on a wood block with the knife.\nB. removes the rubber band off of the knife and gets it across the blade.\nC. continues using the appliance to put the fancy knife on the box.\nD. stands up from the chair and walks towards the stairs before finally leaving the room.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "A. slices a tomato on a wood block with the knife.",
-      "A. slices a tomato on a wood block with the knife.",
-      "A. slices a tomato on a wood block with the knife."
+      "A"
     ],
     "gold": "A",
-    "latency": 0.6146785520104459
+    "latency": 0.7173365529888542
   },
   {
     "id": null,
     "prompt": "She picks the knife back up and places it in the appliance and slowly draws it back several times. She slices a tomato on a wood block with the knife. she\n\nChoose the best ending:\nA. decorates the knife with green and red maracas.\nB. positions the knife front and back and finishes by pushing it straight across the square board.\nC. then demonstrates how to sharpen the knife and finishes by putting a metal rod in front of the plate of spaghetti that she just sharpened.\nD. grabs a second knife and puts it in the appliance.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. positions the knife front and back and finishes by pushing it straight across the square board.",
-      "B. positions the knife front and back and finishes by pushing it straight across the square board.",
-      "B. positions the knife front and back and finishes by pushing it straight across the square board."
+      "B. positions the knife front and back and finishes by pushing it straight across the square board.  \n#### B"
     ],
     "gold": "D",
-    "latency": 0.8177454969991231
+    "latency": 0.9221948579943273
   },
   {
     "id": null,
     "prompt": "A man wearing a black clothes is sharpening the knife on a stone. The man beside him on blue long sleeves drawing something on the table with his finger. the man\n\nChoose the best ending:\nA. continues sharpening the knife and standing on the middle of the stone.\nB. turn the knife to sharpen the other side and then wipe it with paper towel.\nC. stops sharpening the knife and draws on the stone again.\nD. down retracts from the knife and starts sharpening the knife back up again.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "B. turn the knife to sharpen the other side and then wipe it with paper towel.",
-      "B. turn the knife to sharpen the other side and then wipe it with paper towel.",
-      "B. turn the knife to sharpen the other side and then wipe it with paper towel."
+      "B. turn the knife to sharpen the other side and then wipe it with paper towel. \n\n#### B"
     ],
     "gold": "B",
-    "latency": 0.7158657840045635
+    "latency": 0.91768743499415
   },
   {
     "id": null,
     "prompt": "A man is seen speaking to the camera while a shot of a person playing basketball shows behind. the man\n\nChoose the best ending:\nA. continues going around the basket while the camera is sitting in the back.\nB. continues to speak and leads into more clips of him playing tennis.\nC. pulls the ball up on the court while still speaking to the camera.\nD. continues speaking as more shots are shown of the boy playing basketball.\nRespond with A, B, C or D.\n\nAnswer:\n",
     "answers": [
-      "D. continues speaking as more shots are shown of the boy playing basketball.",
-      "D. continues speaking as more shots are shown of the boy playing basketball.",
-      "D. continues speaking as more shots are shown of the boy playing basketball."
+      "D. continues speaking as more shots are shown of the boy playing basketball.  \n####"
     ],
     "gold": "D",
-    "latency": 0.828900712003815
+    "latency": 0.8824186090059811
   }
 ]

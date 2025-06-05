@@ -1,0 +1,902 @@
+[
+  {
+    "id": null,
+    "prompt": "A man is sitting on a roof. he\n\nChoose the best ending:\nA. is using wrap to wrap a pair of skis.\nB. is ripping level tiles off.\nC. is holding a rubik's cube.\nD. starts pulling up roofing on a roof.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario \"A man is sitting on a roof,\" we should consider the context and feasibility of each option.\n\nA. \"is using wrap to wrap a pair of skis.\" - This scenario seems unlikely on a roof, as wrapping skis is typically done in a more suitable environment.\n\nB. \"is ripping level tiles off.\" - This is plausible as someone might be working on repairs or renovations on a roof.\n\nC. \"is holding a rubik's cube.\" - While this is possible, it doesn't relate to the context of being on a roof and does not imply any activity relevant to the environment.\n\nD. \"starts pulling up roofing on a roof.\" - This is also plausible and relates directly to the activity that could be done on a roof.\n\nBoth B and D are feasible, but D specifically mentions \"pulling up roofing,\" which is a common task associated with being on a roof.\n\nAfter considering all options, the best ending is D.\n\n#### D"
+    ],
+    "gold": "D",
+    "latency": 3.570960921992082
+  },
+  {
+    "id": null,
+    "prompt": "A lady walks to a barbell. She bends down and grabs the pole. the lady\n\nChoose the best ending:\nA. swings and lands in her arms.\nB. pulls the barbell forward.\nC. pulls a rope attached to the barbell.\nD. stands and lifts the weight over her head.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario, let's analyze the situation:\n\n1. The lady is at a barbell, which typically involves weightlifting.\n2. She bends down and grabs the pole, suggesting she is preparing to lift it.\n3. The actions that follow should logically involve lifting or moving the barbell.\n\nNow, let's consider the options:\n\nA. swings and lands in her arms - This doesn't make sense because swinging isn't a typical action associated with lifting a barbell.\nB. pulls the barbell forward - While this is a possible action, it doesn't indicate lifting the weight.\nC. pulls a rope attached to the barbell - This action is unrelated to how one typically interacts with a barbell directly.\nD. stands and lifts the weight over her head - This is the most logical continuation of her action since she is at a barbell and has bent down to grab it.\n\nGiven the context of the scenario, the best ending is:\n\n#### D"
+    ],
+    "gold": "D",
+    "latency": 4.8072698839969235
+  },
+  {
+    "id": null,
+    "prompt": "Two women in a child are shown in a canoe while a man pulls the canoe while standing in the water, with other individuals visible in the background. the child and a different man\n\nChoose the best ending:\nA. are then shown paddling down a river in a boat while a woman talks.\nB. are driving the canoe, they go down the river flowing side to side.\nC. sit in a canoe while the man paddles.\nD. walking go down the rapids, while the man in his helicopter almost falls and goes out of canoehood.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending, we need to analyze the given scenario and the options provided.\n\n1. The scenario describes two women and a child in a canoe, with a man standing in the water pulling the canoe. This indicates that they are likely not actively moving down the river at this moment, but rather are in a static or stationary situation.\n\n2. We need to consider the options:\n   - **A.** suggests that they are paddling down the river while a woman talks. This implies movement and conversation, which does not align with the current scenario where the man is pulling the canoe.\n   - **B.** suggests they are driving the canoe down the river, which also implies they are already moving, conflicting with the situation of the man pulling the canoe.\n   - **C.** suggests that they sit in a canoe while the man paddles. This could fit into the scenario if we interpret \"the man paddles\" as referring to the man who is pulling the canoe and may start paddling. However, it does not directly match with the current action of pulling.\n   - **D.** describes an unrelated scenario involving a man in a helicopter, which doesn't connect to the situation of the canoe.\n\nAfter careful consideration, the option that most closely aligns"
+    ],
+    "gold": "C",
+    "latency": 6.862180479991366
+  },
+  {
+    "id": null,
+    "prompt": "A boy is running down a track. the boy\n\nChoose the best ending:\nA. runs into a car.\nB. gets in a mat.\nC. lifts his body above the height of a pole.\nD. stands on his hands and springs.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the sentence about a boy running down a track, we need to consider each option carefully:\n\nA. \"runs into a car.\" - This implies an accident, which could be dangerous and is not a typical or positive continuation of a boy running.\n\nB. \"gets in a mat.\" - This phrase is unclear and does not logically connect to running down a track. It does not describe an action related to running.\n\nC. \"lifts his body above the height of a pole.\" - This suggests a physical feat related to running, possibly indicating high jumping or another athletic activity, which could be seen as a positive action.\n\nD. \"stands on his hands and springs.\" - This describes a gymnastic action, which is also related to physical activity but is less related to the context of running down a track.\n\nConsidering the context of a boy running down a track, option C is the most fitting as it suggests an action that could logically follow from running and shows a physical accomplishment. \n\nTherefore, the best ending is C. \n\n#### C"
+    ],
+    "gold": "C",
+    "latency": 4.146874362006201
+  },
+  {
+    "id": null,
+    "prompt": "The boy lifts his body above the height of a pole. The boy lands on his back on to a red mat. the boy\n\nChoose the best ending:\nA. turns his body around on the mat.\nB. gets up from the mat.\nC. continues to lift his body over the pole.\nD. wiggles out of the mat.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario provided, we need to analyze the context:\n\n1. The boy lifts his body above the height of a pole, which suggests he is performing some sort of acrobatic or athletic move, likely a jump or flip.\n2. He then lands on his back on a red mat, which indicates he has completed his jump or maneuver.\n3. Now we need to consider what the boy might do after landing on the mat.\n\nNow let's evaluate the options:\n- A. turns his body around on the mat: This could happen, but it does not imply a resolution to the action of landing.\n- B. gets up from the mat: This is a reasonable action after landing, as it implies he is ready to move on or continue with another activity.\n- C. continues to lift his body over the pole: This option is unlikely since he has already landed, and there is no indication that he would attempt to lift his body again after landing.\n- D. wiggles out of the mat: This option is also unlikely, as it doesn't seem practical or relevant to the scenario.\n\nGiven this analysis, the most logical choice is that after landing on the mat, the boy would likely get up from the mat.\n\nTherefore, the best ending"
+    ],
+    "gold": "B",
+    "latency": 5.271273535996443
+  },
+  {
+    "id": null,
+    "prompt": "The boy lands on his back on to a red mat. The boy gets up from the mat. the boy\n\nChoose the best ending:\nA. starts doing spins.\nB. celebrates by clapping and flexing both arms.\nC. is dancing on the mat.\nD. does jump jacks on his stick.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario where the boy lands on his back on a red mat and then gets up, we need to consider what actions would be most logical and fitting after getting up from the mat.\n\n1. **A. starts doing spins.** - This action is energetic and could be a possible response after getting up, but it seems a bit abrupt after landing on the back.\n  \n2. **B. celebrates by clapping and flexing both arms.** - This option suggests a sense of accomplishment. If the boy landed on his back and got up, he might feel triumphant and want to celebrate.\n\n3. **C. is dancing on the mat.** - Dancing could be a natural response after getting up, as it indicates joy and playfulness.\n\n4. **D. does jump jacks on his stick.** - This option is confusing. \"On his stick\" seems out of place and doesn't fit well with the action of getting up from a mat.\n\nNow, considering the context and typical behaviors of a boy after such an action, the most fitting and celebratory response would likely be **B. celebrates by clapping and flexing both arms.** This response indicates a positive reaction to having successfully gotten up after potentially falling."
+    ],
+    "gold": "B",
+    "latency": 5.938095555990003
+  },
+  {
+    "id": null,
+    "prompt": "A man is standing in front of a camera. He starts playing a harmonica for the camera. he\n\nChoose the best ending:\nA. begins to play the harmonica with his body while looking at the camera.\nB. seems to be singing while playing the harmonica.\nC. rocks back and forth to the music as he goes.\nD. painted a fence in front of the camera.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario provided, we need to consider the context in which the man is playing the harmonica in front of the camera. \n\n1. The man is performing with a harmonica, which typically involves music and a certain rhythm or style.\n2. Options A, B, and C all relate to actions that are connected to playing music. \n3. Option D is unrelated since painting a fence does not pertain to playing a harmonica or making music.\n\nNow let's analyze the remaining options:\n\n- **Option A**: \"begins to play the harmonica with his body while looking at the camera.\" This suggests a physical interaction with the music, which could be engaging for the audience.\n  \n- **Option B**: \"seems to be singing while playing the harmonica.\" This implies he is combining two forms of musical expression, which can be a common practice among harmonica players, but it's not explicitly stated that he is singing.\n\n- **Option C**: \"rocks back and forth to the music as he goes.\" This indicates an inherent enjoyment and rhythm to his playing, which is a natural response to music.\n\nConsidering the context of a man performing in front of a camera, all three options (A, B, and C"
+    ],
+    "gold": "C",
+    "latency": 4.248350469992147
+  },
+  {
+    "id": null,
+    "prompt": "A cartoon animation video is shown with people wandering around and rockets being shot. two men\n\nChoose the best ending:\nA. fight robots of evil and ends with a to be continued.\nB. are then shown in closeups shooting a shot put.\nC. push a child in a speedboat in the water.\nD. look in the cameraman's eye and smile.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the cartoon animation video described, we need to consider the context and the tone set by the initial scenes (people wandering and rockets being shot). \n\n1. **A. Fight robots of evil and ends with a to be continued.**\n   - This option maintains an adventurous and action-packed theme, suitable for a cartoon with rockets and possibly fantastical elements. It leaves room for continuation, which is often appealing in animations.\n\n2. **B. Are then shown in closeups shooting a shot put.**\n   - This option seems to shift the focus from action and adventure to a sport, which may not fit the established tone of the video. It could feel out of place.\n\n3. **C. Push a child in a speedboat in the water.**\n   - This option introduces a playful element but does not directly connect to the action or themes of rockets and wandering. It seems less dynamic compared to the other options.\n\n4. **D. Look in the cameraman's eye and smile.**\n   - While this could create a light-hearted moment, it may not provide a strong sense of resolution or adventure. It also breaks the fourth wall, which might not align with the previous action.\n\nGiven the context of the video, the most"
+    ],
+    "gold": "A",
+    "latency": 4.351581987008103
+  },
+  {
+    "id": null,
+    "prompt": "A man is holding a pocket knife while sitting on some rocks in the wilderness. then he\n\nChoose the best ending:\nA. opens a can of oil put oil on the knife, and puts oil on a knife and press it through a can filled with oil then cuts several pieces from the sandwiches.\nB. takes a small stone from the flowing river and smashes it on another stone.\nC. uses the knife to shave his leg.\nD. sand the rocks and tops them by using strong pressure.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario where a man is holding a pocket knife while sitting on some rocks in the wilderness, we should consider the practicality and logical flow of each option. \n\nA. This option describes a series of actions involving oil and sandwiches. However, it seems convoluted and doesn't make much sense, as it describes putting oil on the knife and then cutting sandwiches, which is not a typical use of a pocket knife.\n\nB. This option involves taking a stone and smashing it on another stone. While it might be possible, it doesn't seem relevant to the use of a pocket knife and lacks a clear purpose.\n\nC. This option involves using the knife to shave his leg. This is a plausible use of a pocket knife, as people sometimes use knives for personal grooming in wilderness situations.\n\nD. This option talks about sanding rocks, which seems impractical and unrelated to the use of a pocket knife.\n\nGiven these analyses, option C appears to be the most reasonable and relevant use of a pocket knife in the wilderness context.\n\nTherefore, the best ending is C. \n\n#### C"
+    ],
+    "gold": "B",
+    "latency": 3.481799854998826
+  },
+  {
+    "id": null,
+    "prompt": "Then he takes a small stone from the flowing river and smashes it on another stone. He starts to crush the small stone to smaller pieces. he\n\nChoose the best ending:\nA. cuts the center stone in half and blow it on to make it bigger.\nB. grind it hard to make the pieces smaller.\nC. eventually brings it back into view and adds it to the smaller ones to make a small triangular shaped piece.\nD. starts to party with them and throw the pieces by hand while they celebrate.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario provided, let's analyze the actions and context step-by-step.\n\n1. The character starts with a small stone and is actively engaged in smashing it against another stone. This indicates a focus on breaking the stone down into smaller pieces.\n\n2. The options given should logically follow the action of crushing or grinding the stone. \n\n3. Option A talks about cutting a stone in half and making it bigger, which contradicts the action of crushing. \n\n4. Option B mentions grinding the stone hard to make the pieces smaller, which aligns perfectly with the action of crushing and is a natural continuation of the process described.\n\n5. Option C introduces the idea of bringing pieces back into view and forming a triangular shape, which seems less relevant to the act of crushing stones.\n\n6. Option D suggests celebrating with the pieces and throwing them, which does not relate to the initial action of crushing the stone.\n\nGiven the analysis, the best ending that logically follows the action of crushing the stone is:\n\n#### B"
+    ],
+    "gold": "B",
+    "latency": 3.580675056000473
+  },
+  {
+    "id": null,
+    "prompt": "Then he takes a piece of bark and rubs the powered stone pieces onto it. The stone particles stick to the wet piece of wood. he\n\nChoose the best ending:\nA. uses a small brush to polish one of the stone pieces.\nB. then uses a strip of sealing tape to seal the board and then smooths the bottom of the board.\nC. walks towards the camera.\nD. then takes the knife and sharpens it against the wood piece.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending to the provided scenario, we need to analyze the actions described and identify which option logically follows.\n\n1. The subject is rubbing powdered stone onto a wet piece of bark, which suggests they are applying the stone particles for a purpose, possibly related to crafting or refining something.\n2. The next logical step would involve either enhancing the appearance of the stone pieces or preparing the bark in some way.\n\nNow, let's evaluate the options:\n- **A**: \"uses a small brush to polish one of the stone pieces.\" This is a plausible continuation as it relates directly to enhancing the stone pieces after applying the powder.\n- **B**: \"then uses a strip of sealing tape to seal the board and then smooths the bottom of the board.\" This option introduces a new action that doesn't directly connect to the previous actions involving the bark and stone.\n- **C**: \"walks towards the camera.\" This option does not relate to the ongoing task at hand and seems out of context.\n- **D**: \"then takes the knife and sharpens it against the wood piece.\" While sharpening a knife could relate to the wood, it diverges from the focus on the stone application.\n\nGiven these evaluations, option **A** is the best fit as"
+    ],
+    "gold": "D",
+    "latency": 4.095243310002843
+  },
+  {
+    "id": null,
+    "prompt": "The stone particles stick to the wet piece of wood. He then takes the knife and sharpens it against the wood piece. he\n\nChoose the best ending:\nA. then cuts off the excess hair of the wood.\nB. scrapes the wood with a broom in the cutting tool used in sharpening the instrument.\nC. writes on the board again.\nD. then notices a little black and green poisonous frog sitting next to him.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To find the best ending for the scenario, let's analyze the context:\n\n1. The scenario starts with stone particles sticking to a wet piece of wood, implying a situation where the wood is being processed or worked on.\n2. The character sharpens a knife against this wood piece, which suggests a focus on preparing a tool for cutting or crafting.\n3. The options presented as potential endings need to logically follow this activity of sharpening.\n\nNow, let's evaluate each option:\n\nA. \"then cuts off the excess hair of the wood.\" - This doesn't make much sense, as wood does not have hair. \n\nB. \"scrapes the wood with a broom in the cutting tool used in sharpening the instrument.\" - This is confusing because a broom is not a cutting tool and does not fit with the action of sharpening.\n\nC. \"writes on the board again.\" - This seems unrelated to the sharpening of the knife and the wood context.\n\nD. \"then notices a little black and green poisonous frog sitting next to him.\" - This introduces an external element that could be part of the scene, providing a potential distraction or surprise.\n\nGiven the context of the sharpening and the nature of the narrative, the best option that logically follows is:\n\nD. \"then notices a little black and green"
+    ],
+    "gold": "D",
+    "latency": 5.684326035989216
+  },
+  {
+    "id": null,
+    "prompt": "He then takes the knife and sharpens it against the wood piece. He then notices a little black and green poisonous frog sitting next to him. the frog\n\nChoose the best ending:\nA. eventually gets to get up and marches out of the room waving its body about.\nB. then starts to get up from the chair and begins walking towards the camera.\nC. then escapes and jumps away.\nD. is acting crazy and attacking him while he is cooking.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scene, we need to consider the context provided.\n\n1. **Setting the Scene**: The character is sharpening a knife and notices a frog nearby. This suggests a moment of focus and perhaps a sense of danger or tension due to the presence of a poisonous frog.\n\n2. **Analyzing the Options**:\n   - **A**: \"eventually gets to get up and marches out of the room waving its body about.\" - This feels more whimsical and doesn't reflect the seriousness of the situation with a poisonous frog.\n   - **B**: \"then starts to get up from the chair and begins walking towards the camera.\" - This adds a human action that doesn\u2019t fit with the frog\u2019s behavior.\n   - **C**: \"then escapes and jumps away.\" - This is a plausible reaction for a frog, especially a poisonous one, trying to avoid danger.\n   - **D**: \"is acting crazy and attacking him while he is cooking.\" - This option introduces conflict but seems unlikely for a frog, especially considering its poisonous nature; it wouldn't typically attack.\n\n3. **Conclusion**: The most fitting and logical ending, considering the nature of a frog and the context of danger, is C. The frog would logically want"
+    ],
+    "gold": "C",
+    "latency": 4.9643752179981675
+  },
+  {
+    "id": null,
+    "prompt": "He then notices a little black and green poisonous frog sitting next to him. The frog then escapes and jumps away. he\n\nChoose the best ending:\nA. sits and hugs another man and also adjusts his camera.\nB. then sits there staring at his text machine as if he has actually been given a gift from god.\nC. explains how the frog secretes a poisonous fluid that can be extremely harmful.\nD. takes the frog on his hand and tickles the back of it.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To choose the best ending, we need to think about the context and the character's reaction to the frog:\n\n1. **Character's Reaction**: The character notices a poisonous frog, which implies a sense of caution or intrigue. A poisonous frog could be dangerous, so the character's actions should reflect that awareness.\n\n2. **Options Analysis**:\n   - **A**: Sits and hugs another man and also adjusts his camera. This seems unrelated to the frog and doesn't reflect any reaction to the moment.\n   - **B**: Staring at his text machine as if given a gift from god. This could imply a sense of awe, but it doesn\u2019t connect with the frog\u2019s presence directly.\n   - **C**: Explains how the frog secretes a poisonous fluid that can be extremely harmful. This shows a direct response to the frog's nature and is informative. It reflects awareness of the frog's danger.\n   - **D**: Takes the frog on his hand and tickles the back of it. This seems reckless given the frog's poisonous nature. \n\n3. **Conclusion**: The most logical response that acknowledges the situation with the poisonous frog is option C, as it demonstrates knowledge and caution about the frog's poison.\n\nTherefore, the"
+    ],
+    "gold": "C",
+    "latency": 4.606810817000223
+  },
+  {
+    "id": null,
+    "prompt": "A person is playing bagpipes out in a park. A man and two boys watching from a far. the camera\n\nChoose the best ending:\nA. shoots areas all around the park while the bagpipes play.\nB. is covered to the boy that is playing there.\nC. then goes black and we see a black opening scene.\nD. watching the boy and boy as they play a game of drums.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scene described, let's analyze the options:\n\nA. \"shoots areas all around the park while the bagpipes play.\" - This suggests a broad view of the park, capturing the ambiance and setting, which fits well with the presence of music from the bagpipes.\n\nB. \"is covered to the boy that is playing there.\" - This implies a focus on a specific boy, but it doesn't connect well with the bagpipes or the scene as a whole.\n\nC. \"then goes black and we see a black opening scene.\" - This seems abrupt and does not provide a coherent continuation of the scene.\n\nD. \"watching the boy and boy as they play a game of drums.\" - This introduces another activity (drumming) that isn't relevant to the bagpipes being played.\n\nConsidering the context of a person playing bagpipes and the effect that the music might have on the surroundings, option A makes the most sense as it enhances the overall atmosphere of the scene.\n\nThus, the best ending is:\n\n#### A"
+    ],
+    "gold": "A",
+    "latency": 3.45235958500416
+  },
+  {
+    "id": null,
+    "prompt": "Two people are seen passing a ball back and fourth in a pool and leads into one speaking to the camera. the man\n\nChoose the best ending:\nA. dips the ball and walks back with the boy and pours detergent into a cup again.\nB. then throws the ball into the pool and begins running around with a sail in his hand while a group of men watch.\nC. then takes a drink having a conversation with another man and another man leads into him throwing balls in the water and laughing to the camera.\nD. demonstrates how to properly throw the ball with his hands while still speaking to the camera.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending to the scenario described, we need to consider the context provided. The scene starts with two people passing a ball back and forth in a pool, which suggests an informal, playful atmosphere. \n\nNow, let's analyze each option:\n\nA. Dips the ball and walks back with the boy and pours detergent into a cup again.\n- This ending seems to take a shift away from the playful activity and introduces an unrelated action (pouring detergent), which doesn't fit with the scene's vibe.\n\nB. Then throws the ball into the pool and begins running around with a sail in his hand while a group of men watch.\n- This option maintains the playful element of throwing and playing in the pool, but introduces a sail, which may not directly relate to the ball activity.\n\nC. Then takes a drink having a conversation with another man and another man leads into him throwing balls in the water and laughing to the camera.\n- This ending keeps the social and playful atmosphere intact, as it involves conversation and laughter, which aligns well with the scene of passing a ball.\n\nD. Demonstrates how to properly throw the ball with his hands while still speaking to the camera.\n- This option focuses on a demonstration, which could be interesting but may detract from the playful nature"
+    ],
+    "gold": "D",
+    "latency": 3.923518666997552
+  },
+  {
+    "id": null,
+    "prompt": "A woman is sitting at a table in a fast food restaurant while eating. She continually speaks to nobody as she eats. she\n\nChoose the best ending:\nA. is then seen sitting alone as she eats a cold brown ice cream.\nB. pauses in the process of eating to enjoy her food.\nC. stands up and grabs her purse, continuing to talk and laugh as she leaves.\nD. picks up another chocolate bar and chews it as she talks.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario provided, let's analyze the given context.\n\n1. **Setting**: A woman is sitting alone at a table in a fast food restaurant. This suggests she is in a casual, possibly busy environment.\n\n2. **Behavior**: She is eating while continually speaking to nobody. This implies she might be talking to herself or perhaps imagining a conversation, which can suggest she is in a reflective or distracted state.\n\nNow, let's evaluate the options:\n\nA. **is then seen sitting alone as she eats a cold brown ice cream.** - This ending reflects her sitting alone but does not connect with her talking or the context of her behavior.\n\nB. **pauses in the process of eating to enjoy her food.** - This option suggests a moment of enjoyment but does not align with the idea of her talking to nobody.\n\nC. **stands up and grabs her purse, continuing to talk and laugh as she leaves.** - This ending introduces movement and a social aspect (talking and laughing) that is consistent with her behavior of speaking to nobody, showing she is perhaps engaged in her own world.\n\nD. **picks up another chocolate bar and chews it as she talks.** - This option continues the theme of eating and talking"
+    ],
+    "gold": "C",
+    "latency": 3.8854590410046512
+  },
+  {
+    "id": null,
+    "prompt": "A group of cheerleaders run onto a stage before a cheering audience. they\n\nChoose the best ending:\nA. get into formation, then begin dancing and flipping as male cheerleaders join them.\nB. perform a cheer routine before the girls, along with makeup artists, spread out and pose.\nC. take turns jumping on each other like they are performing karate.\nD. are then shown performing the type of cheerleading dance, using batons and pole vaults.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario where a group of cheerleaders runs onto a stage before an audience, we should consider the context and typical activities associated with cheerleading.\n\n1. **Context of Cheerleading**: Cheerleaders typically perform routines that involve synchronized movements, dancing, and acrobatics. They often work in formations and may incorporate props or stunts.\n\n2. **Evaluating Options**:\n   - **A**: \"get into formation, then begin dancing and flipping as male cheerleaders join them.\" \n     - This option aligns well with traditional cheerleading activities. It mentions getting into formation, which is standard, and includes dancing and flipping, which are typical cheerleading stunts.\n   - **B**: \"perform a cheer routine before the girls, along with makeup artists, spread out and pose.\"\n     - This option is less about the performance and more about posing, which isn't typically a focus in cheerleading routines.\n   - **C**: \"take turns jumping on each other like they are performing karate.\"\n     - This description does not accurately represent cheerleading. It sounds more like martial arts and does not fit the cheerleading context.\n   - **D**: \"are then shown performing the type of cheerleading dance, using bat"
+    ],
+    "gold": "A",
+    "latency": 4.710879489997751
+  },
+  {
+    "id": null,
+    "prompt": "A group of cheerleaders run onto a stage before a cheering audience. They get into formation, then begin dancing and flipping as male cheerleaders join them. they all\n\nChoose the best ending:\nA. dance and flip on stage while hanging their hats on the sides.\nB. continue dancing and flipping, doing hand springs.\nC. dance together with flip up their sleeves.\nD. perform their routines as the studio rashes to a halt with cheerleaders in the audience.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario given:\n\n1. **Setting the Scene**: The cheerleaders have just run onto the stage and are performing in front of an audience. This indicates a lively and energetic routine.\n\n2. **Action Described**: They are dancing and flipping, which suggests they are performing acrobatics and choreographed movements, typical of cheerleading performances.\n\n3. **Analyzing the Options**:\n   - **Option A**: \"dance and flip on stage while hanging their hats on the sides.\" \u2013 This seems nonsensical as it doesn't fit the high-energy performance vibe.\n   - **Option B**: \"continue dancing and flipping, doing hand springs.\" \u2013 This maintains the theme of active movement and cheerleading, making it a strong choice.\n   - **Option C**: \"dance together with flip up their sleeves.\" \u2013 This is somewhat vague and does not enhance the excitement of the performance.\n   - **Option D**: \"perform their routines as the studio rashes to a halt with cheerleaders in the audience.\" \u2013 This introduces confusion as it implies a halt, which contradicts the ongoing performance.\n\n4. **Choosing the Best Option**: Given that the cheerleaders are already engaged in an energetic performance, Option B"
+    ],
+    "gold": "B",
+    "latency": 3.9953480679978384
+  },
+  {
+    "id": null,
+    "prompt": "They get into formation, then begin dancing and flipping as male cheerleaders join them. They all continue dancing and flipping, doing hand springs. when they\n\nChoose the best ending:\nA. are done, they shake hands and walk away, but cheers are heard all around as they're finished.\nB. are finished, they jump up and down happily and walk off the stage, exhausted.\nC. are done, a male cheerleader is crowned and an instant replay is shown.\nD. come down from their workout, they all stop to bow and applaud, then they continue dancing.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario where cheerleaders are dancing, flipping, and doing hand springs, we need to consider the context of cheerleading performances and the emotions typically involved.\n\n1. The cheerleaders have put in a lot of effort, evidenced by their dancing and flipping.\n2. Cheerleading performances often culminate in some form of acknowledgment or celebration after a routine.\n3. The options provided offer various outcomes reflecting different levels of excitement or conclusion to the performance.\n\nNow let's analyze the options:\n\nA. \"are done, they shake hands and walk away, but cheers are heard all around as they're finished.\" - This suggests a respectful end to the performance with audience appreciation but lacks a celebratory or emotional high from the cheerleaders themselves.\n\nB. \"are finished, they jump up and down happily and walk off the stage, exhausted.\" - This conveys a sense of joy and excitement, reflecting the hard work they put in and the satisfaction of completing a routine.\n\nC. \"are done, a male cheerleader is crowned and an instant replay is shown.\" - This option introduces a competitive element, which is not typically a feature of cheerleading routines, making it less fitting.\n\nD. \"come down from their workout, they all stop to bow and applaud, then"
+    ],
+    "gold": "B",
+    "latency": 4.605627872995683
+  },
+  {
+    "id": null,
+    "prompt": "A woman is reading a newspaper nearby while he speaks to her and shows her something in his hand. The man sharpens his knives using an electric tool. he\n\nChoose the best ending:\nA. sharpens and cuts something on a knife board using an electric tool.\nB. then continues cutting his onion.\nC. travels with his knife under the table and uses it also in his shoe.\nD. then shows her a spare knife that he has also used on a knife sharpener and drills into a side of the table.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario presented, we should consider the context and the actions of the characters involved.\n\n1. The man is sharpening his knives using an electric tool. This suggests that he is engaged in some task related to preparing food or maintaining his cooking tools.\n  \n2. He is speaking to a woman who is reading a newspaper. This indicates a casual interaction, possibly while cooking or preparing food.\n\nNow, let's analyze the options:\n\nA. \"sharpens and cuts something on a knife board using an electric tool.\" - This option makes sense as it continues the theme of knife usage and preparation.\n\nB. \"then continues cutting his onion.\" - This is a logical progression after sharpening knives, as he might be preparing food.\n\nC. \"travels with his knife under the table and uses it also in his shoe.\" - This option seems out of context and does not logically follow from the previous actions.\n\nD. \"then shows her a spare knife that he has also used on a knife sharpener and drills into a side of the table.\" - This option introduces an unusual and impractical action (drilling into a table), which doesn't seem to fit the scenario.\n\nThe most coherent and logical continuation of the man's actions after sharpening the knives would be to cut"
+    ],
+    "gold": "B",
+    "latency": 5.529348500989727
+  },
+  {
+    "id": null,
+    "prompt": "A man is outside of a building. He is using commercial lawn mowing equipment. he\n\nChoose the best ending:\nA. walks back and forth as he mows the grass.\nB. is animated as he does the task.\nC. relaxes, making sure his lawn is pristine.\nD. runs from one side of the building to the other.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the given scenario, let's analyze each option:\n\nA. walks back and forth as he mows the grass. \n- This is a common method of mowing lawns, suggesting a practical approach to the task.\n\nB. is animated as he does the task.\n- This suggests enthusiasm, but it doesn't specifically relate to the act of mowing grass.\n\nC. relaxes, making sure his lawn is pristine.\n- While this conveys a sense of care, \"relaxes\" may not fit well with the action of actively mowing.\n\nD. runs from one side of the building to the other.\n- This implies urgency or an unusual method of mowing, which is not typical behavior for lawn mowing.\n\nConsidering the context of using commercial lawn mowing equipment, the most logical and conventional action would be to mow the grass in a systematic manner. Therefore, the best ending is:\n\n#### A"
+    ],
+    "gold": "A",
+    "latency": 3.7849390350020258
+  },
+  {
+    "id": null,
+    "prompt": "Children bring desert out for their family member. the family\n\nChoose the best ending:\nA. floats in a river.\nB. member stands looking into a hut and then handing people photographs.\nC. member cuts a piece of sunscreen.\nD. enjoys eating the desert together.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To find the best ending for the scenario where children bring dessert out for their family member, we need to analyze each option:\n\nA. \"floats in a river.\" - This option does not relate to the context of a family gathering or enjoying dessert.\n\nB. \"member stands looking into a hut and then handing people photographs.\" - This option is not directly related to the act of enjoying dessert and seems to introduce a different activity.\n\nC. \"member cuts a piece of sunscreen.\" - This option is unrelated to the context of dessert and does not make sense in this scenario.\n\nD. \"enjoys eating the dessert together.\" - This option directly relates to the scenario of children bringing dessert and implies a positive family interaction.\n\nThe best ending that fits the context is D. \n\n#### D"
+    ],
+    "gold": "D",
+    "latency": 3.1763667070044903
+  },
+  {
+    "id": null,
+    "prompt": "The family enjoys eating the desert together. The people in the restaurant laugh at the man and he wonders what they are doing. the man\n\nChoose the best ending:\nA. goes to the bathroom and isn't able to get very far.\nB. puts the glass aside and a fourth person walks in and walks away.\nC. plays the bagpipe and smiles and laughs as he enjoys the hospitality.\nD. gets up and walks away to the other room.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To find the best ending for the scenario provided, we need to consider the context and the emotional tone established in the opening sentences.\n\n1. The family enjoys eating dessert together, which creates a warm and happy atmosphere.\n2. The man is feeling confused or curious about why the people in the restaurant are laughing at him. This suggests he might be feeling a bit out of place or self-conscious.\n3. We need to choose an ending that fits with the theme of the family enjoying their time and the man's reaction to being laughed at.\n\nNow, let's analyze each option:\n\nA. \"goes to the bathroom and isn't able to get very far.\" - This option doesn't relate well to the scenario and doesn't resolve the man's confusion. It seems more negative and disconnected from the family theme.\n\nB. \"puts the glass aside and a fourth person walks in and walks away.\" - This option introduces a new character but doesn\u2019t address the man's feelings or provide a resolution to the laughter he is experiencing.\n\nC. \"plays the bagpipe and smiles and laughs as he enjoys the hospitality.\" - This option introduces a positive action. Playing the bagpipe could be seen as a way to engage with the laughter, and smiling and laughing suggests he is embracing the moment and enjoying the company.\n\nD"
+    ],
+    "gold": "D",
+    "latency": 4.809218589987722
+  },
+  {
+    "id": null,
+    "prompt": "A black female is shown in a room with a black scarf around her head. black spots on her faced\n\nChoose the best ending:\nA. are then zoomed in on and she begins to apply something on it.\nB. are shown and she misses a little bit of her swing.\nC. are shown and one finger is seen poking through.\nD. are shown as she continues to dance around on the hardwood and every move makes a lash on her face.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the sentence, we need to analyze the context provided by the initial description. The scene describes a black female wearing a black scarf and having black spots on her face. \n\n1. **Analyze the options:**\n   - **A**: Suggests applying something to her face, which relates directly to the black spots and could imply a beauty or skincare routine.\n   - **B**: Talks about missing a swing, which doesn\u2019t relate to the description and seems out of context.\n   - **C**: Mentions a finger poking through, which is vague and unclear in relation to the black spots or the scarf.\n   - **D**: Describes her dancing around, which could be a lively scene, but doesn\u2019t connect well with the black spots on her face.\n\n2. **Consider the most relevant ending:**\n   - Option A seems to be the most relevant since it directly addresses the black spots on her face and suggests an action (applying something) that is coherent with the context of beauty or skincare. \n\nThus, the best choice is A.\n\n#### A"
+    ],
+    "gold": "A",
+    "latency": 4.199621688007028
+  },
+  {
+    "id": null,
+    "prompt": "A black female is shown in a room with a black scarf around her head. Black spots on her faced are then zoomed in on and she begins to apply something on it. next\n\nChoose the best ending:\nA. , she begins to brush her lips and make painted lips look just like a lipstick to the camera and ends with her closing gift and instruction showing her off at the end.\nB. she is shown in various different locations and gets extremely close to a wall.\nC. , she is shown making multiple moans and sprays some kind of liquid down her face before hanging up.\nD. , she takes some spray and it makes her skin extremely oily and she continues to talk until the video is over.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending, let's analyze the options based on the context provided:\n\n1. The scene begins with a black female character wearing a black scarf and applying something to her face, which suggests a beauty or skincare routine.\n   \n2. Option A describes her brushing her lips and applying lipstick, which fits well with the idea of applying something to her face (makeup) and has a positive, polished conclusion.\n\n3. Option B has her shown in different locations and getting close to a wall, which seems disconnected from the initial focus on her applying something to her face.\n\n4. Option C involves moans and spraying liquid on her face, which seems inconsistent with the beauty routine theme and might imply something more unrelated or inappropriate.\n\n5. Option D mentions her applying a spray that makes her skin oily, but it doesn't have the same positive or polished conclusion as option A.\n\nConsidering the context of makeup and beauty, the most suitable ending that aligns with the initial scene is:\n\n#### A"
+    ],
+    "gold": "D",
+    "latency": 3.275528566999128
+  },
+  {
+    "id": null,
+    "prompt": "A helicopter flies in some people who then start playing paintball. they\n\nChoose the best ending:\nA. run around obstacles and have a great time.\nB. lose their shirt during the fight and run back the others.\nC. shoot at each other while the helicopter drone who am looking on.\nD. chase a bird in the sky while others walk around.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To choose the best ending, let's analyze each option:\n\nA. \"run around obstacles and have a great time.\" - This suggests an active and enjoyable experience, which aligns well with the fun nature of paintball.\n\nB. \"lose their shirt during the fight and run back the others.\" - This option seems less likely to convey a positive or enjoyable experience. Losing clothing in a fight might imply a more chaotic scenario.\n\nC. \"shoot at each other while the helicopter drone who am looking on.\" - This option involves the helicopter still being present, but it doesn't really capture the essence of paintball as a fun activity. The wording is also awkward (\"who am looking on\").\n\nD. \"chase a bird in the sky while others walk around.\" - This option doesn't relate to the paintball activity and seems out of context. \n\nConsidering the nature of the activity (paintball) and the focus on enjoyment, option A stands out as the most fitting.\n\nThus, the best ending is A. \n\n#### A"
+    ],
+    "gold": "A",
+    "latency": 3.7216382659971714
+  },
+  {
+    "id": null,
+    "prompt": "A young boy and girl are standing over a sink with their mother talking. the mother\n\nChoose the best ending:\nA. is now putting lipstick on the boy's mouth and he tries to stop her but only gets a little bit stuck.\nB. washes the boy while the child grabs shampoo.\nC. shows some shaving cream on the boy who is scrubbing her brushes.\nD. instructs them on how to brush their teeth while laughing.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending, let's analyze each option in the context of the scenario presented:\n\n1. **Option A**: The mother is putting lipstick on the boy's mouth, and he tries to stop her. This could suggest a playful or humorous situation, but it might not be the most appropriate scene over a sink where typically washing or cleaning occurs.\n\n2. **Option B**: The mother washes the boy while he grabs shampoo. This is a typical activity that could happen at a sink, especially in a bathing or washing context. However, it does not involve the girl or indicate any interaction between the children.\n\n3. **Option C**: The mother shows the boy shaving cream while he is scrubbing her brushes. This scenario is a bit confusing because it mixes activities that don't typically happen simultaneously. It also doesn't involve the girl.\n\n4. **Option D**: The mother instructs them on how to brush their teeth while laughing. This is a common activity that occurs around a sink, involves both children, and indicates a fun and educational moment.\n\nConsidering the context of the scene, the most fitting and logical ending is D, as it involves both children and aligns with typical activities that might occur at a sink, all while promoting a positive interaction.\n\nThus, the"
+    ],
+    "gold": "D",
+    "latency": 3.957511575994431
+  },
+  {
+    "id": null,
+    "prompt": "A young boy and girl are standing over a sink with their mother talking. The mother instructs them on how to brush their teeth while laughing. the boy\n\nChoose the best ending:\nA. puts a shirt on and rubs his mouth.\nB. helps his younger sister brush his teeth.\nC. walks with an empty mouthwash cup on a sink floor.\nD. and girl then begin working out.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario provided, we need to analyze each option in the context of the situation.\n\n1. The scene involves a mother instructing her children on how to brush their teeth. This indicates that the focus is on dental hygiene and the children\u2019s participation in that.\n\n2. Option A states that the boy puts a shirt on and rubs his mouth. This action seems unrelated to brushing teeth and doesn't fit well with the context of the mother instructing them on dental care.\n\n3. Option B suggests that the boy helps his younger sister brush his teeth. This option aligns well with the scenario, as it shows the boy actively participating in the dental care process and supporting his sister, which fits the mother\u2019s instruction.\n\n4. Option C mentions the boy walking with an empty mouthwash cup on a sink floor. While this could be related to the dental hygiene theme, it doesn\u2019t indicate active participation in brushing teeth and seems less relevant.\n\n5. Option D states that the boy and girl then begin working out. This option is completely unrelated to the context of brushing teeth and does not fit the scenario at all.\n\nBased on this analysis, the best ending that fits the context of the scenario is option B.\n\n#### B"
+    ],
+    "gold": "B",
+    "latency": 4.1985794530046405
+  },
+  {
+    "id": null,
+    "prompt": "The mother instructs them on how to brush their teeth while laughing. The boy helps his younger sister brush his teeth. she\n\nChoose the best ending:\nA. shows how to hit the mom and then kiss his dad as well.\nB. brushes past the camera, looking better soon after.\nC. glows from the center of the camera as a reaction.\nD. gets them some water to gargle in their mouths.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario provided, let's analyze the context and the options given.\n\n1. The scenario begins with a mother instructing her children on how to brush their teeth, indicating a focus on good hygiene and playful moments.\n2. The boy is helping his younger sister brush her teeth, which suggests a nurturing and supportive interaction between siblings.\n\nNow let's evaluate the options:\n\nA. \"shows how to hit the mom and then kiss his dad as well.\" - This option seems inappropriate and does not align with the context of teaching good hygiene and nurturing behavior.\n\nB. \"brushes past the camera, looking better soon after.\" - This option implies a transformation but lacks a clear connection to the action of brushing teeth or the playful moment established.\n\nC. \"glows from the center of the camera as a reaction.\" - While this is a positive and whimsical option, it doesn\u2019t directly relate to the act of brushing teeth or the instructional moment.\n\nD. \"gets them some water to gargle in their mouths.\" - This option is practical and directly relates to the dental hygiene context, as gargling water is often part of the teeth brushing routine.\n\nConsidering the context of the scenario, option D is the most relevant and logical conclusion.\n\nTherefore, the best ending is"
+    ],
+    "gold": "D",
+    "latency": 5.422853033989668
+  },
+  {
+    "id": null,
+    "prompt": "She gets them some water to gargle in their mouths. The boy and girl begin playing in the sink. the woman\n\nChoose the best ending:\nA. shakes her head in disbelief and waves at her.\nB. laughs at the children dribbling water.\nC. comes back and talks to the boys.\nD. gets some food out of the fridge and they continue playing together.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario, we need to consider the context and the actions of the characters involved.\n\n1. **Context**: The woman has given the children water to gargle, and they are now playing in the sink. This indicates a playful and perhaps slightly messy situation.\n\n2. **Character Reactions**: \n   - **A. shakes her head in disbelief and waves at her.** - This option suggests disapproval or surprise, which doesn't seem to fit the playful tone.\n   - **B. laughs at the children dribbling water.** - This option conveys a positive reaction to the children's playful behavior, which aligns well with the context.\n   - **C. comes back and talks to the boys.** - This option lacks engagement with the children\u2019s playfulness and doesn't seem as fitting.\n   - **D. gets some food out of the fridge and they continue playing together.** - While this suggests continued interaction, it shifts focus to food rather than engaging with the current play.\n\n3. **Conclusion**: The most fitting ending that matches the playful and lighthearted atmosphere is **B**, as it shows the woman enjoying the children's antics rather than being disapproving or distracted.\n\nThus, the best ending is:\n#### B"
+    ],
+    "gold": "B",
+    "latency": 9.733255425002426
+  },
+  {
+    "id": null,
+    "prompt": "A cat is sitting in a cat bed. It is licking its paw. it\n\nChoose the best ending:\nA. then wipes its paw on its ear.\nB. crawls to the door.\nC. 's laying down about six inches away from the camera.\nD. crawls on one foot to get closer to the camera.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To choose the best ending for the scenario given, we need to consider the context of the cat sitting in a cat bed and licking its paw.\n\n1. **A. then wipes its paw on its ear.** - This is a natural behavior for a cat, as they often groom themselves and might use their paw to clean their ear. It fits well with the action of licking its paw.\n\n2. **B. crawls to the door.** - This action seems less likely immediately after licking its paw. It does not connect well with the current action of grooming.\n\n3. **C. 's laying down about six inches away from the camera.** - This is a possible continuation, but it doesn't directly relate to the action of licking its paw. It describes the cat's position rather than its actions.\n\n4. **D. crawls on one foot to get closer to the camera.** - This is quite unusual behavior for a cat, especially right after licking its paw. Cats do not typically crawl on one foot.\n\nGiven these considerations, the most logical and natural continuation of the scenario is option A, where the cat wipes its paw on its ear after licking it.\n\nThus, the best ending is:\n\n#### A"
+    ],
+    "gold": "A",
+    "latency": 5.216021012995043
+  },
+  {
+    "id": null,
+    "prompt": "A man in brown jacket is pulling out an arrow from the target board, then he was talking to the camera, then he pull out his bow and started to use it with his bow to hit the target board, he fired his bows several times. the man\n\nChoose the best ending:\nA. played paper if and shoot the arrows to hit the target, then he hang from the board with his bow and arrow.\nB. went to the target board and talked to the camera.\nC. eventually throw the arrow, but it flew into the gravel is near the targets.\nD. have his bow as he talk to the camera, he pulled it out to show how to put with its flex, tighten, and notch that was attached to his bow.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario described, let's analyze the actions:\n\n1. **The man in a brown jacket is pulling an arrow from the target board.** - This suggests he is interacting with the target in a way that shows he has been shooting at it.\n\n2. **He talks to the camera.** - This indicates he is likely explaining something or sharing his experience, possibly about archery.\n\n3. **He pulls out his bow and starts to use it to hit the target board.** - This shows that he is actively engaged in archery and intends to demonstrate or practice shooting.\n\n4. **He fires his bow several times.** - This further emphasizes his involvement in shooting arrows at the target.\n\nNow, let's evaluate the options:\n\nA. **Played paper if and shoot the arrows to hit the target, then he hang from the board with his bow and arrow.** - This option is not coherent and seems nonsensical.\n\nB. **Went to the target board and talked to the camera.** - This option suggests a continuation of his actions but does not add much progression to the narrative.\n\nC. **Eventually throw the arrow, but it flew into the gravel near the targets.** - This option implies a failure or mishap,"
+    ],
+    "gold": "B",
+    "latency": 4.095138092990965
+  },
+  {
+    "id": null,
+    "prompt": "A man walks outside plugs his lawn mower in and gets ready to mow. he\n\nChoose the best ending:\nA. drives through the grass while drinking from a large cup of water and carrying his lawn mower.\nB. walks off the porch and goes back inside.\nC. starts mowing his lawn casually going over all the grass.\nD. does this multiple times until a pale orange moon appears overhead.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario provided, we need to analyze the context of the man's actions and intentions. \n\n1. The man has prepared to mow his lawn, which implies he intends to engage in this activity.\n2. Option A suggests he drives through the grass while drinking and carrying his mower, which seems impractical and not what one would typically do when mowing.\n3. Option B indicates he walks back inside, which contradicts the initial action of getting ready to mow.\n4. Option C aligns with the context, as it describes him starting the mowing process casually, a logical next step after preparing the mower.\n5. Option D introduces a fantastical element with the mention of a pale orange moon, which doesn't fit with the more mundane activity of mowing the lawn.\n\nGiven these considerations, the most appropriate and logical ending is C, where he starts mowing his lawn.\n\n#### C"
+    ],
+    "gold": "C",
+    "latency": 3.178054225994856
+  },
+  {
+    "id": null,
+    "prompt": "A man walks outside plugs his lawn mower in and gets ready to mow. He starts mowing his lawn casually going over all the grass. his dog\n\nChoose the best ending:\nA. comes outside and starts to follow him a little while he's closer to the house.\nB. comes outside and takes a closer look at the man mowing, after he picks up the mower.\nC. runs loose and feeds on his movements.\nD. is having a seizure and starts to hop all over the lawn as he walks around.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario given, let\u2019s analyze each option step by step:\n\nA. \"comes outside and starts to follow him a little while he's closer to the house.\"\n- This option depicts a common interaction between a pet and its owner. It is a natural behavior for a dog to follow its owner, especially when they are engaged in an interesting activity like mowing the lawn.\n\nB. \"comes outside and takes a closer look at the man mowing, after he picks up the mower.\"\n- This option suggests the dog is curious about the mower, but it implies a pause in action (picking up the mower) which may not seamlessly flow with the ongoing mowing activity.\n\nC. \"runs loose and feeds on his movements.\"\n- This option suggests a playful or chaotic interaction, which could be entertaining but may not be the most realistic portrayal of a dog's behavior while its owner is mowing.\n\nD. \"is having a seizure and starts to hop all over the lawn as he walks around.\"\n- This option is concerning and negative. While it portrays a dramatic situation, it may not fit well with the casual and mundane activity of mowing the lawn.\n\nAfter analyzing the options, A is the most fitting as it depicts a relatable and typical scenario where a dog follows its owner"
+    ],
+    "gold": "A",
+    "latency": 5.113788647999172
+  },
+  {
+    "id": null,
+    "prompt": "He starts mowing his lawn casually going over all the grass. His dog comes outside and starts to follow him a little while he's closer to the house. the yard\n\nChoose the best ending:\nA. is slowly starting to look really really nice, once he is completely finished the yard looks great, nice and smooth.\nB. is very neat and clean and very active under the circumstances.\nC. gets mowed quicker by the dog.\nD. eventually looks happy on the outside and appears to be going pretty happily.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario, we need to consider the context and narrative flow:\n\n1. **Context**: The scenario starts with a man casually mowing his lawn, and his dog follows him. This suggests a peaceful and pleasant scene.\n\n2. **Understanding Each Option**:\n   - **A**: \"is slowly starting to look really really nice, once he is completely finished the yard looks great, nice and smooth.\" - This fits well as it describes the positive outcome of mowing the lawn, aligning with the peaceful and satisfying nature of yard work.\n   - **B**: \"is very neat and clean and very active under the circumstances.\" - While it describes the yard positively, the wording feels slightly off and less impactful than option A.\n   - **C**: \"gets mowed quicker by the dog.\" - This option is humorous but doesn't fit the flow of the narrative, as it anthropomorphizes the dog in an unrealistic way.\n   - **D**: \"eventually looks happy on the outside and appears to be going pretty happily.\" - This option is vague and doesn't directly relate to the mowing process.\n\n3. **Evaluating the Best Fit**: \n   - Option A provides a clear and satisfying conclusion that reflects the effort"
+    ],
+    "gold": "A",
+    "latency": 5.646842678004759
+  },
+  {
+    "id": null,
+    "prompt": "A sea is shown with a green forest on seashore. Blond man is standing in seashore and talking to the camera and surfing big waves on the sea. man\n\nChoose the best ending:\nA. is on ocean and swimming in white water snapping his head.\nB. is snowboarding up in the sea.\nC. is doing flips in the waters and on the rocks and he be water surfing.\nD. is walking on seashore through a lot of people and talking to the camera and holding an award and talking about surfing the seashore.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scene described, we need to analyze the given options in relation to the details provided:\n\n1. **Context**: The scene features a blond man standing on the seashore, talking to the camera, and surfing big waves. This indicates he is engaged in activities related to surfing and the ocean.\n\n2. **Option A**: \"is on ocean and swimming in white water snapping his head.\" - This option mentions swimming in white water, which relates to surfing but does not directly connect to the act of surfing big waves. It also lacks a clear action that ties back to the man talking to the camera.\n\n3. **Option B**: \"is snowboarding up in the sea.\" - This option is not relevant to the context of surfing. Snowboarding is a different activity and does not apply to the sea or waves.\n\n4. **Option C**: \"is doing flips in the waters and on the rocks and he be water surfing.\" - This option describes an action that is closely related to surfing and suggests an active engagement with the waves. However, \"doing flips\" might not be directly aligned with talking to the camera.\n\n5. **Option D**: \"is walking on seashore through a lot of people and"
+    ],
+    "gold": "D",
+    "latency": 3.976451553986408
+  },
+  {
+    "id": null,
+    "prompt": "We see a bottle of face wash. we\n\nChoose the best ending:\nA. see a newspaper story.\nB. see four cookies in a pan.\nC. see a person holding face wash then putting it on their face.\nD. see a tool on a table.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the statement \"We see a bottle of face wash. we\", we need to consider the context provided by the phrase \"bottle of face wash\". \n\n1. The context is about skincare and facial cleansing, which relates directly to the use of face wash.\n2. We want an ending that logically follows the introduction of the face wash.\n3. Option A (see a newspaper story) does not relate to face wash or skincare.\n4. Option B (see four cookies in a pan) is also unrelated to skincare.\n5. Option D (see a tool on a table) does not connect with face wash either.\n6. Option C (see a person holding face wash then putting it on their face) directly relates to the use of the face wash we are introduced to.\n\nGiven this analysis, the best ending is C. \n\n#### C"
+    ],
+    "gold": "C",
+    "latency": 2.559222645999398
+  },
+  {
+    "id": null,
+    "prompt": "We see a person holding face wash then putting it on their face. They rinse the face and add the face wash with a brush. we\n\nChoose the best ending:\nA. see a closing title screen.\nB. see a black screen with the credits.\nC. see an illustration on how to add the wash using a brush.\nD. then see a replay then the person putting the face wash on.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending, let's analyze the context:\n\n1. The scenario starts with a person holding face wash and applying it to their face, which sets a clear focus on skincare and the application process.\n2. The person rinses their face, indicating that the face wash is effective and part of a routine.\n3. The addition of using a brush to apply the face wash suggests an emphasis on technique or a special way to enhance the application.\n\nNow, let's evaluate each option:\n\nA. \"see a closing title screen.\" - This would typically signify the end of a video or segment but doesn't add value to the skincare demonstration.\nB. \"see a black screen with the credits.\" - Similar to option A, this doesn\u2019t provide any further information or value to the viewer regarding the face wash application.\nC. \"see an illustration on how to add the wash using a brush.\" - This option adds instructional value and aligns with the actions shown earlier, enhancing the viewer's understanding of the technique.\nD. \"then see a replay then the person putting the face wash on.\" - A replay could reinforce the action but is less informative than an illustration.\n\nConsidering the focus is on providing effective skincare techniques, option C stands out as the best choice. It offers useful information that"
+    ],
+    "gold": "C",
+    "latency": 2.969619819006766
+  },
+  {
+    "id": null,
+    "prompt": "A person is seen throwing plaster onto a wall while the camera follows the person close behind. the person\n\nChoose the best ending:\nA. continues throwing ingredients down and leads into a person kicking a dirty toilet.\nB. gradually throws more and more onto the wall and the camera pans over the finished product.\nC. then uses paper to spread it all over the wall followed by others putting paper through with the plaster.\nD. is now seen putting wax all along the wall while still looking back to the camera.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To choose the best ending for the scenario described, let's analyze each option step by step:\n\nA. This option suggests a transition from throwing plaster to an unrelated scene of a person kicking a dirty toilet. This does not logically follow from the initial action of throwing plaster and feels disjointed.\n\nB. This option indicates that the person continues to throw plaster onto the wall and culminates in a pan over the finished product. This maintains the focus on the wall and the plastering process, providing a cohesive and satisfying conclusion.\n\nC. This option introduces the use of paper to spread the plaster, which could be a continuation of the process. However, it becomes complicated with the mention of others putting paper through with the plaster, potentially making the scene less clear.\n\nD. This option describes a shift to putting wax along the wall, which deviates from the initial action of throwing plaster. It introduces a new element but lacks a clear connection to the plastering process.\n\nAfter evaluating each option, it is clear that option B provides a logical and coherent continuation of the scene, focusing on the plastering effort and leading to a satisfying visual conclusion.\n\nTherefore, the best ending is B. \n\n#### B"
+    ],
+    "gold": "B",
+    "latency": 6.454318375996081
+  },
+  {
+    "id": null,
+    "prompt": "More and more people begin talking and each of them has a bottle of sun screen and starts to squirt it on their arms in effort to protect their skin. a small blue bottle of the sun screen\n\nChoose the best ending:\nA. appears and then different people carry it to a table where they mix the liquid with a straw with a straw and take turns squirting the liquid into their skin.\nB. appears near each of their hair as they continue to talk but no bottle at all appear.\nC. is then shown and several more people begin talking about the product.\nD. zooms in on sheers that they have on the floor.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending, we need to analyze the context provided.\n\n1. The scenario describes a group of people talking and applying sunscreen to their arms. The focus is on the act of applying sunscreen for skin protection.\n2. We need an ending that logically follows this action and maintains the theme of sunscreen or skin protection.\n\nNow, let's evaluate the options:\n\nA. This option involves mixing the sunscreen with a straw, which seems impractical and does not directly relate to the action of applying sunscreen. It adds an unnecessary complication to the scenario.\n\nB. This option suggests that a bottle appears near their hair but does not include any actual sunscreen application. It moves away from the focus on skin protection.\n\nC. This option indicates that more people are talking about the product. It keeps the focus on sunscreen, which aligns with the initial action of applying it and suggests a growing interest in the product.\n\nD. This option mentions \"sheers on the floor,\" which doesn\u2019t relate to the sunscreen application or the conversation about skin protection.\n\nGiven this analysis, option C is the best choice as it continues the theme of sunscreen and adds to the discussion about it.\n\nThus, the answer is: #### C"
+    ],
+    "gold": "C",
+    "latency": 5.1147898380004335
+  },
+  {
+    "id": null,
+    "prompt": "A group of boys are standing in a room with many clear cups of beer on a table they are all standing around. the boys\n\nChoose the best ending:\nA. take a flute together and then begin to play the harmonica using it to play the tune.\nB. begin to wrap red bow around the plastic cups, put bows on the bottoms _start_various objects on the foam covers and belongings to the floor.\nC. talk, laugh and tease each other before beginning a game of beer pong across a long table using a triangle shaped array of clear cups.\nD. all grab one and chug their contents of the cans.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario of a group of boys standing around cups of beer, we need to consider the context of a social gathering where beer is present.\n\n1. **Setting the Scene**: The boys are in a room with many clear cups of beer. This suggests a casual, social atmosphere likely involving drinking games or activities.\n\n2. **Analyzing the Options**:\n   - **Option A**: Taking a flute and playing the harmonica seems out of place in this setting. It doesn't directly relate to beer or a drinking game.\n   - **Option B**: Wrapping bows around cups and starting to put various objects on foam covers is unusual and doesn't tie back to the beer theme or typical boy activities.\n   - **Option C**: Talking, laughing, and teasing each other before starting a game of beer pong fits perfectly with the social atmosphere and involves the clear cups of beer.\n   - **Option D**: Grabbing cans and chugging them does involve drinking, but it doesn't capture the interactive and fun spirit that often accompanies games in such gatherings.\n\n3. **Conclusion**: The most fitting and engaging scenario that incorporates the boys' camaraderie and the presence of beer is clearly option C, as it describes a common activity that"
+    ],
+    "gold": "C",
+    "latency": 4.918552884992096
+  },
+  {
+    "id": null,
+    "prompt": "The boys talk, laugh and tease each other before beginning a game of beer pong across a long table using a triangle shaped array of clear cups. one of the ping pongs\n\nChoose the best ending:\nA. is knocked upside down, which causes the other teens to give each other high fives.\nB. tries to rise but dikes instead.\nC. rush walks up in front of the boys, removes a small piece of paper from the bottom of the table, puts a hand on the machine and wrestles with buttons, turns the machine off and pushes a button inside to turn the game back on.\nD. lands in the cup and one of the boys begins to drink the beer.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario provided, we need to consider the context of a fun game of beer pong among boys.\n\n1. The boys are having a good time, talking, laughing, and teasing each other.\n2. The setting involves a game of beer pong, which typically includes cups filled with beer and ping pong balls.\n3. The action described in the options should maintain the light-hearted atmosphere of the game.\n\nNow, let's evaluate the options:\n\nA. \"is knocked upside down, which causes the other teens to give each other high fives.\"\n- This option suggests a light-hearted moment after an accidental mishap, which could fit the atmosphere.\n\nB. \"tries to rise but dikes instead.\"\n- This option is unclear and doesn't convey a fun or engaging ending.\n\nC. \"rush walks up in front of the boys, removes a small piece of paper from the bottom of the table, puts a hand on the machine and wrestles with buttons, turns the machine off and pushes a button inside to turn the game back on.\"\n- This option involves a complex action that detracts from the simplicity and enjoyment of the game.\n\nD. \"lands in the cup and one of the boys begins to drink the beer.\"\n- This option is the most fitting"
+    ],
+    "gold": "D",
+    "latency": 7.164398668988724
+  },
+  {
+    "id": null,
+    "prompt": "One of the ping pongs lands in the cup and one of the boys begins to drink the beer. the group\n\nChoose the best ending:\nA. of teens is sailing down the river with others sailing in the background.\nB. gets up together and poses with their vests to celebrate.\nC. continue to play beer pong when one final player is able to throw and land a ping pong ball while standing with his back to the cups at which point the boys celebrate, and laugh.\nD. does a trick and the liquid is poured on a second table.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario provided, let's analyze the context. The scene starts with a group of teens playing beer pong, which typically involves throwing ping pong balls into cups of beer. The mention of one of the boys drinking beer indicates a celebratory or competitive atmosphere after a successful play.\n\nNow, evaluating the options:\n\nA. \"of teens is sailing down the river with others sailing in the background.\" - This doesn't relate to the beer pong activity and seems out of context.\n\nB. \"gets up together and poses with their vests to celebrate.\" - While this implies a celebration, it doesn't connect directly to the ongoing beer pong game.\n\nC. \"continue to play beer pong when one final player is able to throw and land a ping pong ball while standing with his back to the cups at which point the boys celebrate, and laugh.\" - This ending directly relates to the ongoing beer pong game, describing a continuation of the activity and celebrating a successful play. It fits the scenario perfectly.\n\nD. \"does a trick and the liquid is poured on a second table.\" - This is vague and does not clearly connect to the beer pong game or the celebratory context.\n\nBased on this analysis, the best ending is clearly option C, as it maintains the context of"
+    ],
+    "gold": "C",
+    "latency": 6.245630108998739
+  },
+  {
+    "id": null,
+    "prompt": "There's a nbc news reporter wearing a red sweater and white shirt talking about dog grooming by scissor wizard a grooming company. the representative from the company\n\nChoose the best ending:\nA. is talking about the services they offer and how those dogs participate in dog shows.\nB. speaks to a woman sitting on a colorful conference room chair next to a brown dog kennel in front of them.\nC. tells viewers about a dog grooming company, itv with a website.\nD. in grey sweater and black pants talks about the procedures on grooming dogs in life and techniques.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario presented, we need to analyze the context given:\n\n1. **Setting**: The scene involves a reporter discussing dog grooming with a representative from a grooming company called Scissor Wizard.\n  \n2. **Focus**: The primary focus here is on dog grooming services, techniques, and possibly the involvement of dogs in shows.\n\n3. **Options Analysis**:\n   - **A**: Talks about the services they offer and dog show participation. This is relevant to dog grooming and aligns well with the context of the report.\n   - **B**: Involves a woman and a brown dog kennel. While it might be related, it is not as directly aligned with the core topic of grooming services as option A.\n   - **C**: Mentions a different company (itv) which is not relevant to the current discussion about Scissor Wizard.\n   - **D**: Discusses grooming procedures but does not specifically mention the services offered or dog shows, thus is less relevant compared to A.\n\nConsidering the context of discussing dog grooming services and competitions, the best ending is:\n\n#### A"
+    ],
+    "gold": "A",
+    "latency": 4.500929992005695
+  },
+  {
+    "id": null,
+    "prompt": "The representative from the company is talking about the services they offer and how those dogs participate in dog shows. a groomer\n\nChoose the best ending:\nA. is seen using shears to creatively trim the dog's hair and even dye it in colorful shades of red, green, yellow and blue.\nB. is presenting cookies to the room with a loaf of bread.\nC. shows crowd opinion for use as their garden service representative.\nD. speaks to an older man about snow cleaning dogs and showing how it is flectious.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the representative's discussion about the services they offer and the dogs participating in dog shows, we should consider the context of grooming and dog shows:\n\n1. The topic is centered around dog shows, which typically involve grooming and presentation of dogs.\n2. A groomer would be involved in preparing the dogs for these shows, which includes grooming techniques and possibly creative styling.\n3. Option A discusses a groomer using shears and dyeing the dog's hair in colorful shades, which aligns perfectly with the grooming aspect associated with dog shows.\n4. The other options (B, C, and D) do not relate to grooming or dog shows and appear to involve unrelated topics such as cookies, gardening, or snow cleaning.\n\nGiven this analysis, the best ending that ties back to the services offered related to dog shows is:\n\n#### A"
+    ],
+    "gold": "A",
+    "latency": 2.7663415360002546
+  },
+  {
+    "id": null,
+    "prompt": "A woman tries to eat ice cream to a child, but the child refuses to eat the ice cream, then the woman eats the ice cream in the spoon. after\n\nChoose the best ending:\nA. , the woman gives ice cream to the child, and then the woman cleans the child's mouth.\nB. , the child takes out the fork the other child takes out the spoon and eats the ice cream.\nC. , the child and the woman tries to eat food without ice cream, then they sit and talk with adults in the room.\nD. , two people wearing red shirts pass through the store's door and inside the market and besides a man and a chimpanzee wearing silver uniforms are watching the woman and child.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To analyze the situation, we first note that the woman attempts to feed the child ice cream, but the child refuses. The woman then eats the ice cream herself, suggesting that she may be trying to entice the child to eat it by demonstrating that it is enjoyable.\n\nNow let's evaluate the options step-by-step:\n\nA. The woman gives ice cream to the child, and then the woman cleans the child's mouth. - This could be a natural progression after the woman eats the ice cream, as she may want the child to try it again, and cleaning the child's mouth suggests a nurturing action.\n\nB. The child takes out the fork, and the other child takes out the spoon and eats the ice cream. - This introduces new characters and actions that are unrelated to the woman's initial attempt, making it less cohesive.\n\nC. The child and the woman try to eat food without ice cream, then they sit and talk with adults in the room. - While this presents a different scenario, it moves away from the ice cream focus, which seems central to the initial situation.\n\nD. Two people wearing red shirts pass through the store's door and inside the market, and besides, a man and a chimpanzee wearing silver uniforms are watching the woman and child. - This option adds irrelevant"
+    ],
+    "gold": "A",
+    "latency": 5.840524305996951
+  },
+  {
+    "id": null,
+    "prompt": "After, the woman gives ice cream to the child, and then the woman cleans the child's mouth. an old woman\n\nChoose the best ending:\nA. feeds a boy ice cream.\nB. hold the child and eats the ice cream, after the woman is giving baby ice cream to the child.\nC. tries to stop the mother pray while giving a baby something else.\nD. is standing using a white blower to blow snow.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario given, we will analyze each option in relation to the context provided.\n\n1. The scenario starts with a woman giving ice cream to a child and then cleaning the child's mouth. This suggests a nurturing and caring situation involving a child and possibly a mother or caregiver.\n\n2. Now, let's evaluate the options:\n\nA. \"feeds a boy ice cream.\" - This option fits well as it continues the theme of giving ice cream and could imply another caring interaction, but it introduces a new character (the boy) who is not previously mentioned.\n\nB. \"hold the child and eats the ice cream, after the woman is giving baby ice cream to the child.\" - This option implies that the old woman is also involved in the ice cream situation, which fits the ongoing theme but is somewhat confusing in its wording.\n\nC. \"tries to stop the mother pray while giving a baby something else.\" - This option introduces conflict and does not align with the nurturing context established in the beginning.\n\nD. \"is standing using a white blower to blow snow.\" - This option is unrelated to the ice cream theme and does not fit the context of caring for a child.\n\nConsidering the context of caring for a child and the act of providing ice cream, the most"
+    ],
+    "gold": "A",
+    "latency": 4.91167643800145
+  },
+  {
+    "id": null,
+    "prompt": "Men are lifting heavy weights over their head several times. A man in a blue shirt is watching one of the men. a man in a gray shirt\n\nChoose the best ending:\nA. is watching the men on the ground.\nB. hits a big weight in slow motion.\nC. is talking to one of the men in the middle of the gym.\nD. is mimicking the person lifting the weight.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario described, we need to analyze the context given:\n\n1. We have men lifting heavy weights, indicating a gym or weightlifting environment.\n2. A man in a blue shirt is watching one of the men, suggesting he is observing the lifting activity.\n3. We need to choose an ending that logically follows from this scenario.\n\nNow, let's evaluate the options:\n\nA. \"is watching the men on the ground.\" - This option doesn't introduce any new action or interaction related to the weightlifting context. It simply states that someone is watching, which is already implied.\n\nB. \"hits a big weight in slow motion.\" - This option suggests action but is somewhat ambiguous. It could imply that the man in gray is also lifting, but it doesn\u2019t connect well with the scenario of someone watching.\n\nC. \"is talking to one of the men in the middle of the gym.\" - This option introduces an interaction in the gym scenario. It\u2019s plausible that while one man is lifting weights, another man could be engaging in conversation nearby.\n\nD. \"is mimicking the person lifting the weight.\" - This option suggests a playful or observational action but might imply that the man is not merely watching but also participating in a way that could distract from"
+    ],
+    "gold": "D",
+    "latency": 4.400657459991635
+  },
+  {
+    "id": null,
+    "prompt": "In home pet groomers demonstrate how to groom a pet. the person\n\nChoose the best ending:\nA. puts a setting engage on the pets tongue and leash.\nB. starts at their butt rise, combing out the hair with a brush from a red.\nC. is demonstrating how the dog's hair is trimmed with electric shears at their grooming salon.\nD. installs and interacts with a sleeping pet before moving away.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To choose the best ending for the sentence, we need to analyze each option in the context of home pet grooming:\n\nA. **puts a setting engage on the pets tongue and leash.** - This option does not make sense in the context of grooming. \"Setting engage on the pet's tongue\" seems irrelevant to grooming practices.\n\nB. **starts at their butt rise, combing out the hair with a brush from a red.** - This option is confusing and poorly phrased. The phrase \"from a red\" doesn't clarify anything about the grooming process.\n\nC. **is demonstrating how the dog's hair is trimmed with electric shears at their grooming salon.** - This option is clear and directly relates to grooming. It describes a common practice in pet grooming and fits well with the context of a groomer demonstrating their skills.\n\nD. **installs and interacts with a sleeping pet before moving away.** - While interacting with pets is a part of grooming, the phrase \"installs\" is vague and doesn't relate to the actual grooming process.\n\nBased on this analysis, option C is the most appropriate choice as it clearly describes a grooming action related to the demonstration.\n\nThe answer is: #### C"
+    ],
+    "gold": "C",
+    "latency": 5.321882850010297
+  },
+  {
+    "id": null,
+    "prompt": "A person polish a shoe with a wrapped finger. then\n\nChoose the best ending:\nA. , the person remove the wrapping paper to expose a shoe.\nB. , the person removes the heel heel from the shoe and polish.\nC. , the person grabs polish paste and water to polish the shoe.\nD. , a person polish the fingers, then the person puts a black polish.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To solve this, let's analyze the scenario step by step.\n\n1. The person is polishing a shoe, which implies that they are trying to clean or shine it.\n2. The mention of a \"wrapped finger\" suggests that the person is using some sort of cloth or protective covering on their finger to avoid direct contact with the polish or to provide a better surface for polishing.\n3. The options provided are different actions that could logically follow the act of polishing a shoe.\n\nNow, let's evaluate the options:\n\nA. \"the person remove the wrapping paper to expose a shoe.\" - This doesn't make sense as the wrapping paper would typically be for the finger and not for the shoe itself.\n\nB. \"the person removes the heel heel from the shoe and polish.\" - Removing the heel is not a common action when polishing a shoe, so this option seems unlikely.\n\nC. \"the person grabs polish paste and water to polish the shoe.\" - This option makes sense because it logically follows that the person might need more materials (polish paste and water) while in the process of polishing.\n\nD. \"a person polish the fingers, then the person puts a black polish.\" - This option suggests polishing the fingers first, which is not a typical action when polishing a shoe.\n\nGiven this"
+    ],
+    "gold": "C",
+    "latency": 4.4049849470029585
+  },
+  {
+    "id": null,
+    "prompt": "Eight people are standing at the studio, one woman walked at the back of the group. the group\n\nChoose the best ending:\nA. then begins marching down a fitness track, demonstrating steps, going forward and backward, in between takes several breaks to lift their feet.\nB. is gathered around a long table into a dance routine.\nC. started dancing, swirling, shaking their hips, rotating, their arms and hands are moving from side to side, in front.\nD. continue to discuss the topic of volleyball.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario where \"eight people are standing at the studio\" and \"one woman walked at the back of the group,\" we need to consider the context and actions implied by the scenario.\n\n1. **Setting**: The setting is a studio, which suggests an environment for performance or practice.\n2. **Group Dynamics**: There are eight people, indicating a potential for a group activity, possibly a performance or rehearsal.\n3. **Action of the Woman**: The woman walking at the back could imply she is either joining the group or taking a specific position during an activity.\n\nNow, let's evaluate each option:\n\n- **A**: \"then begins marching down a fitness track...\" - This suggests a structured activity focused on fitness, which seems plausible but doesn't connect strongly with the studio setting.\n  \n- **B**: \"is gathered around a long table into a dance routine.\" - This option is not coherent because a dance routine typically does not involve a table.\n\n- **C**: \"started dancing, swirling, shaking their hips...\" - This fits well with a studio setting, as it involves a performance or rehearsal context and aligns with the idea of a group activity.\n\n- **D**: \"continue to discuss the topic of volleyball.\""
+    ],
+    "gold": "C",
+    "latency": 8.1911137910065
+  },
+  {
+    "id": null,
+    "prompt": "A man is seen talking to the camera and presents his knife and sharpener. He then glides the knife down the sharpener and shows how other knives work with different sharpeners. he\n\nChoose the best ending:\nA. then repeats his advice and using more wax.\nB. shows the using the sharpener on a piece of wood.\nC. presents the knife one last time while still speaking to the camera.\nD. uses scissors to cut the blade as well as metal and talk to the camera at the end.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario described, we need to consider the context of the man's actions and the purpose of the video, which seems to be demonstrating the use of a knife sharpener.\n\n1. The man is already engaging with the camera and has showcased the knife and sharpener.\n2. He has demonstrated how to use the sharpener on various knives, suggesting that the video is instructional and focused on knife care and maintenance.\n3. The ending should ideally relate to the theme of sharpening knives and provide a logical conclusion.\n\nNow, let's analyze the options:\n\nA. Repeating his advice and using more wax does not directly relate to knife sharpening and seems out of context.\nB. Showing the use of the sharpener on a piece of wood could be relevant, but it's unclear how it ties back to the initial demonstration of sharpening knives.\nC. Presenting the knife one last time while still speaking to the camera would wrap up the demonstration effectively, reinforcing the focus on the knife and summarizing key points.\nD. Using scissors to cut the blade as well as metal does not relate to the initial focus on knives and could confuse the audience.\n\nGiven all considerations, the best ending that maintains the focus on knife sharpening and concludes the presentation effectively is:\n\n#### C"
+    ],
+    "gold": "C",
+    "latency": 7.474171157999081
+  },
+  {
+    "id": null,
+    "prompt": "A man walks onto the stage to join a band. a man\n\nChoose the best ending:\nA. plays harp and flute while two other people play instruments next to him.\nB. and woman dance around together on the stage.\nC. dance on the ropes attached to the stage.\nD. plays up front of a band with a harmonica.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To choose the best ending, we should consider the context provided: a man walks onto the stage to join a band. This implies a musical setting where the man is likely to engage in an activity related to music.\n\nNow, let's evaluate each option:\n\nA. plays harp and flute while two other people play instruments next to him. - This fits well as it describes a musical activity involving the man with other musicians.\n\nB. and woman dance around together on the stage. - This introduces a new character (a woman) and focuses on dancing rather than musical performance, which may not be the best fit.\n\nC. dance on the ropes attached to the stage. - This suggests a circus-like activity rather than music, which doesn't align with the context of joining a band.\n\nD. plays up front of a band with a harmonica. - This also describes a musical activity, and it fits well since it emphasizes the man's role in performing with the band.\n\nConsidering the context of the man joining a band, both A and D are plausible. However, option D is more straightforward in indicating that the man is performing with the band.\n\nTherefore, the best ending is:\n#### D"
+    ],
+    "gold": "D",
+    "latency": 4.299413508008001
+  },
+  {
+    "id": null,
+    "prompt": "A man walks onto the stage to join a band. A man plays up front of a band with a harmonica. the keyboardist\n\nChoose the best ending:\nA. plays the hip hop and dance moves with the band.\nB. plays a spirited solo during the song.\nC. plays his guitar while moving his body around in front of the band.\nD. sings with the band, twirling his violin as he walks.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To choose the best ending for the scenario, we should consider the context of the band and the instruments being played. \n\n1. The scene involves a man joining a band, where another man is already playing the harmonica. \n2. The role of the keyboardist is mentioned, which suggests that we are focusing on what the keyboardist does next.\n3. The options provided describe different actions that could be performed by the keyboardist.\n\nNow, let's analyze the options:\n- **A. plays the hip hop and dance moves with the band.** This option implies a dance-focused performance, which is not typically associated with a keyboardist.\n- **B. plays a spirited solo during the song.** This option fits well, as a keyboardist can certainly perform a solo during a song.\n- **C. plays his guitar while moving his body around in front of the band.** This option is not suitable since it mentions playing the guitar, which does not align with the role of a keyboardist.\n- **D. sings with the band, twirling his violin as he walks.** This option is also unsuitable, as it mentions a violin and singing, which would typically not be the role of a keyboardist.\n\nConsidering the context and the role of the keyboard"
+    ],
+    "gold": "B",
+    "latency": 5.426321937004104
+  },
+  {
+    "id": null,
+    "prompt": "A camera pans away from a road and shows a person's feet moving around. several shots\n\nChoose the best ending:\nA. are shown of people riding up a mountain on skis while being pulled down by a rope.\nB. are shown of people tying their shoes, hitting a button, and checking a watch.\nC. are shown of people wake boarding.\nD. are then shown of people riding on snowboards over mountains.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scene described, we need to consider the context provided: a camera pans away from a road and shows a person's feet moving around.\n\n- Option A describes people riding up a mountain on skis while being pulled down by a rope. This could be a continuation of an outdoor activity but doesn't directly relate to the feet moving around.\n- Option B describes people tying their shoes, hitting a button, and checking a watch. This is directly related to feet and suggests preparation for an activity, making it a strong candidate.\n- Option C describes people wakeboarding, which is not related to the feet moving on land and more focused on water sports.\n- Option D describes people riding on snowboards over mountains. While it connects with outdoor activities, it doesn\u2019t relate to the immediate focus on feet.\n\nGiven that the scene starts with feet and suggests movement or preparation, option B, which involves tying shoes and checking a watch, fits best as a logical continuation of that focus.\n\nTherefore, the best ending is:\n\n#### B"
+    ],
+    "gold": "B",
+    "latency": 3.9940475869952934
+  },
+  {
+    "id": null,
+    "prompt": "A camera pans away from a road and shows a person's feet moving around. Several shots are shown of people tying their shoes, hitting a button, and checking a watch. people\n\nChoose the best ending:\nA. march around a room wearing funny hats, hats, and shoes.\nB. then are shown washing a car.\nC. are then seen running down the road one at a time followed by many more following.\nD. walk along a road, using bicycles and bagpipes.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario, let's analyze the context provided:\n\n1. The camera pans away from a road, which indicates a transition away from the main action (possibly something happening on the road) to a more focused detail (the feet and actions of people).\n2. The people are engaged in preparatory actions: tying shoes, hitting a button, and checking a watch. These activities suggest a sense of readiness or anticipation, possibly for a race or an event that involves movement.\n3. The options presented for the ending all involve movement, but we need to choose the one that aligns best with the theme of preparation and suggests a continuation of action.\n\nNow, let's evaluate the options:\n\nA. March around a room wearing funny hats, hats, and shoes. - This choice is humorous and lighthearted but does not seem to build on the theme of movement in a more serious or athletic context.\n\nB. Then are shown washing a car. - This option introduces a completely different activity that does not connect with the initial theme of movement and preparation.\n\nC. Are then seen running down the road one at a time followed by many more following. - This option follows logically from the previous actions of tying shoes and checking watches, suggesting that they are preparing for a race or"
+    ],
+    "gold": "C",
+    "latency": 6.451950340997428
+  },
+  {
+    "id": null,
+    "prompt": "A gymnast put power chalk power on his hands and stands near the pommel horse. then\n\nChoose the best ending:\nA. , the gymnast put strength and power item on his body and falls.\nB. , the gymnast approach the pommel horse to spin around many times.\nC. , the gymnast blade the board and stands in position facing the pommel horse doing blade moves.\nD. , the gymnast moves around and flips the chalk power to full weight and continues gymnastics for the next competition, after he turns and stands near the pommel horse.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending to the scenario, let's analyze each option in the context of the gymnast's actions and the setting.\n\nA. This ending suggests that the gymnast fails after applying strength and power items. It implies a negative outcome, which does not align well with the typical narrative of a gymnast preparing for a performance.\n\nB. This ending describes the gymnast approaching the pommel horse to perform a spinning routine. This aligns well with the context of a gymnast preparing to perform a routine on the pommel horse, making it a plausible and positive continuation.\n\nC. This ending mentions \"blade moves,\" which is unclear and does not relate well to typical gymnastics terminology or movements associated with the pommel horse. It seems less coherent in this context.\n\nD. This ending is quite wordy and somewhat confusing. It mentions \"flipping the chalk power to full weight,\" which doesn't make sense in the context of gymnastics and may imply a lack of focus on the performance.\n\nAfter analyzing all options, B stands out as the most coherent and relevant continuation of the gymnast's actions. It directly relates to the gymnast's preparation for performing on the pommel horse.\n\nTherefore, the best ending is:\n\n#### B"
+    ],
+    "gold": "B",
+    "latency": 9.009498627012363
+  },
+  {
+    "id": null,
+    "prompt": "A gymnast put power chalk power on his hands and stands near the pommel horse. Then, the gymnast approach the pommel horse to spin around many times. then\n\nChoose the best ending:\nA. , the gymnast stand on his hand and jumps to land on the floor, while people applaud.\nB. , the gymnast put the star light on his hands and jumps high using strength.\nC. , the gymnast puts fluid on the pommel horse and sit on it to rise the body while position it.\nD. , the gymnast cross the pommel horse with the long rope while performing handsprings.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario, we need to consider the context of the gymnast's actions:\n\n1. The gymnast is preparing to perform on the pommel horse, which involves a series of movements that typically include swinging and rotating.\n2. The use of power chalk suggests that the gymnast is focused on grip and stability, which is crucial for performing skills on the pommel horse.\n3. The options given should align with the expected performance on a pommel horse and the typical routines gymnasts execute.\n\nNow, let's analyze the choices:\n\nA. The gymnast stands on his hands and jumps to land on the floor, while people applaud.\n- This ending implies a successful routine, but it may not directly relate to the pommel horse performance.\n\nB. The gymnast puts the star light on his hands and jumps high using strength.\n- This is unclear and seems unrelated to the pommel horse, as \"star light\" does not connect with gymnastic routines.\n\nC. The gymnast puts fluid on the pommel horse and sits on it to rise the body while positioning it.\n- This action is not typical for a pommel horse performance and could be seen as impractical.\n\nD. The gymnast crosses the pommel horse with the long rope while performing handsprings"
+    ],
+    "gold": "A",
+    "latency": 5.323052881998592
+  },
+  {
+    "id": null,
+    "prompt": "A logo shows that this video is presented by expert village. a man in a small blue boat\n\nChoose the best ending:\nA. is pushing a kress of water in a lake while instructing his boarder.\nB. discusses the topic of hand surfing in a hole and gives hints on how to perform this activity.\nC. , in the middle of a lake, is skiing.\nD. is in the water pushing a boat with a sail.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario presented, we need to consider the context provided by the initial description: \"A logo shows that this video is presented by expert village. a man in a small blue boat.\"\n\n1. The focus is on a \"man in a small blue boat,\" which suggests that the man is either on the water or engaging in activities related to boating or water sports.\n\n2. Now, let's analyze the options:\n   - A: \"is pushing a kress of water in a lake while instructing his boarder.\" This option mentions a lake and also hints at some instructional aspect, which fits well with the theme of an \"expert\" presenting a video.\n   - B: \"discusses the topic of hand surfing in a hole and gives hints on how to perform this activity.\" While this involves instruction, it doesn't directly connect with the imagery of a man in a boat.\n   - C: \"in the middle of a lake, is skiing.\" This option does not directly relate to the man being in a blue boat; it suggests he is skiing, which is a different activity.\n   - D: \"is in the water pushing a boat with a sail.\" This option is somewhat confusing as it suggests he is not in the boat itself"
+    ],
+    "gold": "B",
+    "latency": 4.810946104989853
+  },
+  {
+    "id": null,
+    "prompt": "A man in a small blue boat discusses the topic of hand surfing in a hole and gives hints on how to perform this activity. the man\n\nChoose the best ending:\nA. demonstrates how to properly back up a hand surf by requiring an anchor.\nB. demonstrates tricks that can be done while performing this activity.\nC. in the small blue boat holds a fish in his hands and then holds the fish while talking about the technique needed to perform this activity.\nD. is omic on the water as he's riding the speedo on the aerobic machine still pointing down at the water.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To choose the best ending for the scenario provided, we need to analyze the context of the discussion about hand surfing in a hole.\n\n1. **Understanding Hand Surfing**: Hand surfing typically involves using one's hands to ride or maneuver in a body of water, often in a wave or a current. This suggests that the activity is about balance, technique, and possibly tricks.\n\n2. **Evaluating the Options**:\n   - **A**: Discusses backing up a hand surf with an anchor. This seems impractical for the activity and doesn't relate to the actual performance of hand surfing.\n   - **B**: Mentions demonstrating tricks that can be done while performing this activity. This is directly relevant to the topic of hand surfing and implies a practical demonstration.\n   - **C**: Involves holding a fish while discussing the technique. While it may add an interesting element, it doesn't directly contribute to the understanding or demonstration of hand surfing.\n   - **D**: Indicates an unrelated activity (riding a speedo on an aerobic machine), which does not connect to the topic of hand surfing at all.\n\n3. **Choosing the Best Fit**: Based on the analysis, option B is the most relevant because it directly relates to demonstrating hand surfing techniques and"
+    ],
+    "gold": "B",
+    "latency": 7.885273213003529
+  },
+  {
+    "id": null,
+    "prompt": "The camera pans to show a man playing a harmonica while sitting on a log beside a river. A woman walks near the train tracks while a train drives by. the woman\n\nChoose the best ending:\nA. continues just playing with the tunes she made.\nB. sees the harmonica playing man in the distance.\nC. taps a horn intermittently as the camera pans right.\nD. plays a song on her harmonica while walking away from the train.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scene described, we need to analyze the context and the actions taking place:\n\n1. The scene starts with a man playing a harmonica beside a river, indicating a peaceful, musical atmosphere.\n2. A woman is present, walking near train tracks while a train drives by. The presence of the train adds a dynamic element to the scene.\n3. The options for the ending include:\n   - A: This option suggests that the woman continues playing with tunes she made. However, there is no indication that she was playing music before.\n   - B: This option proposes that the woman sees the harmonica playing man in the distance. This could create a connection between the two characters, enhancing the narrative.\n   - C: This option suggests that she taps a horn as the camera pans. This doesn't seem to fit the existing scene because no horn has been introduced or referenced.\n   - D: This option suggests that she plays a song on her harmonica while walking away from the train. Like A, it assumes she was playing a harmonica, which hasn't been established.\n\nConsidering the context, option B presents a clear interaction with the existing scene, allowing for a visual connection between the man playing the harmonica and the woman walking by.\n\nThus"
+    ],
+    "gold": "B",
+    "latency": 5.529036477993941
+  },
+  {
+    "id": null,
+    "prompt": "A woman walks near the train tracks while a train drives by. The woman sees the harmonica playing man in the distance. she\n\nChoose the best ending:\nA. comes back to the train and continues walking on the subway.\nB. walks around the rail of the tracks and watches the scenery and the crowds of people.\nC. watches him and listens to him playing.\nD. begins playing with the harmonica and stops.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending, let's analyze each option based on the scenario provided:\n\n1. **The woman is near the train tracks while a train drives by.**\n   - This suggests she is in a busy environment with trains and possibly other people.\n\n2. **She sees a harmonica playing man in the distance.**\n   - This indicates that her attention is drawn to the musician, which suggests she might be interested in his performance.\n\nNow, let's evaluate the options:\n\nA. **comes back to the train and continues walking on the subway.**\n   - This option does not seem to connect with her interest in the harmonica player and suggests she is moving away from the scene.\n\nB. **walks around the rail of the tracks and watches the scenery and the crowds of people.**\n   - While this option implies she is still engaged with her surroundings, it doesn't specifically relate to her interest in the harmonica player.\n\nC. **watches him and listens to him playing.**\n   - This option directly connects her attention to the harmonica player, showing her interest in his music, which aligns perfectly with the scenario.\n\nD. **begins playing with the harmonica and stops.**\n   - This option introduces an action that is not indicated in the scenario"
+    ],
+    "gold": "C",
+    "latency": 5.116780922006001
+  },
+  {
+    "id": null,
+    "prompt": "The woman sees the harmonica playing man in the distance. She watches him and listens to him playing. She walks away leaving the man. the man\n\nChoose the best ending:\nA. takes out a wall show from his guitar.\nB. finishes playing and remains seated.\nC. jumps over a barrier and lands on the sandy beach.\nD. plays in a house while the woman looks on.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario, let's analyze the context given:\n\n1. The woman is watching and listening to the man playing the harmonica in the distance.\n2. She eventually walks away, indicating that her interaction with him is coming to an end.\n\nNow, let's evaluate each option:\n\nA. \"takes out a wall show from his guitar.\" - This option seems unrelated since he is playing a harmonica, not a guitar. It doesn't logically follow the scenario.\n\nB. \"finishes playing and remains seated.\" - This option makes sense as he could finish his performance since the woman has walked away. It indicates a natural conclusion to his playing without any further action.\n\nC. \"jumps over a barrier and lands on the sandy beach.\" - This option introduces an unexpected action that doesn't align with the previous context. There's no mention of a barrier or beach in the scenario.\n\nD. \"plays in a house while the woman looks on.\" - This option suggests a change in location and context that isn't aligned with the woman leaving. \n\nBased on this analysis, the most coherent ending that follows the narrative and maintains consistency with the actions described is:\n\nB. finishes playing and remains seated.\n\nThus, the answer is: #### B"
+    ],
+    "gold": "B",
+    "latency": 5.324394430004759
+  },
+  {
+    "id": null,
+    "prompt": "A person is shown looking around a city and begins washing windows with his tools. he\n\nChoose the best ending:\nA. then brushes right through the window and cleans it off.\nB. uses a large block cutter to remove smaller blocks until he has the whole of the window covered.\nC. puts water on a hose and begins cleaning the windows.\nD. goes up and down the windows at a rapid pace and continues filming himself through the glass.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending, let's analyze the scenario step by step:\n\n1. The person is initially looking around a city, which suggests he is observing the environment or preparing for some work.\n2. He then begins washing windows, indicating he is likely a window cleaner or is involved in a task related to cleaning.\n3. The tools he has imply he is ready to perform a task that requires specific equipment for cleaning windows.\n\nNow, let's evaluate the options:\n\nA. \"then brushes right through the window and cleans it off.\" - This option does not make sense because you cannot clean through a window; the cleaning process happens on the surface.\n\nB. \"uses a large block cutter to remove smaller blocks until he has the whole of the window covered.\" - This option seems out of context as it implies cutting rather than cleaning.\n\nC. \"puts water on a hose and begins cleaning the windows.\" - This option makes the most logical sense. It describes a typical action taken by someone who is washing windows, making use of water and tools.\n\nD. \"goes up and down the windows at a rapid pace and continues filming himself through the glass.\" - While this option suggests action, it doesn\u2019t directly relate to the cleaning process and sounds more like a distraction than a focused"
+    ],
+    "gold": "D",
+    "latency": 5.632127032993594
+  },
+  {
+    "id": null,
+    "prompt": "A person is shown looking around a city and begins washing windows with his tools. He goes up and down the windows at a rapid pace and continues filming himself through the glass. he\n\nChoose the best ending:\nA. continues to work by scrubbing the windows and then by pouring water out.\nB. takes his clothes off and hangs them up before throwing his plaid shirt into the laundry.\nC. finishes the glass in record time and turns off the camera.\nD. spins around to show the different angles of the board and shows pictures of the house in the end.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario described, we can analyze the actions of the person and their context. \n\n1. The person is actively engaged in washing windows, which implies a focus on completing the task efficiently and effectively. \n2. He is filming himself, which suggests he might want to document his work or share it with others, indicating a sense of accomplishment or a goal to showcase his efforts.\n3. The rapid pace of his work suggests he is either skilled at the task or motivated to finish quickly.\n\nNow let's evaluate the options:\n\nA. continues to work by scrubbing the windows and then by pouring water out. \n- This option suggests he is still engaged in the task of washing windows, which aligns with the initial scenario.\n\nB. takes his clothes off and hangs them up before throwing his plaid shirt into the laundry.\n- This option seems unrelated to the task of washing windows and does not follow logically from the context.\n\nC. finishes the glass in record time and turns off the camera.\n- This option indicates he has completed the task and is concluding the filming, which matches the idea of efficiency and accomplishment.\n\nD. spins around to show the different angles of the board and shows pictures of the house in the end.\n- This option introduces a new activity"
+    ],
+    "gold": "C",
+    "latency": 4.5050735419936245
+  },
+  {
+    "id": null,
+    "prompt": "A man dressed in yellow and black winter clothes ice fishes on a a frozen lake. the man\n\nChoose the best ending:\nA. is reeling in a fish for a long time.\nB. spins with his fishing pole in the air.\nC. does a trick on his dirty ice fishing line.\nD. does numerous tricks as he goes through these beauty course courses of ice covered lakes.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario provided, let's analyze each option in context with the man ice fishing on a frozen lake:\n\nA. is reeling in a fish for a long time.  \n- This option is realistic and fits well with the activity of ice fishing, emphasizing the man's engagement in the sport.\n\nB. spins with his fishing pole in the air.  \n- While this could be entertaining, it feels more like a playful action rather than a focused fishing activity.\n\nC. does a trick on his dirty ice fishing line.  \n- This option introduces an element of trickery, but it doesn't directly relate to the core activity of ice fishing.\n\nD. does numerous tricks as he goes through these beauty course courses of ice covered lakes.  \n- This option seems more about performing tricks rather than focusing on the fishing aspect, making it less relevant.\n\nConsidering the context of ice fishing, option A presents a scenario that makes the most sense and maintains a focus on the activity of fishing.\n\nThus, the best ending is A. \n\n#### A"
+    ],
+    "gold": "A",
+    "latency": 3.3760557640052866
+  },
+  {
+    "id": null,
+    "prompt": "A man dressed in yellow and black winter clothes ice fishes on a a frozen lake. The man is reeling in a fish for a long time. the mans catch\n\nChoose the best ending:\nA. more fish and throws them to the side.\nB. finally reaches the surface.\nC. a fish for dinner by making a wish with his mouth.\nD. one and puts it on a fishing pole in the lake.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario where the man is ice fishing and reeling in a fish, we need to analyze each option:\n\nA. \"more fish and throws them to the side.\" - This implies he is catching multiple fish, which is not consistent with the idea of reeling in a single fish for a long time.\n\nB. \"finally reaches the surface.\" - This option suggests that the fish he is reeling in is coming to the surface after a long struggle, which makes sense in the context of fishing.\n\nC. \"a fish for dinner by making a wish with his mouth.\" - This is nonsensical and doesn't logically follow from the context of catching a fish.\n\nD. \"one and puts it on a fishing pole in the lake.\" - This option is confusing and doesn't fit well with the narrative of reeling in a fish.\n\nBased on this analysis, the most fitting and logical ending is B as it directly relates to the action of fishing and the anticipation of bringing the fish to the surface.\n\n#### B"
+    ],
+    "gold": "B",
+    "latency": 5.841728981991764
+  },
+  {
+    "id": null,
+    "prompt": "Two children are seen sitting in a tub rubbing their faces and another person's hands interacting. the boy\n\nChoose the best ending:\nA. continues to rub water all over his face as well as play with toys and smile at the cameraman.\nB. walks out of the bathroom laughing to the camera and the girl stands up to rinse her face off.\nC. then begins washing the other child and ends by copulating with him.\nD. is now seen pointing down by himself and leads into him holding a comb and blow dryer and speaking to others.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending from the provided options, we need to consider the context of the scene described. The scene involves two children interacting playfully in a tub, which suggests a light-hearted and innocent atmosphere.\n\nA. This option describes the boy continuing to play and engage positively with his environment, which fits well with the playful context.\nB. This option introduces a change in action, with the boy leaving the bathroom and the girl rinsing her face off. While it continues the playful theme, it shifts focus away from their interaction.\nC. This option is inappropriate as it introduces sexual content, which does not fit the innocent context of children playing.\nD. This option introduces unrelated actions involving a comb and blow dryer, which seems disconnected from the playful scenario of children in a tub.\n\nConsidering all these points, option A is the most fitting as it maintains the playful and innocent theme of the scene. \n\n#### A"
+    ],
+    "gold": "A",
+    "latency": 3.736912171007134
+  },
+  {
+    "id": null,
+    "prompt": "A woman hands a young boy a stick with a little girl grabbing for her attention. the pinata\n\nChoose the best ending:\nA. is lifted and the boy begins swinging at the object.\nB. pops, and a child in white attempts to hit the pinata, but fails.\nC. pops out of the playground.\nD. is hit one after the other, and the girl lets go her hold.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario provided, let's analyze the context:\n\n1. A woman hands a young boy a stick, suggesting that they are preparing for an activity, likely involving the stick used to hit something.\n2. A little girl is grabbing for attention, which implies she may also be involved in the activity or wants to participate in some way.\n3. The mention of a pi\u00f1ata indicates that the boy is likely about to swing at it with the stick.\n\nNow, let's evaluate the options:\n- **A. is lifted and the boy begins swinging at the object.** This option continues the action of the story by showing the boy starting to hit the pi\u00f1ata, which fits the context.\n- **B. pops, and a child in white attempts to hit the pi\u00f1ata, but fails.** This option introduces a new child and a failure to hit the pi\u00f1ata, which doesn't directly follow the initial action.\n- **C. pops out of the playground.** This option is nonsensical in the context and does not make sense with the pi\u00f1ata.\n- **D. is hit one after the other, and the girl lets go her hold.** This option suggests that the girl is also involved, but it does not"
+    ],
+    "gold": "A",
+    "latency": 4.449158734001685
+  },
+  {
+    "id": null,
+    "prompt": "A woman hands a young boy a stick with a little girl grabbing for her attention. The pinata is lifted and the boy begins swinging at the object. the camera\n\nChoose the best ending:\nA. zooms in on the pinata and then the girl.\nB. is upside down so everyone else can't see the object.\nC. pans around people watching while he hits the pinata and a little boy is seen clapping behind him.\nD. zooms in on the boy's head and he looks at the pinata person in the background.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To choose the best ending, let's analyze the context provided:\n\n1. **Setting**: There is a woman, a young boy, and a little girl involved in an activity with a pinata. The boy is swinging at the pinata while the girl is trying to get her attention.\n  \n2. **Focus**: The camera can capture the action in different ways. We need to determine which option best captures the excitement and activity surrounding the boy hitting the pinata.\n\n3. **Options**:\n   - **A**: Zooming in on the pinata and then the girl might emphasize the pinata itself and the girl's desire for attention, but it doesn't focus much on the action.\n   - **B**: An upside-down camera wouldn't provide a clear view of the action and would be confusing for the audience.\n   - **C**: Panning around to show people watching while the boy hits the pinata and including a little boy clapping adds to the atmosphere of excitement and engagement from the crowd.\n   - **D**: Zooming in on the boy's head looking at the pinata person in the background may take away from the action and focus too much on the boy rather than the overall activity.\n\nGiven this analysis, option C seems to best"
+    ],
+    "gold": "C",
+    "latency": 4.9146343680040445
+  },
+  {
+    "id": null,
+    "prompt": "A woman is playing a violin on the street while various people walk around here and behind her. she\n\nChoose the best ending:\nA. continues to play violin while people pass by her.\nB. continues playing the violin and beginning to intermittently move the sticks up and down.\nC. smiles into the camera while playing and continues playing the song while several people bend down to tip her and walk around her.\nD. finishes and walks off, leaving the violin lying on the ground.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario, we need to consider the context of a woman playing a violin on the street and how her interaction with the audience can be portrayed.\n\nA. \"continues to play violin while people pass by her.\" \n- This ending implies a passive experience where the woman is not engaging with her audience or the environment. It lacks emotional connection and interaction.\n\nB. \"continues playing the violin and beginning to intermittently move the sticks up and down.\"\n- This option suggests some movement but does not specify the engagement with the audience. It's also somewhat unclear what \"sticks\" refers to, which could cause confusion.\n\nC. \"smiles into the camera while playing and continues playing the song while several people bend down to tip her and walk around her.\"\n- This ending indicates an active engagement with her audience. The smile and tips suggest that she is appreciated and that there is a connection between her and the passersby.\n\nD. \"finishes and walks off, leaving the violin lying on the ground.\"\n- This ending suggests a disengagement from the performance and would convey a negative or abrupt conclusion to her act, which may not be ideal.\n\nConsidering these points, option C is the most positive and engaging ending that highlights interaction, appreciation, and"
+    ],
+    "gold": "C",
+    "latency": 6.4515281680069165
+  },
+  {
+    "id": null,
+    "prompt": "Various pictures of food are shown followed by a person cutting up vegetables and mixing various ingredients into a pot. he\n\nChoose the best ending:\nA. shows how the vegetables are chopped for seasoning and then sprinkled into broth and shown with the water boiling.\nB. cooks up a meal and each are shown eating inside the pot.\nC. boils food into a bowl and then adds some part of a salad into the bowl.\nD. then cuts up a piece of bread, scoops out the insides, and fries up some meat.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario provided, let's analyze the steps leading up to it and each option given:\n\n1. The scenario starts with various pictures of food, which likely sets the context for cooking or preparing a meal.\n2. The person is depicted cutting up vegetables and mixing ingredients into a pot, indicating that they are in the process of preparing a dish.\n\nNow, we need to evaluate each ending:\n\nA. \"shows how the vegetables are chopped for seasoning and then sprinkled into broth and shown with the water boiling.\"\n   - This option aligns well with the preparation of a dish. The act of chopping vegetables for seasoning and adding them to broth fits the cooking process and follows logically from mixing ingredients into a pot.\n\nB. \"cooks up a meal and each are shown eating inside the pot.\"\n   - While this option suggests a communal eating experience, it lacks a direct connection to the preparation process described. It skips the cooking phase entirely.\n\nC. \"boils food into a bowl and then adds some part of a salad into the bowl.\"\n   - This option introduces the idea of boiling food but is somewhat disconnected from the earlier actions of cutting vegetables and mixing ingredients into a pot. It doesn't follow logically from the initial cooking steps.\n\nD. \"then cuts up"
+    ],
+    "gold": "D",
+    "latency": 4.298051543999463
+  },
+  {
+    "id": null,
+    "prompt": "Ingredients are sitting on a wooden block. a person\n\nChoose the best ending:\nA. adds flour to a baking pan.\nB. starts mixing the ingredients together.\nC. puts salt, lemon juice in a pot, then adds eggs, cheese, ham, and some other hoagies.\nD. is mixing the ingredients in an iron.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario provided, we should consider the context of the ingredients sitting on a wooden block. \n\n1. The mention of \"ingredients\" suggests we are likely preparing something, probably a dish.\n2. The options provided suggest different actions related to cooking or baking.\n\nNow, evaluating each option:\nA. \"adds flour to a baking pan.\" - This sounds like part of a baking process but does not directly relate to the ingredients sitting on the block.\nB. \"starts mixing the ingredients together.\" - This is a logical step after having ingredients ready, suggesting that the person is preparing to make a dish.\nC. \"puts salt, lemon juice in a pot, then adds eggs, cheese, ham, and some other hoagies.\" - This sounds like a more complex dish preparation but does not directly address the idea of mixing ingredients from the block.\nD. \"is mixing the ingredients in an iron.\" - This option is confusing, as \"iron\" could refer to an iron skillet or a sandwich press, but it doesn't fit well with the context of mixing.\n\nGiven these evaluations, option B is the most logical and straightforward action that follows the scenario of having ingredients ready.\n\nThus, the best ending is: #### B"
+    ],
+    "gold": "B",
+    "latency": 4.097853072002181
+  },
+  {
+    "id": null,
+    "prompt": "A man is seen walking closer to a pinata while a large group of people stand around him. the man\n\nChoose the best ending:\nA. shows off various tapers while swinging at the pinata and throwing them out to the crowd.\nB. then throws the pin while others watch on the sides.\nC. spins around several times and throws the stick.\nD. misses the pinata and hits a person behind him, shown again in slow motion.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario described, we need to analyze each option in relation to the situation of a man approaching a pi\u00f1ata while others watch.\n\nA. **Shows off various tapers while swinging at the pi\u00f1ata and throwing them out to the crowd.**\n- This option suggests a playful and entertaining interaction with the pi\u00f1ata, which aligns with the festive atmosphere typically surrounding such an event. However, it doesn't directly relate to the act of hitting the pi\u00f1ata.\n\nB. **Then throws the pin while others watch on the sides.**\n- This option seems unclear and doesn't make much sense in the context of hitting a pi\u00f1ata. It lacks action and doesn't fit the scenario well.\n\nC. **Spins around several times and throws the stick.**\n- This option aligns well with a classic pi\u00f1ata activity, where participants are often spun around to add difficulty before attempting to hit the pi\u00f1ata. It fits the festive nature of the scene.\n\nD. **Misses the pi\u00f1ata and hits a person behind him, shown again in slow motion.**\n- This option adds an element of humor or mishap, which can be entertaining but may not fit the overall positive and festive context typically associated with a pi\u00f1ata event"
+    ],
+    "gold": "D",
+    "latency": 4.7317714800010435
+  },
+  {
+    "id": null,
+    "prompt": "A pair of female hands uses an iron on a piece of baby clothing. the woman\n\nChoose the best ending:\nA. wets the garment and scrubs it with a cloth.\nB. peels the old clothing off the piece and replaces it with dry material.\nC. sets the iron aside and flips the clothing.\nD. wraps the garment on top of the blouse, then irons it.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending, we need to analyze the scenario given.\n\n1. The context is about a woman using an iron on baby clothing.\n2. The action of ironing typically involves smoothing out wrinkles and ensuring the clothing is neat.\n3. We should consider what actions make sense in conjunction with ironing.\n\nNow, let's evaluate the options:\n\nA. Wets the garment and scrubs it with a cloth. \n   - This does not fit the context of ironing, as ironing is meant for smoothing out wrinkles, not scrubbing.\n\nB. Peels the old clothing off the piece and replaces it with dry material. \n   - This option suggests removing something, which is not related to the ironing process.\n\nC. Sets the iron aside and flips the clothing. \n   - Flipping clothing could be a part of ironing, but setting the iron aside does not align with continuing the ironing process.\n\nD. Wraps the garment on top of the blouse, then irons it. \n   - This option implies that she is preparing the garment for ironing and is actively engaged in the ironing process.\n\nThe most logical ending that relates directly to the action of ironing is D. \n\nTherefore, the best choice is D. \n\n#### D"
+    ],
+    "gold": "C",
+    "latency": 6.834712673997274
+  },
+  {
+    "id": null,
+    "prompt": "A pair of female hands uses an iron on a piece of baby clothing. The woman sets the iron aside and flips the clothing. the woman\n\nChoose the best ending:\nA. then undresses and irons the shirt.\nB. places a pair of pants into a bucket.\nC. shows how to iron a sock correctly.\nD. uses the iron on the other side of the clothing.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "1. The scene begins with a woman using an iron on baby clothing, suggesting she is engaged in ironing.\n2. After ironing one side, she sets the iron aside and flips the clothing.\n3. The logical next step after flipping the clothing would be to iron the other side as well to ensure it is wrinkle-free.\n4. Options A, B, and C do not logically follow the action of flipping the clothing, as they introduce unrelated tasks or actions.\n5. Option D directly relates to the task of ironing, as it indicates she will use the iron on the other side of the clothing she just flipped.\n\nThus, the best ending is D.\n\n#### D"
+    ],
+    "gold": "D",
+    "latency": 2.559426378997159
+  },
+  {
+    "id": null,
+    "prompt": "The woman sets the iron aside and flips the clothing. The woman uses the iron on the other side of the clothing. the woman\n\nChoose the best ending:\nA. scrubs the clothing with her hands.\nB. quickly picks up and irons, flames dancing over the clothing.\nC. sets the iron aside.\nD. crosses her arms in front of her and it's gone.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To solve the problem, we need to analyze the context given in the scenario. \n\n1. The woman sets the iron aside and flips the clothing. This indicates she is in the process of ironing clothes.\n2. The woman uses the iron on the other side of the clothing. This suggests she is continuing to iron the clothing, which implies she is focused on the task of ironing.\n\nNow, let's evaluate the options:\n\nA. scrubs the clothing with her hands - This doesn't fit the context as she is using an iron, not scrubbing with her hands.\n\nB. quickly picks up and irons, flames dancing over the clothing - While this involves ironing, the mention of \"flames dancing\" is not appropriate or typical in the context of ironing clothes.\n\nC. sets the iron aside - This is already mentioned in the scenario and does not progress the narrative.\n\nD. crosses her arms in front of her and it's gone - This option does not relate to the context of ironing and seems to be out of place.\n\nThe best option that logically follows the actions described (setting the iron aside and flipping the clothing) while still focusing on the ironing task is:\n\nB. quickly picks up and irons, flames dancing over the clothing.\n\nHowever, since B has an element that could be"
+    ],
+    "gold": "C",
+    "latency": 4.913879857005668
+  },
+  {
+    "id": null,
+    "prompt": "We see a chair with a pillow on it. a man holding a cat\n\nChoose the best ending:\nA. does curling.\nB. starts hitting objects on an item.\nC. sits down on the chair.\nD. is wrapping a box.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To find the best ending for the scenario described, we need to analyze the elements present:\n\n1. **Chair with a pillow**: This suggests comfort and a resting place.\n2. **A man holding a cat**: This indicates that the man is likely to interact with the cat or find a place for both himself and the cat.\n\nNow, let's evaluate the options:\n\nA. **does curling**: This does not relate to the scene with a chair and a cat. It seems unrelated.\n\nB. **starts hitting objects on an item**: This option is vague and doesn't connect well with the context of a man, a cat, and a chair.\n\nC. **sits down on the chair**: This is a logical action for a man holding a cat. It also fits well with the presence of the chair and pillow, indicating he might want to rest.\n\nD. **is wrapping a box**: This action does not fit well with the scene as there is no mention of a box or wrapping.\n\nGiven the analysis, the most appropriate and logical action is that the man **sits down on the chair**.\n\nThus, the best ending is C.\n\n#### C"
+    ],
+    "gold": "C",
+    "latency": 5.120077846993809
+  },
+  {
+    "id": null,
+    "prompt": "We see a chair with a pillow on it. A man holding a cat sits down on the chair. The man clips the cats fingernails. the man\n\nChoose the best ending:\nA. strokes the cat's head.\nB. then clips the cat nails.\nC. puts the cat down and boxes it with paper.\nD. gives the cats ears.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending, let's analyze the scenario step-by-step:\n\n1. A man is sitting on a chair with a cat.\n2. He is clipping the cat's fingernails (which suggests he is taking care of the cat).\n3. After clipping the cat's nails, it's likely he would continue to show affection or care towards the cat.\n\nNow let's evaluate the options:\n\nA. strokes the cat's head. - This is a natural way to show affection after grooming the cat.\nB. then clips the cat nails. - This is redundant because it repeats the action already mentioned.\nC. puts the cat down and boxes it with paper. - This seems harsh and unlikely given the context of caring for the cat.\nD. gives the cats ears. - This sentence is unclear and doesn't make sense.\n\nConsidering the context and the flow of actions, the best ending is A. strokes the cat's head.\n\nThus, the answer is: #### A"
+    ],
+    "gold": "A",
+    "latency": 3.3778636479983106
+  },
+  {
+    "id": null,
+    "prompt": "A man holding a cat sits down on the chair. The man clips the cats fingernails. The man strokes the cat's head. the man\n\nChoose the best ending:\nA. sits back down on the chair.\nB. takes the cat to the other room.\nC. stands up and walks down the sidewalk.\nD. plays with the cat rocking it back and forth.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To find the best ending, we should consider the context and the actions described in the scenario. \n\n1. The man is sitting down with the cat and is engaged in caring for it (clipping its fingernails and stroking its head). This suggests a calm and nurturing environment.\n2. Option A suggests that he simply continues to sit down on the chair, which is consistent with the calm scenario.\n3. Option B indicates he takes the cat to another room, which could be plausible but doesn't align with the described actions of care and affection.\n4. Option C implies he stands up and walks away, which contradicts the current action of nurturing the cat.\n5. Option D suggests playing with the cat, which aligns with the affectionate actions but doesn't match the current scenario of sitting down and clipping the cat's nails.\n\nGiven these considerations, the most logical and consistent choice is:\n\nA. sits back down on the chair.\n\nTherefore, the answer is: #### A"
+    ],
+    "gold": "D",
+    "latency": 4.50640773899795
+  },
+  {
+    "id": null,
+    "prompt": "A young girl in a green leotard begins twirling a baton and doing tricks. the girl\n\nChoose the best ending:\nA. does this in the beginning while using her foot and one hand to move around her body.\nB. begins to do some of her routine and does a few hip spins.\nC. puts their hands together, and twirl together like a ballet dancer.\nD. begins to incorporate her arms and does a flip and continues to flip the baton over her hands and arms.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario of a young girl in a green leotard twirling a baton and doing tricks, let's analyze each option step-by-step:\n\nA. \"does this in the beginning while using her foot and one hand to move around her body.\" \n- This option suggests an awkward movement, focusing on foot and one hand, which might not be as engaging or dynamic as one would expect from a baton twirling routine.\n\nB. \"begins to do some of her routine and does a few hip spins.\"\n- This option indicates she is performing part of her routine and adds some flair with hip spins. It suggests movement and skill but is somewhat limited in describing the complexity of her performance.\n\nC. \"puts their hands together, and twirl together like a ballet dancer.\"\n- This option seems to blend baton twirling and ballet but doesn't strongly connect to the action of baton twirling. It could imply a lack of focus on the baton itself.\n\nD. \"begins to incorporate her arms and does a flip and continues to flip the baton over her hands and arms.\"\n- This option emphasizes skill and complexity, showcasing the girl's ability to incorporate her arms and perform a flip while actively engaging with the baton.\n\nConsidering the goal of finding the best ending"
+    ],
+    "gold": "D",
+    "latency": 5.426144930999726
+  },
+  {
+    "id": null,
+    "prompt": "The girl begins to incorporate her arms and does a flip and continues to flip the baton over her hands and arms. as the young lady\n\nChoose the best ending:\nA. continues her performance, she twirls the baton between her legs and over her head, catches it and does a gallop.\nB. is still serving the baton, she places the extension on her left hand and does a full 180 degree spin in one flip.\nC. becomes more involved in the ballet, she does a final dismount to bring her elbows down and her upper body straight.\nD. is zapping her arms and is practicing her baton twirling technique, she grabs the baton from the ground and shows herself victorious while her coach claps.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the girl\u2019s baton performance, we need to consider the context provided in the prompt. The girl is actively performing, incorporating her arms, and doing flips, which indicates a dynamic and athletic routine.\n\nNow, let\u2019s analyze the options:\n\nA. This option continues the theme of an impressive baton routine with a series of movements that seem fluid and connected, which fits well with the description of her performance.\n\nB. This option is less fluid as it describes her placing the baton on her left hand and doing a 180-degree spin, which is not as visually engaging as twirling and flipping.\n\nC. This option shifts to a ballet focus, which is a different style from baton twirling and doesn't maintain the baton theme.\n\nD. This option describes a practice scenario rather than a performance, which is less fitting for the context of her ongoing routine.\n\nGiven that option A continues the performance with impressive and connected baton twirling moves, it is the most suitable choice.\n\n#### A"
+    ],
+    "gold": "A",
+    "latency": 3.5474532329972135
+  },
+  {
+    "id": null,
+    "prompt": "As the young lady continues her performance, she twirls the baton between her legs and over her head, catches it and does a gallop. the rest of the young girl's performance\n\nChoose the best ending:\nA. is replayed in slow motion.\nB. is a set of twirls and twist and then she runs off the floor to finish her performance.\nC. is shown several times and ends by showcasing her back to the both the camera and a final focus of her performance.\nD. is replayed, ending with the young lady clapping her hands joyfully.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To decide on the best ending for the young lady's performance, we need to consider the context and flow of her act. \n\n1. The performance has already showcased dynamic and energetic movements, such as twirling the baton and galloping. This suggests that the ending should maintain a similar level of excitement or conclude in a way that feels satisfying.\n\n2. Option A suggests a slow-motion replay, which could detract from the energy of the performance. It doesn't seem to match the excitement built up by her earlier actions.\n\n3. Option B describes a set of twirls and twists followed by running off the floor. This maintains the energy of the performance and provides a dynamic conclusion, making it a strong candidate.\n\n4. Option C involves showcasing her back and repeating parts of her performance, which might not provide a strong finish and could feel anticlimactic compared to the lively nature of her act.\n\n5. Option D suggests a joyful clap at the end, which could be a nice touch but might not encapsulate the excitement of her performance as well as a more dynamic finish would.\n\nConsidering these points, the best choice that aligns with the energetic and vibrant nature of her performance is:\n\n#### B"
+    ],
+    "gold": "B",
+    "latency": 4.02687055800925
+  },
+  {
+    "id": null,
+    "prompt": "We see a man in a driveway cleaning snow from his car. the man\n\nChoose the best ending:\nA. cleans the snow under his windshield wipers.\nB. wet his car and wipes it down.\nC. moves the snow out of the front bumper of his car and pours gasoline on it.\nD. removes the pieces of the line off his windshield.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To choose the best ending for the scenario presented, we analyze each option based on the context of a man cleaning snow from his car.\n\nA. \"cleans the snow under his windshield wipers.\" - This is a reasonable action to take when cleaning snow off a car, as it's important to ensure visibility by clearing that area.\n\nB. \"wet his car and wipes it down.\" - Wetting the car does not relate to cleaning snow and seems out of context.\n\nC. \"moves the snow out of the front bumper of his car and pours gasoline on it.\" - This option is dangerous and illegal, as pouring gasoline on snow is not a cleaning method and poses safety hazards.\n\nD. \"removes the pieces of the line off his windshield.\" - This is unclear and doesn't directly relate to cleaning snow.\n\nConsidering these points, option A is the most logical and relevant action a man would take while cleaning snow from his car.\n\nThe best ending is: A. \n\n#### A"
+    ],
+    "gold": "A",
+    "latency": 3.482020827010274
+  },
+  {
+    "id": null,
+    "prompt": "We see a man in a driveway cleaning snow from his car. The man cleans the snow under his windshield wipers. we\n\nChoose the best ending:\nA. see the old man's garage and what looks like a boat in the water.\nB. see the building behind the car.\nC. zoom in on the cabin.\nD. see the mans silver car gliding by in the background.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To solve the problem, let's analyze the situation step by step:\n\n1. **Setting**: The scene involves a man cleaning snow from his car, which implies that it's winter and possibly snowing. This gives a context of a residential area where people park their cars in driveways.\n\n2. **Focus on the action**: The action of cleaning snow under the windshield wipers suggests that the car is parked and the man is focused on ensuring visibility for driving. This indicates that the surrounding area may not be the main focus, but rather the immediate task at hand.\n\n3. **Options Analysis**:\n   - **A**: \"see the old man's garage and what looks like a boat in the water.\" - This option introduces elements that may distract from the main action (cleaning the car).\n   - **B**: \"see the building behind the car.\" - This option is quite generic and does not add much to the scene.\n   - **C**: \"zoom in on the cabin.\" - This option suggests a focus on a specific detail, which could enhance the imagery but may not be directly related to the man cleaning his car.\n   - **D**: \"see the man's silver car gliding by in the background.\" - This option suggests a"
+    ],
+    "gold": "B",
+    "latency": 5.14461013500113
+  },
+  {
+    "id": null,
+    "prompt": "The man cleans the snow under his windshield wipers. We see the building behind the car. We do a 360 spin to see the parking lot. the man\n\nChoose the best ending:\nA. finishes and turns off the wipers.\nB. opens the doors on his car and gets in.\nC. finishes and slides out of the car.\nD. puts up the camera.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending, let's analyze the context provided:\n\n1. The man is cleaning snow from under his windshield wipers, which implies he is preparing to drive or use the car.\n2. The scene describes a 360 spin around the parking lot, indicating a focus on the surroundings and possibly the car itself.\n3. The options provided suggest different actions the man might take after cleaning the snow.\n\nNow, let's evaluate each option:\n\nA. finishes and turns off the wipers. - This action is plausible since he has been cleaning the snow from under the wipers, and he may need to turn them off after cleaning.\n\nB. opens the doors on his car and gets in. - This is also a likely action after cleaning the snow, as he may want to enter the car to drive.\n\nC. finishes and slides out of the car. - This option implies he is already inside the car and is exiting, which doesn't fit the context of cleaning snow.\n\nD. puts up the camera. - This action seems unrelated to the scene of cleaning snow and doesn't follow logically from the context.\n\nConsidering the context and the actions, the best ending would be option B, as it logically follows after cleaning the snow that he would open the doors and get into the car to"
+    ],
+    "gold": "B",
+    "latency": 6.835251302996767
+  },
+  {
+    "id": null,
+    "prompt": "A man in a blue shirt and shorts lifts a large weight over his head. Another man is filming it. The same man comes back and lifts the weight over his head again. he\n\nChoose the best ending:\nA. drops it on the ground and walks away.\nB. again lifts the weight over his head.\nC. drops it and runs towards the camera.\nD. drops it onto the floor where it gets stuck.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario, let's analyze the situation step by step.\n\n1. We have a man lifting a large weight over his head. This suggests that he is demonstrating strength or performance.\n2. There is another man filming this action, which indicates that the lifting is likely meant to be impressive or notable.\n3. The same man comes back and lifts the weight over his head again, suggesting that he is continuing to demonstrate his strength.\n\nNow, we need to consider the implications of each potential ending:\n\nA. Drops it on the ground and walks away.\n   - This ending implies a lack of engagement or effort from the man, which seems contrary to the context of lifting weights.\n\nB. Again lifts the weight over his head.\n   - This is a continuation of the action and aligns well with the initial setup, showing persistence and strength.\n\nC. Drops it and runs towards the camera.\n   - Although dramatic, this ending could suggest a distraction from the act of lifting, which may not fit the scenario.\n\nD. Drops it onto the floor where it gets stuck.\n   - This ending seems less likely as it introduces an unexpected complication that doesn't follow the theme of lifting.\n\nGiven the context of the scenario, the most fitting ending is B, as it maintains"
+    ],
+    "gold": "A",
+    "latency": 4.4016604280041065
+  },
+  {
+    "id": null,
+    "prompt": "A man is seen throwing a dart onto a board and leads into a woman speaking. the man\n\nChoose the best ending:\nA. tosses darts into the water while people measure the distance and run after them.\nB. gives her several tips and she continues creating darts.\nC. throws several more darts while taking the time to speak to the woman.\nD. holds behind him and the woman continues speaking.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending, we need to analyze the context provided in the scenario:\n\n1. The scene begins with a man throwing a dart onto a board.\n2. The focus shifts to a woman who is speaking, suggesting that the conversation or interaction is significant.\n\nNow, let's examine the options:\n\nA. \"tosses darts into the water while people measure the distance and run after them.\"  \n- This option seems unrelated to the initial scene of throwing darts onto a board. It introduces a new and unrealistic activity that doesn't fit.\n\nB. \"gives her several tips and she continues creating darts.\"  \n- This option implies a supportive interaction, but it shifts the focus away from the dart throwing and seems more about her craft rather than their interaction.\n\nC. \"throws several more darts while taking the time to speak to the woman.\"  \n- This option maintains the theme of dart throwing and suggests that the man is engaging with the woman while still participating in the activity. It fits well with the initial scene.\n\nD. \"holds behind him and the woman continues speaking.\"  \n- This option is vague and doesn't provide a clear connection to the dart throwing. It implies inaction from the man.\n\nGiven this analysis, option C best maintains the activity of dart throwing while also"
+    ],
+    "gold": "C",
+    "latency": 5.119284736996633
+  },
+  {
+    "id": null,
+    "prompt": "A group of people are standing in the middle of a forest with a trail of pebbles separating them from a beautiful crystal clear body of water. the camera\n\nChoose the best ending:\nA. then goes right side up and shows a lot of scenery on the left side.\nB. follows the couple kayaking behind the group on the trail moving back and fourth on the murky water in the forest.\nC. moves across the water and several people on boats and jet-skis are moving in the water near a large wave.\nD. zooms in on the foamy waters as well as the nearby cliffs and forest surrounding it.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To choose the best ending, we need to consider the scene described. The group of people is standing in a forest with a trail of pebbles leading to a crystal clear body of water. The focus seems to be on the transition from the forest to the water and the beauty of the natural setting.\n\nNow let's analyze the options:\n\nA. This option suggests a change in perspective but does not directly engage with the water or the activity around it. It doesn't enhance the current scene's focus on the water.\n\nB. This option introduces movement and action by following a couple kayaking, which could connect the group to the water. However, it mentions \"murky water,\" which contradicts the description of \"crystal clear.\"\n\nC. This option focuses on movement on the water with various activities (boats and jet-skis) and large waves, which could reflect the vibrancy of the scene and enhance the visual interest. However, it slightly shifts focus away from the group in the forest.\n\nD. This option zooms in on the foamy waters and the surrounding cliffs and forest, which aligns well with the described tranquil and beautiful setting. It keeps the focus on the water while still acknowledging the natural environment around it.\n\nConsidering these analyses, the best ending that maintains the scene's"
+    ],
+    "gold": "C",
+    "latency": 4.504256258005626
+  },
+  {
+    "id": null,
+    "prompt": "The camera moves across the water and several people on boats and jet-skis are moving in the water near a large wave. More large waves begin to surface and a man begins surfing the waves. the forest\n\nChoose the best ending:\nA. is then shown clearly under a large wide wave.\nB. is then shown and surf boards appear that are washed up against the banks of the water.\nC. starts to get darker and darker as the large wave picks up and men continue to sail around it.\nD. of trees quickly moves over the trailing wave and they follow suit as well.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To choose the best ending for the scene described, we need to analyze the context provided. \n\n1. The scene begins with a camera movement across the water, showing people engaged in water activities like boating and jet-skiing.\n2. Large waves begin to surface, indicating a dynamic and possibly exciting atmosphere. \n3. A man starts surfing the waves, suggesting that the focus is on the action and interaction with the water.\n\nNow let's evaluate each option:\n\nA. \"is then shown clearly under a large wide wave.\" \u2013 This could imply the forest is submerged or overshadowed by the wave, but it doesn't connect well with the ongoing activity of surfing.\n\nB. \"is then shown and surf boards appear that are washed up against the banks of the water.\" \u2013 This suggests a result of the wave activity but doesn\u2019t tie in well with the action of surfing happening at the moment.\n\nC. \"starts to get darker and darker as the large wave picks up and men continue to sail around it.\" \u2013 This option adds a sense of tension and anticipation, aligning with the dramatic nature of large waves and the surf action.\n\nD. \"of trees quickly moves over the trailing wave and they follow suit as well.\" \u2013 This option seems to introduce an element of the forest interacting with"
+    ],
+    "gold": "B",
+    "latency": 4.632421330999932
+  },
+  {
+    "id": null,
+    "prompt": "A large patch of grass is shown. a man\n\nChoose the best ending:\nA. belly flops on some grass before a newscaster announces the story.\nB. stretches in front of it.\nC. is shown inside while a machine is working.\nD. is mowing the yard next to the bushes.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the sentence, we need to consider the context provided by \"A large patch of grass is shown.\" This suggests that the focus is on an outdoor scene featuring grass.\n\nNow, let's examine each option:\n\nA. \"belly flops on some grass before a newscaster announces the story.\" - This option introduces a playful action on the grass, which is relevant to the setting.\n\nB. \"stretches in front of it.\" - This option suggests a more calm and relaxed interaction with the grass but lacks a dynamic element.\n\nC. \"is shown inside while a machine is working.\" - This option shifts the focus away from the grass outside to an indoor setting, which doesn't match the initial description.\n\nD. \"is mowing the yard next to the bushes.\" - This option involves grass and is a plausible activity in such a setting, but it implies a practical task rather than an engaging or dynamic action.\n\nConsidering the lively and engaging nature of option A compared to the other options, it fits best with the idea of a large patch of grass and adds a sense of action and interest. \n\nTherefore, the best ending is A.\n\n#### A"
+    ],
+    "gold": "D",
+    "latency": 3.8660840609954903
+  },
+  {
+    "id": null,
+    "prompt": "A pilates instructor on skates explains how to strap your risk protectors tight and shows that you need knee pads to protect your knees. the lady\n\nChoose the best ending:\nA. starts with two small straps and it puts her into a squatting position with feet fully placed over her knee and her hands suspended and ready.\nB. then explains the skates movement and how to use the breaks that is in the back of the skates.\nC. then puts lotion in both of her hands and rubs them along your knees while the instructor washes them.\nD. shows how to harness and strap your weight on properly and she moves away from the mounting as she reaches for her left knee.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario, we should consider the context of the pilates instructor explaining safety equipment for skating.\n\n1. The instructor is focusing on safety gear (risk protectors and knee pads).\n2. The options given provide various actions but should logically follow the explanation about protective gear.\n\nNow, evaluating the options:\n\nA. This option describes a squatting position but does not focus on the protective gear after its explanation.\nB. This option shifts to explaining skate movement, which is related but not directly about the protective gear.\nC. This option introduces lotion, which seems unrelated and not relevant to the protective gear discussion.\nD. This option continues the theme of safety gear by showing how to harness and strap weight, which is consistent with the protective gear focus.\n\nGiven that D maintains the focus on safety while seamlessly integrating the action related to strapping on equipment, it is the most appropriate choice.\n\nThe best ending is D. \n\n#### D"
+    ],
+    "gold": "B",
+    "latency": 4.297760560002644
+  },
+  {
+    "id": null,
+    "prompt": "A woman wearing a tan apron is holding a knife and talking. She then shows an appliance on the table and tilts it upwards. she\n\nChoose the best ending:\nA. turns a dial on the appliance and sets it back down.\nB. continues sliding the blade over the appliance.\nC. takes a quarter of an inch of the device and holds it against a piece of cake.\nD. removes a lemon from a jar and places it into a pot.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario described, let's analyze the context provided:\n\n1. The woman is wearing a tan apron, which suggests she is in a kitchen setting.\n2. She is holding a knife, indicating that she might be preparing or cooking something.\n3. She shows an appliance on the table and tilts it upwards, suggesting she is demonstrating or preparing to use it.\n\nNow, let's evaluate each option:\n\nA. \"turns a dial on the appliance and sets it back down.\" - This makes sense as she is interacting with an appliance, possibly preparing it for use.\n\nB. \"continues sliding the blade over the appliance.\" - This seems less likely as it implies using the knife on the appliance itself rather than demonstrating the appliance.\n\nC. \"takes a quarter of an inch of the device and holds it against a piece of cake.\" - This is somewhat confusing as it suggests cutting or measuring something with the appliance, but it doesn't align well with the previous actions described.\n\nD. \"removes a lemon from a jar and places it into a pot.\" - While this might involve cooking, it doesn't connect directly with the interaction with the appliance.\n\nGiven this analysis, option A stands out as the most logical continuation of the scenario, where she engages with"
+    ],
+    "gold": "A",
+    "latency": 4.710848129994702
+  },
+  {
+    "id": null,
+    "prompt": "She then shows an appliance on the table and tilts it upwards. She turns a dial on the appliance and sets it back down. she\n\nChoose the best ending:\nA. shows several shots of the chair in the end.\nB. picks the knife back up and places it on the appliance.\nC. pokes the vacuum nozzle in the top seam of the vacuum cleaner and adds fuel to it while still keeping the vacuum nozzle up.\nD. also shows how to use tubing no a string is attached to it and she explaining the use of the tubing.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario provided, we need to analyze the context of the actions that have been described. \n\n1. The person shows an appliance and tilts it upwards, indicating they are preparing to demonstrate or use it.\n2. They turn a dial on the appliance, which suggests that the appliance may require adjustments or settings to be made for it to function correctly.\n3. After setting it back down, the action implies that the focus will be on how to use or interact with this appliance.\n\nNow, let's review the options:\n\nA. Shows several shots of the chair in the end. - This option does not relate to the appliance and seems irrelevant to the actions described.\n\nB. Picks the knife back up and places it on the appliance. - While this may involve the appliance, the introduction of a knife seems out of context unless the appliance is related to food preparation or cutting.\n\nC. Pokes the vacuum nozzle in the top seam of the vacuum cleaner and adds fuel to it while still keeping the vacuum nozzle up. - This option suggests a practical demonstration of how to use a vacuum cleaner, which aligns with the actions of interacting with an appliance.\n\nD. Also shows how to use tubing no a string is attached to it and she explaining the use of"
+    ],
+    "gold": "B",
+    "latency": 3.788553527003387
+  },
+  {
+    "id": null,
+    "prompt": "She turns a dial on the appliance and sets it back down. She picks the knife back up and places it on the appliance. she\n\nChoose the best ending:\nA. gets up and starts brushing the blade.\nB. uses a tool to pinch the wax off of the knife.\nC. turns the dial again on the appliance.\nD. jumps up and throws something into a container shaped like a snowboard.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending, let's analyze the context provided:\n\n1. The character is interacting with an appliance by turning a dial and then placing a knife on it. This suggests that the appliance may be related to cooking or food preparation.\n2. After placing the knife on the appliance, we need to consider what action would logically follow.\n\nNow, let's evaluate each option:\n\nA. **gets up and starts brushing the blade.** - This action seems somewhat unrelated to the previous context of setting a knife on an appliance. It may not be a typical next step.\n\nB. **uses a tool to pinch the wax off of the knife.** - This option introduces a new element (wax) that may not fit with the context of using a knife with an appliance.\n\nC. **turns the dial again on the appliance.** - This option directly relates to the action of using the appliance. It makes sense that after placing the knife, she might need to adjust the settings again.\n\nD. **jumps up and throws something into a container shaped like a snowboard.** - This option seems very unrelated to the task at hand and introduces an unrelated action.\n\nBased on the context of the scenario, the most logical continuation of her actions is to turn the dial again on the"
+    ],
+    "gold": "C",
+    "latency": 4.501390257006278
+  },
+  {
+    "id": null,
+    "prompt": "She picks the knife back up and places it in the appliance and slowly draws it back several times. she\n\nChoose the best ending:\nA. slices a tomato on a wood block with the knife.\nB. removes the rubber band off of the knife and gets it across the blade.\nC. continues using the appliance to put the fancy knife on the box.\nD. stands up from the chair and walks towards the stairs before finally leaving the room.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending, let's analyze the context provided:\n\n1. The action involves a knife being placed in an appliance and drawn back several times. This suggests that the knife is likely being sharpened or prepared for use.\n\n2. The choices provided:\n   - A: \"slices a tomato on a wood block with the knife.\" This is a logical continuation of having a sharpened knife and indicates it is ready for use in food preparation.\n   - B: \"removes the rubber band off of the knife and gets it across the blade.\" This seems unrelated to the context of using the knife or preparing food.\n   - C: \"continues using the appliance to put the fancy knife on the box.\" This is somewhat unclear and does not seem to relate directly to using the knife.\n   - D: \"stands up from the chair and walks towards the stairs before finally leaving the room.\" This indicates a departure and does not relate to the immediate actions involving the knife.\n\nConsidering the context of preparing or using the knife, option A is the most logical and fitting ending.\n\nTherefore, the best ending is A. \n\n#### A"
+    ],
+    "gold": "A",
+    "latency": 4.506602492998354
+  },
+  {
+    "id": null,
+    "prompt": "She picks the knife back up and places it in the appliance and slowly draws it back several times. She slices a tomato on a wood block with the knife. she\n\nChoose the best ending:\nA. decorates the knife with green and red maracas.\nB. positions the knife front and back and finishes by pushing it straight across the square board.\nC. then demonstrates how to sharpen the knife and finishes by putting a metal rod in front of the plate of spaghetti that she just sharpened.\nD. grabs a second knife and puts it in the appliance.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending to the scenario provided, let's analyze the context:\n\n1. The character is already engaged in food preparation, as indicated by slicing a tomato with a knife on a wood block. This suggests a focus on cooking or food presentation.\n2. The action of drawing the knife back several times implies a sharpening process or preparation for use, which aligns with culinary tasks.\n\nNow, let's evaluate each ending based on this context:\n\nA. Decorates the knife with green and red maracas. \n- This option is unrelated to the cooking context and seems whimsical, making it less suitable.\n\nB. Positions the knife front and back and finishes by pushing it straight across the square board.\n- This could imply further preparation or cutting, which fits well with the existing cooking theme.\n\nC. Then demonstrates how to sharpen the knife and finishes by putting a metal rod in front of the plate of spaghetti that she just sharpened.\n- This option introduces an unnecessary element (spaghetti), and while sharpening aligns with the earlier actions, it deviates from the current focus on the tomato.\n\nD. Grabs a second knife and puts it in the appliance.\n- This action could suggest continuity in food preparation, but it doesn't build on the tomato slicing action directly.\n\nConsidering the context of slicing"
+    ],
+    "gold": "D",
+    "latency": 5.781689538009232
+  },
+  {
+    "id": null,
+    "prompt": "A man wearing a black clothes is sharpening the knife on a stone. The man beside him on blue long sleeves drawing something on the table with his finger. the man\n\nChoose the best ending:\nA. continues sharpening the knife and standing on the middle of the stone.\nB. turn the knife to sharpen the other side and then wipe it with paper towel.\nC. stops sharpening the knife and draws on the stone again.\nD. down retracts from the knife and starts sharpening the knife back up again.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To solve this problem, let's analyze the context and the actions of the characters involved:\n\n1. We have two men: one in black clothes sharpening a knife, and the other in blue long sleeves drawing on a table.\n2. The man in black is currently engaged in the action of sharpening the knife, which implies focus and intent on that task.\n3. The second man is drawing with his finger, which seems to be a separate activity that does not directly affect the first man's actions.\n\nNow, we need to determine which ending logically follows the scenario described:\n\nA. \"continues sharpening the knife and standing on the middle of the stone.\"\n- This suggests he remains focused on sharpening but does not indicate any change in action.\n\nB. \"turn the knife to sharpen the other side and then wipe it with paper towel.\"\n- This indicates a progression in his actions, showing that he is thorough in his task by sharpening both sides and cleaning it afterward.\n\nC. \"stops sharpening the knife and draws on the stone again.\"\n- This indicates a complete shift away from his current task, which seems unlikely as he is actively engaged in sharpening.\n\nD. \"down retracts from the knife and starts sharpening the knife back up again.\"\n- This wording is a bit awkward and does"
+    ],
+    "gold": "B",
+    "latency": 5.4809357119956985
+  },
+  {
+    "id": null,
+    "prompt": "A man is seen speaking to the camera while a shot of a person playing basketball shows behind. the man\n\nChoose the best ending:\nA. continues going around the basket while the camera is sitting in the back.\nB. continues to speak and leads into more clips of him playing tennis.\nC. pulls the ball up on the court while still speaking to the camera.\nD. continues speaking as more shots are shown of the boy playing basketball.\nRespond with A, B, C or D.\n\nLet's think step-by-step.\n",
+    "answers": [
+      "To determine the best ending for the scenario provided, let's analyze each option:\n\nA. \"continues going around the basket while the camera is sitting in the back.\" - This option suggests that the man is physically moving around the basketball court. However, since he is seen speaking to the camera, this might not fit well as it implies a transition away from him speaking.\n\nB. \"continues to speak and leads into more clips of him playing tennis.\" - This option introduces a new sport (tennis) which seems unrelated to the context of basketball being shown in the background. It does not maintain the focus on the current scene.\n\nC. \"pulls the ball up on the court while still speaking to the camera.\" - This option suggests an action related to basketball, but it implies that the man is both playing basketball and talking at the same time, which might be awkward as he is addressing the camera.\n\nD. \"continues speaking as more shots are shown of the boy playing basketball.\" - This option maintains the focus on the man speaking while allowing for the background action (the boy playing basketball) to continue. It keeps the context cohesive and engaging.\n\nAfter considering all options, the best ending that fits the scene described is D.\n\n#### D"
+    ],
+    "gold": "D",
+    "latency": 4.195205219992204
+  }
+]
