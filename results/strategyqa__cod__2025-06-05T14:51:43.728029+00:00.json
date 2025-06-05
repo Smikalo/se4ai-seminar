@@ -1,0 +1,1102 @@
+[
+  {
+    "id": null,
+    "prompt": "Are more people today related to Genghis Khan than Julius Caesar?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    "gold": true,
+    "latency": 0.4883271930011688
+  },
+  {
+    "id": null,
+    "prompt": "Could the members of The Police perform lawful arrests?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "Yes."
+    ],
+    "gold": false,
+    "latency": 1.735939642006997
+  },
+  {
+    "id": null,
+    "prompt": "Would a Monoamine Oxidase candy bar cheer up a depressed friend?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 2.6771621989901178
+  },
+  {
+    "id": null,
+    "prompt": "Would a dog respond to bell before Grey seal?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": true,
+    "latency": 1.3269403320009587
+  },
+  {
+    "id": null,
+    "prompt": "Is a pound sterling valuable?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    "gold": false,
+    "latency": 0.6035376799991354
+  },
+  {
+    "id": null,
+    "prompt": "Is shrimp scampi definitely free of plastic?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.6142208530072821
+  },
+  {
+    "id": null,
+    "prompt": "Do the anchors on Rede Globo speak Chinese?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No.",
+      "No.",
+      "No."
+    ],
+    "gold": false,
+    "latency": 0.6154330650024349
+  },
+  {
+    "id": null,
+    "prompt": "Will the Albany in Georgia reach a hundred thousand occupants before the one in New York?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.40914219999103807
+  },
+  {
+    "id": null,
+    "prompt": "Is a Boeing 737 cost covered by Wonder Woman (2017 film) box office receipts?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": true,
+    "latency": 0.5101027119962964
+  },
+  {
+    "id": null,
+    "prompt": "Is the language used in Saint Vincent and the Grenadines rooted in English?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    "gold": true,
+    "latency": 0.511240692998399
+  },
+  {
+    "id": null,
+    "prompt": "Can you buy Casio products at Petco?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No.",
+      "No.",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.5135384280001745
+  },
+  {
+    "id": null,
+    "prompt": "Did the Space Race use relay batons?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No.",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.5020972000056645
+  },
+  {
+    "id": null,
+    "prompt": "Are Christmas trees dissimilar to deciduous trees?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "Yes"
+    ],
+    "gold": true,
+    "latency": 0.4162800930062076
+  },
+  {
+    "id": null,
+    "prompt": "Does Biochemistry study gluons?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No.",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.5715737610007636
+  },
+  {
+    "id": null,
+    "prompt": "Did land owners elect their rulers in the Kingdom of Hungary?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No.",
+      "No."
+    ],
+    "gold": false,
+    "latency": 0.55438950099051
+  },
+  {
+    "id": null,
+    "prompt": "Would Nancy Pelosi publicly denounce abortion?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.6200562040030491
+  },
+  {
+    "id": null,
+    "prompt": "Does Dragon Ball shows and movies fall short of Friday 13th number of projects?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": true,
+    "latency": 0.7090778950077947
+  },
+  {
+    "id": null,
+    "prompt": "Would a student of the class of 2017 have amnesia about 9/11?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": true,
+    "latency": 0.6188945550093194
+  },
+  {
+    "id": null,
+    "prompt": "Is greed the most prevalent of the Seven Deadly Sins?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "It is subjective and can vary depending on the individual or situation.",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.608164477001992
+  },
+  {
+    "id": null,
+    "prompt": "Would a psychic who admits to hot reading be trustworthy?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.4147527000022819
+  },
+  {
+    "id": null,
+    "prompt": "Is average number of peas in a pod enough commas for a billion?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": true,
+    "latency": 0.6083322869963013
+  },
+  {
+    "id": null,
+    "prompt": "Does actress Leila George lack the height to be a model?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "Yes"
+    ],
+    "gold": false,
+    "latency": 0.5088319830101682
+  },
+  {
+    "id": null,
+    "prompt": "Is Dustin Hoffman one of the B'nei Yisrael?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No.",
+      "No",
+      "No"
+    ],
+    "gold": true,
+    "latency": 0.5641499420016771
+  },
+  {
+    "id": null,
+    "prompt": "If you were on a diet, would you have to skip lunch at McDonald's?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    "gold": false,
+    "latency": 0.45868052799778525
+  },
+  {
+    "id": null,
+    "prompt": "Could the Powerpuff Girls hypothetically attend the Camden Military Academy?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "Yes",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.5135401769948658
+  },
+  {
+    "id": null,
+    "prompt": "Would the top of Mount Fuji stick out of the Sea of Japan? \n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No.",
+      "No"
+    ],
+    "gold": true,
+    "latency": 0.7161953059985535
+  },
+  {
+    "id": null,
+    "prompt": "Would an uninsured person be more likely than an insured person to decline a CT scan?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    "gold": true,
+    "latency": 0.5090755310084205
+  },
+  {
+    "id": null,
+    "prompt": "Was the Donatello crucifix identified in 2020 life size?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    "gold": false,
+    "latency": 1.2324518609966617
+  },
+  {
+    "id": null,
+    "prompt": "Is Disneyland Paris the largest Disney resort?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.7140741600014735
+  },
+  {
+    "id": null,
+    "prompt": "Could someone with fine motor control issues benefit from an altered keyboard layout?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    "gold": true,
+    "latency": 0.40774466800212394
+  },
+  {
+    "id": null,
+    "prompt": "Would Adam Sandler get a reference to Cole Spouse and a scuba man doll?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": true,
+    "latency": 0.7192523810081184
+  },
+  {
+    "id": null,
+    "prompt": "Is there a warthog on Broadway?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": true,
+    "latency": 0.6095588729949668
+  },
+  {
+    "id": null,
+    "prompt": "Does Disney have an ice princess?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    "gold": true,
+    "latency": 1.2967544209968764
+  },
+  {
+    "id": null,
+    "prompt": "Would a geographer use biochemistry in their work?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.504219598005875
+  },
+  {
+    "id": null,
+    "prompt": "Could George Washington's own speeches have been recorded live to a compact disc?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.5428698120085755
+  },
+  {
+    "id": null,
+    "prompt": "Was Lil Jon's top ranked Billboard song a collaboration with a member of The Lox?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.522000251992722
+  },
+  {
+    "id": null,
+    "prompt": "Would food made with black salt smell of sulfur?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    "gold": true,
+    "latency": 0.6139851480111247
+  },
+  {
+    "id": null,
+    "prompt": "Would a broadcast from Spirit make the news in 2020?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "No"
+    ],
+    "gold": true,
+    "latency": 0.40822288900380954
+  },
+  {
+    "id": null,
+    "prompt": "Is Miami a city on the American West Coast?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No.",
+      "No",
+      "No."
+    ],
+    "gold": false,
+    "latency": 0.5125419280084316
+  },
+  {
+    "id": null,
+    "prompt": "Could Robert Wadlow hypothetically see Frankenstein's monster's bald spot from above?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    "gold": true,
+    "latency": 0.7150168789958116
+  },
+  {
+    "id": null,
+    "prompt": "Is the tibia necessary to win the Stanley Cup?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": true,
+    "latency": 0.5103501389967278
+  },
+  {
+    "id": null,
+    "prompt": "Would an ethics professor teach a class on Cezanne?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.5170297630102141
+  },
+  {
+    "id": null,
+    "prompt": "If you add water to rice pudding is it horchata?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.5086881239985814
+  },
+  {
+    "id": null,
+    "prompt": "Can the Swiss Guard fill the Virginia General Assembly chairs?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No.",
+      "No"
+    ],
+    "gold": false,
+    "latency": 1.020019385003252
+  },
+  {
+    "id": null,
+    "prompt": "If your skin was turning the color of a zombie, could it be because of nickel?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No."
+    ],
+    "gold": true,
+    "latency": 0.510725549000199
+  },
+  {
+    "id": null,
+    "prompt": "Would a Dolce & Gabbana suit wearer be shunned by their Amish cousins?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    "gold": true,
+    "latency": 0.6175346779928077
+  },
+  {
+    "id": null,
+    "prompt": "Is the Illuminati card game still popular?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "Yes",
+      "Yes"
+    ],
+    "gold": false,
+    "latency": 0.5067493240057956
+  },
+  {
+    "id": null,
+    "prompt": "Can a strawberry get worms similar to dogs?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": true,
+    "latency": 0.5022615759953624
+  },
+  {
+    "id": null,
+    "prompt": "Is Menthol associated with Thanksgiving?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.5203534339962061
+  },
+  {
+    "id": null,
+    "prompt": "Would someone in Mumbai refer to Solanum melongena as an eggplant?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    "gold": false,
+    "latency": 2.559551668004133
+  },
+  {
+    "id": null,
+    "prompt": "Is it okay to lie after taking an oath in a court of law?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.5113066720077768
+  },
+  {
+    "id": null,
+    "prompt": "Is art prioritized in the US education system?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.6153081319935154
+  },
+  {
+    "id": null,
+    "prompt": "While on a liquid diet, are there some types of soup you cannot eat?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "Yes",
+      "No"
+    ],
+    "gold": true,
+    "latency": 0.5132081970077707
+  },
+  {
+    "id": null,
+    "prompt": "Would it be impossible to use an Iwato scale for a twelve-tone technique composition?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": true,
+    "latency": 0.5115266549983062
+  },
+  {
+    "id": null,
+    "prompt": "Would the Titanic be well preserved at the bottom of the Gulf of Finland?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": true,
+    "latency": 0.7128072479972616
+  },
+  {
+    "id": null,
+    "prompt": "Could a dandelion suffer from hepatitis?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.5093430699926103
+  },
+  {
+    "id": null,
+    "prompt": "Did any country in Portuguese Colonial War share Switzerlands role in WWII?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No."
+    ],
+    "gold": true,
+    "latency": 0.5126828889915487
+  },
+  {
+    "id": null,
+    "prompt": "Would a week be enough time to watch every episode of Ugly Betty?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "Yes",
+      "No"
+    ],
+    "gold": true,
+    "latency": 0.5106940819969168
+  },
+  {
+    "id": null,
+    "prompt": "Would a Pict be confused by Old English?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "No",
+      "Yes"
+    ],
+    "gold": true,
+    "latency": 0.511342826008331
+  },
+  {
+    "id": null,
+    "prompt": "Was the Louisiana Purchase made with bitcoin?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.5085591990064131
+  },
+  {
+    "id": null,
+    "prompt": "Did Japanese serfdom have higher status than English counterpart?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No.",
+      "No",
+      "No"
+    ],
+    "gold": true,
+    "latency": 0.5150432759983232
+  },
+  {
+    "id": null,
+    "prompt": "Is the best tasting part of the papaya in the center?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.5098348900064593
+  },
+  {
+    "id": null,
+    "prompt": "Could Lil Wayne's children ride in a Chevrolet Corvette ZR1 together?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes."
+    ],
+    "gold": false,
+    "latency": 0.6204831840004772
+  },
+  {
+    "id": null,
+    "prompt": "Is double duty an incorrect phrase for host of Dancing With The Stars?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.6111654980049934
+  },
+  {
+    "id": null,
+    "prompt": "Could Lil Wayne legally operate a vehicle on his own at the beginning of his career?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    "gold": false,
+    "latency": 0.40781968999363016
+  },
+  {
+    "id": null,
+    "prompt": "Could an ocelot subsist on a single bee hummingbird per day?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.8156682420085417
+  },
+  {
+    "id": null,
+    "prompt": "Does Ukrainian Greek Catholic Church recognize Alexander Nevsky as a saint?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No.",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.5998454179934924
+  },
+  {
+    "id": null,
+    "prompt": "Was the original James Bond actor born near the Washington Monument?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.5278771760058589
+  },
+  {
+    "id": null,
+    "prompt": "Did J. P. Morgan have healthy lungs?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.6133433480135864
+  },
+  {
+    "id": null,
+    "prompt": "Would Firefighters be included in a September 11th memorial?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes.",
+      "Yes"
+    ],
+    "gold": true,
+    "latency": 0.5091570189979393
+  },
+  {
+    "id": null,
+    "prompt": "Does Andrew Johnson's presidential number exceed Elagabalus's Emperor number?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.61564009799622
+  },
+  {
+    "id": null,
+    "prompt": "Are any animals in Chinese calendar Chordata?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    "gold": true,
+    "latency": 0.6114419829973485
+  },
+  {
+    "id": null,
+    "prompt": "Would a hypothetical Yeti be towered over by Andre the Giant?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    "gold": true,
+    "latency": 0.6402952560019912
+  },
+  {
+    "id": null,
+    "prompt": "Are you likely to find a crucifix in Karachi?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No.",
+      "Yes",
+      "Yes"
+    ],
+    "gold": false,
+    "latency": 0.5978954599995632
+  },
+  {
+    "id": null,
+    "prompt": "Was The Little Prince's titular character allergic to flowers?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.5055792140046833
+  },
+  {
+    "id": null,
+    "prompt": "Was a person sold a Creative Commons License for Boticelli's The Birth of Venus ripped off?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No.",
+      "No",
+      "No"
+    ],
+    "gold": true,
+    "latency": 0.6052044870011741
+  },
+  {
+    "id": null,
+    "prompt": "Did Millard Fillmore help to establish the University of Pittsburgh?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No.",
+      "No.",
+      "No."
+    ],
+    "gold": false,
+    "latency": 0.6174175389896845
+  },
+  {
+    "id": null,
+    "prompt": "Does Northern fur seal make good pet for six year old?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.6128092489962
+  },
+  {
+    "id": null,
+    "prompt": "Would a pear sink in water?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "Yes",
+      "Yes"
+    ],
+    "gold": false,
+    "latency": 0.5148402619961416
+  },
+  {
+    "id": null,
+    "prompt": "WIll Noah's Ark hypothetically sail through flooded Lincoln Tunnel?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.4988000169978477
+  },
+  {
+    "id": null,
+    "prompt": "Can you write a whole Haiku in a single tweet?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    "gold": true,
+    "latency": 0.6253279539960204
+  },
+  {
+    "id": null,
+    "prompt": "Would you take a photo of a Saltwater crocodile in Memphis?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No."
+    ],
+    "gold": false,
+    "latency": 0.5112063289998332
+  },
+  {
+    "id": null,
+    "prompt": "Could Scooby Doo fit in a kangaroo pouch?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.5115413370076567
+  },
+  {
+    "id": null,
+    "prompt": "Do manta rays live in water above the safe temperature for cold food storage?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "No",
+      "No"
+    ],
+    "gold": true,
+    "latency": 0.6133757820061874
+  },
+  {
+    "id": null,
+    "prompt": "Is the kayak a traditional boat in New Zealand?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No.",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.6155371439963346
+  },
+  {
+    "id": null,
+    "prompt": "Has the Subway restaurant franchise had any connections with child abusers?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    "gold": true,
+    "latency": 0.5100555069948314
+  },
+  {
+    "id": null,
+    "prompt": "Would the high school class of 2010 have lived through the Presidency of Richard Nixon?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No.",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.716681983001763
+  },
+  {
+    "id": null,
+    "prompt": "Could ten gallons of seawater crush a six year old?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": true,
+    "latency": 1.0313312710059108
+  },
+  {
+    "id": null,
+    "prompt": "Would a Deacon be likely to be a fan of the podcast 'God Awful Movies'?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.8092368380021071
+  },
+  {
+    "id": null,
+    "prompt": "Could a giant squid fit aboard the deck of the titanic?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": true,
+    "latency": 0.6140396929986309
+  },
+  {
+    "id": null,
+    "prompt": "Do more anchovy live in colder temperature waters than warmer?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    "gold": false,
+    "latency": 0.6148056599922711
+  },
+  {
+    "id": null,
+    "prompt": "Is Antarctica a good location for Groundhog Day?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.4318666720064357
+  },
+  {
+    "id": null,
+    "prompt": "Can the Powerpuff Girls form a complete tag team wrestling match?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "Yes",
+      "Yes"
+    ],
+    "gold": false,
+    "latency": 0.595766212005401
+  },
+  {
+    "id": null,
+    "prompt": "Will someone die without white blood cells?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes",
+      "Yes"
+    ],
+    "gold": true,
+    "latency": 0.5004041889915243
+  },
+  {
+    "id": null,
+    "prompt": "Does rock star Keith Richards play a captain of a boat in a movie?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "Yes",
+      "Yes.",
+      "Yes"
+    ],
+    "gold": true,
+    "latency": 0.5120250710024266
+  },
+  {
+    "id": null,
+    "prompt": "Is 3D printing able to make adenovirus?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No."
+    ],
+    "gold": false,
+    "latency": 0.5123963660007576
+  },
+  {
+    "id": null,
+    "prompt": "Would an eleventh-grader be eligible for Medicare?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.5150051489908947
+  },
+  {
+    "id": null,
+    "prompt": "Is there a full Neptunian orbit between the first two burials of women in the Panth\u00e9on?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No",
+      "No."
+    ],
+    "gold": false,
+    "latency": 0.510037738000392
+  },
+  {
+    "id": null,
+    "prompt": "Will Oasis cruise boat traverse the Lincoln Tunnel?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No.",
+      "No"
+    ],
+    "gold": false,
+    "latency": 0.6135092020122102
+  },
+  {
+    "id": null,
+    "prompt": "Could Oscar Wilde have operated a motor vehicle?\n\nAnswer yes or no.\n\nAnswer:\n",
+    "answers": [
+      "No",
+      "No.",
+      "No."
+    ],
+    "gold": true,
+    "latency": 0.8188467260042671
+  }
+]
