@@ -1,3 +1,5 @@
 .env
 /.venv/
 /cod_vs_cot/.venv/
+/apr_vs_direct/.venv/
+/apr_vs_direct/old/.venv/
